@@ -1,0 +1,10 @@
+Tài xế kiện vì gãi đầu nhưng camera AI 'tưởng' nghe điện thoại 
+Hà Lan
+Sốc vì án phạt 400 USD với lỗi nói chuyện trên điện thoại di động khi đang lái xe, kỹ sư công nghệ Tim Hansen chứng minh camera thông minh bị lỗi và mình chỉ đang gãi đầu.
+Tháng 11 năm ngoái, Tim Hansen bị cảnh sát phạt vì cáo buộc nói chuyện trên điện thoại di động khi đang lái xe. Anh cho hay đã "rất sốc", vì không nhớ đã sử dụng điện thoại khi lái xe vào ngày đó. Do tò mò về bằng chứng, anh đã tra cứu bức ảnh kèm theo trên trang web của CJIB (Cơ quan Thu phí phạt hành chính Tư pháp Trung ương).
+Tim khi này mới nhận ra, mình không cầm bất cứ thứ gì trên tay mà thực chất chỉ đang gãi một bên đầu và máy quay đã nhầm vị trí của bàn tay là đang cầm điện thoại.
+Là chuyên gia làm việc trong lĩnh vực công nghệ thông tin, Tim Hansen quyết định tạo ra các thuật toán chỉnh sửa và phân tích hình ảnh, sử dụng kiến thức cá nhân của mình để giải thích cách hệ thống camera cảnh sát (Monocam) hoạt động và tại sao nó có thể mắc lỗi.
+Chuyên gia này cho hay các hệ thống như Monocam phải được đào tạo trên một bộ hình ảnh lớn được chia thành hai hoặc ba nhóm: bộ huấn luyện, bộ xác thực và bộ kiểm tra.
+Anh lý giải, camera cảnh sát có thể nghi ngờ rằng có một chiếc điện thoại vì tập dữ liệu huấn luyện chứa nhiều ví dụ về những người gọi với chiếc điện thoại ở tay cạnh tai, nhưng lại ít ảnh những người tay không gãi đầu. Nên camera cứ thấy ai đó đưa tay lên tai sẽ mặc định là người đó đang nghe điện thoại.
+Anh vừa nộp đơn phản đối mức phạt và mong đợi một kết quả tích cực, nhưng sẽ phải đợi tới 26 tuần để có phán quyết chính thức.
+Trường hợp của anh đã lan truyền ở Hà Lan và các nước lân cận như Bỉ, nơi một số tổ chức đang yêu cầu lắp đặt camera có khả năng phát hiện việc sử dụng điện thoại di động khi lái xe, nhưng câu chuyện của Tims chứng minh rằng chúng không đáng tin cậy 100%.

@@ -1,0 +1,12 @@
+Trí tuệ nhân tạo quản lý mạng lưới đường sắt cao tốc lớn nhất thế giới 
+Trung Quốc ứng dụng hệ thống AI xử lý một lượng lớn dữ liệu theo thời gian thực, giúp cảnh báo nhanh các đội bảo trì đường sắt cao tốc.
+Trung Quốc đang sử dụng một hệ thống trí tuệ nhân tạo (AI) ở Bắc Kinh để vận hành và bảo trì mạng lưới đường sắt cao tốc của nước này, Interesting Engineering hôm 12/3 đưa tin. 
+Với tổng chiều dài khoảng 45.000 km, Trung Quốc có mạng lưới đường sắt cao tốc lớn nhất hành tinh. 
+Hệ thống AI xử lý một lượng lớn dữ liệu trên khắp Trung Quốc theo thời gian thực, có thể cảnh báo các đội phụ trách bảo trì khi xảy ra tình huống bất thường trong vòng 40 phút với tỷ lệ chính xác lên tới 95%.
+Liu Daoan, kỹ sư cấp cao tại trung tâm kiểm tra cơ sở hạ tầng của Tập đoàn Đường sắt Nhà nước Trung Quốc, nhận xét rằng hệ thống hoạt động hiệu quả. "Hệ thống giúp các đội hoạt động tại chỗ tiến hành kiểm tra lại và sửa chữa nhanh nhất có thể", Daoan cho biết trong nghiên cứu đăng trên tạp chí chuyên ngành China Railway.
+Đường sắt cao tốc Trung Quốc nhanh hàng đầu thế giới, với tốc độ đang vận hành là 350 km/h và dự kiến tăng lên 400 km/h vào năm sau. Nước này dự định tiếp tục mở rộng mạng lưới đường sắt cho đến khi mọi thành phố với dân số trên 500.000 người đều kết nối với nhau.
+Với AI, số lỗi đường ray nhỏ trên các tuyến đường sắt cao tốc đang hoạt động ở Trung Quốc giảm 80% trong năm qua. Không tuyến nào trong số này phải nhận cảnh báo giảm tốc do các vấn đề đường ray nghiêm trọng. Nghiên cứu chỉ ra, biên độ dịch chuyển của đường ray do gió mạnh cũng giảm đáng kể nhờ AI.
+Mạng lưới đường sắt ở Mỹ đang phải đối mặt với những thách thức được dự đoán từ trước, khi việc bảo trì không đúng cách dẫn đến những nguy cơ thường trực về an toàn. Trong 50 năm qua, số lượng các vụ trật đường ray trung bình đã vượt quá 2.800 vụ mỗi năm.
+Hơn một thập kỷ trước, những nước như Đức và Thụy Sĩ lần đầu tiên công nhận khả năng ứng dụng AI vào quản lý đường sắt. Cả hai đều cố gắng sử dụng AI để cải thiện mạng lưới đường sắt của mình. Tuy nhiên, mạng lưới ở những nước này nhỏ hơn ở Trung Quốc.
+Để đào tạo hệ thống AI, các nhà khoa học Trung Quốc phải thu thập một lượng dữ liệu thô khổng lồ. Họ lấy dữ liệu từ những ghi chép về chuyển động của thân tàu, độ rung của đường ray, các giá trị dạng sóng và ghi chép khí tượng. Trước đây, trung tâm bảo trì đưa ra cảnh báo mỗi tuần một lần. Hiện tại, nhờ AI, báo cáo được phát hành hàng ngày.
+Thu Thảo (Theo Interesting Engineering)

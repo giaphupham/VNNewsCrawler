@@ -1,0 +1,14 @@
+Drone Nga gắn dây cáp để chống gây nhiễu 
+Nga gắn dây cáp cho drone thay vì điều khiển bằng tín hiệu vô tuyến, giúp nó không bị vô hiệu hóa bởi thiết bị gây nhiễu.
+Serhii Flesh, chuyên gia quân sự về lĩnh vực công nghệ vô tuyến ủng hộ Ukraine, ngày 7/3 đăng lên Telegram một thiết bị bay không người lái góc nhìn thứ nhất (drone FPV) của Nga, sau khi nó đã được tháo rời thành từng bộ phận.
+Ngoài các linh kiện thông thường, drone này còn được trang bị thêm một cuộn dây cáp quang rất mảnh, giúp người vận hành có thể điều khiển nó theo hình thức hữu tuyến thay vì qua tín hiệu vô tuyến, vốn rất dễ bị tác chiến điện tử đối phương can thiệp.
+"Đây là thứ chúng tôi chưa từng nhìn thấy bao giờ: một chiếc drone FPV bay về phía mục tiêu với cuộn cáp quang dài 10 km. Sợi cáp được drone rải dần trong khi bay. Đây là công nghệ điều khiển drone FPV mới", Flesh bình luận.
+Việc sử dụng kết nối dây giúp drone FPV Nga "miễn nhiễm" trước các hệ thống gây nhiễu, "khắc tinh" của các dòng thiết bị không người lái.
+Phương pháp này cũng cho phép drone có thể truyền tín hiệu hình ảnh về một cách ổn định và với chất lượng cao hơn so với kết nối không dây, giúp lực lượng Nga có thể điều khiển nó tập kích đối phương chính xác và hiệu quả hơn.
+Kết nối dây cũng giúp lực lượng Nga không gặp phải hiện tượng "đường chân trời vô tuyến", trong đó tín hiệu giữa drone và người điều khiển thường bị mất khi nó lao xuống mục tiêu ở vài mét cuối cùng.
+Theo Flesh, Bộ Quốc phòng Ukraine hồi tháng 1 từng nhận được đề xuất về việc ứng dụng công nghệ kết nối có dây cho drone FPV, khi tổ chức một cuộc thi dành cho giới công nghệ nhằm mục đích thu hút các sáng kiến mới cho lĩnh vực thiết bị không người lái.
+Tuy nhiên, ý tưởng này khi đó không được ủng hộ, do giới chức Ukraine cho rằng sợi cáp rất dễ bị đứt trong quá trình bay. Defense Express cũng nhận định việc sử dụng kết nối dây sẽ hạn chế khả năng cơ động của chiếc drone khi tập kích mục tiêu.
+Flesh cho biết chiếc drone của Nga đã được chuyển cho đơn vị trinh sát "Những cánh chim Magyar" để nghiên cứu và viết báo cáo phân tích kỹ thuật chi tiết. "Tôi cũng đang nhờ các chuyên gia người Ukraine kiểm tra công nghệ này để đảm bảo chúng ta không bị tụt hậu trước kẻ thù", Flesh cho hay.
+Điều khiển vũ khí bằng kết nối có dây là công nghệ mới trong lĩnh vực thiết bị không người lái, song đã được ứng dụng từ lâu trên nhiều loại tên lửa chống tăng (ATGM), từ các dòng cũ sản xuất dưới thời Liên Xô cho đến các phiên bản hiện đại thuộc thế hệ thứ 4.
+Một trong số đó là dòng Spike-ER do Israel sản xuất. Mẫu ATGM này có thể bắn trúng mục tiêu ở khoảng cách tối đa 10 km bằng cách sử dụng sợi dây mảnh gắn ở phần đuôi để kết nối với trắc thủ.
+Phạm Giang (Theo Militarnyi, Defense Express, AFP)
