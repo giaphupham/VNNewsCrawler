@@ -1,0 +1,18 @@
+Mã độc VajraSpy là một loại trojan có khả năng hỗ trợ kiểm soát thiết bị từ xa. Loại mã độc này thường được sử dụng để đánh cắp dữ liệu cá nhân, bao gồm danh bạ, tin nhắn, thậm chí là các tập tin ghi âm trên điện thoại.
+Mã độc VajraSpy là một loại trojan có khả năng hỗ trợ kiểm soát thiết bị từ xa (Ảnh minh họa).
+Chưa dừng lại, các ứng dụng độc hại còn có thể nghe lén các cuộc trò chuyện của người dùng, tự ý kích hoạt camera và biến chiếc smartphone trở thành một công cụ giám sát từ xa.
+Danh sách chi tiết 12 ứng dụng độc hại này bao gồm:
+- Rafaqat
+- Privee Talk
+- MeetMe
+- Let's Chat
+- Quick Chat
+- Chit Chat
+- Hello Chat
+- YohooTalk
+- TikTalk
+- Nidus
+- GlowChat
+- Wave Chat
+Đến nay, các phần mềm độc hại này đã bị xóa khỏi kho ứng dụng Google Play. Tuy nhiên, chúng vẫn tồn tại trên nhiều cửa hàng ứng dụng của bên thứ ba và được ngụy trang dưới các ứng dụng nhắn tin hoặc tin tức.
+Các chuyên gia khuyến cáo người dùng không nên tải xuống những ứng dụng không rõ nguồn gốc. Đồng thời, người dùng cũng nên bật công cụ Google Play Protect để hạn chế khả năng tấn công của các ứng dụng độc hại trên nền tảng này.

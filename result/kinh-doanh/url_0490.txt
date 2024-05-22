@@ -1,0 +1,36 @@
+Công ty chứng khoán VNDirect (mã chứng khoán: VND) và Tổng Công ty cổ phần Bảo hiểm Bưu điện (PTI) đều công bố bị tấn công mạng cùng vào lúc 10h sáng chủ nhật (24/3). Sự việc kéo dài đến chiều 25/3 nhưng hệ thống VNDirect và website PTI chưa thể khôi phục bình thường. Cả 2 doanh nghiệp đều thông tin đang trong quá trình khắc phục, kết nối trở lại.
+Tấn công mạng đang ngày càng trở nên phổ biến trong lĩnh vực tài chính toàn cầu. Theo Báo cáo tổn thất do tấn công mạng được IBM công bố năm 2023, lĩnh vực tài chính đang đứng thứ hai về thiệt hại do sự cố mạng toàn cầu, chỉ sau ngành chăm sóc sức khỏe.
+2 lần nền tảng tài chính lớn phố Wall bị gián đoạn 
+Ngay đầu năm nay, nền tảng cho vay cổ phiếu EquiLend của Mỹ đã phát hiện hành vi truy cập trái phép vào hệ thống của mình. Các giao dịch của công ty này bị gián đoạn trong gần hai tuần.
+Chia sẻ với CNN, người phát ngôn của FS-ISAC, cơ quan gồm các tổ chức tài chính lớn trên toàn cầu cùng chia sẻ thông tin an ninh mạng, cho biết vụ việc đã ảnh hưởng đến một số dịch vụ cho vay cổ phiếu tự động của EquiLend, buộc các doanh nghiệp phải điều chỉnh bằng cách chuyển sang quy trình thủ công.
+EquiLend hiện thuộc sở hữu của một loạt ông lớn tài chính phố Wall, gồm Goldman Sachs, JPMorgan, BlackRock và Bank of America. EquiLend là một mắt xích quan trọng trong ngành cho vay cổ phiếu, mỗi tháng xử lý hơn 2.400 tỷ USD giao dịch.
+Các quỹ phòng hộ và nhà đầu tư khác thường vay cổ phiếu của những công ty như EquiLend để bán khống cổ phiếu.
+Theo hãng tin Reuters, sự cố an ninh mạng xảy ra chỉ vài ngày sau khi hãng tài chính Welsh, Carson, Anderson & Stowe (WCAS) đồng ý mua phần lớn cổ phần của EquiLend.
+Mạng lưới bị ngắt kết nối, phải xử lý giao dịch bằng USB
+Cuối năm ngoái, Ngân hàng Công thương Trung Quốc (ICBC) cũng đã bị hacker tấn công, gây tổn thất lớn, khiến ngân hàng lớn nhất thế giới phải xử lý các giao dịch bằng USB.
+ICBC Financial Services (ICBCFS), đơn vị của ngân hàng tại Mỹ, cho biết ngân hàng đã bị tấn công bằng mã độc tống tiền gây ra gián đoạn ở một số hệ thống giao dịch nhất định.
+Ngay sau đó, ICBC đã khống chế tình hình bằng cách ngắt kết nối các bộ phận bị ảnh hưởng để hạn chế tác động từ cuộc tấn công. Sau khi bị hack, ngân hàng buộc phải gửi các yêu cầu giao dịch tới các bên liên quan bằng USB và phương thức thủ công.
+Cuối cùng, tất cả giao dịch trái phiếu được thực hiện vào ngày trước đó và các giao dịch ở thời điểm xảy ra vụ việc đều bị xóa. Bên cạnh đó, những người tham gia thị trường trái phiếu cho biết tính thanh khoản trên thị trường cũng bị ảnh hưởng.
+ICBC bị hacker tấn công và phải xử lý các giao dịch bằng USB (Ảnh: Cyber News).
+Nghi phạm chính được cho là một nhóm hacker có tên LockBit gây ra. Theo Cơ quan An ninh Cơ sở hạ tầng và An ninh Mạng Mỹ (CISA), kể từ khi được phát hiện vào năm 2020, nhóm này đã tấn công 1.700 tổ chức của Mỹ trong hầu hết lĩnh vực từ dịch vụ tài chính và thực phẩm đến trường học, giao thông vận tải và các cơ quan chính phủ.
+Nhóm tội phạm khét tiếng cũng từng có liên quan đến các vụ tấn công nhằm vào hãng sản xuất máy bay Boeing của Mỹ và công ty bưu điện Royal Mail của Anh trước đây.
+Vụ tấn công mạng khiến ICBCFS tạm thời nợ Ngân hàng New York Mellon (Mỹ) 9 tỷ USD do các giao dịch không được giải quyết, khiến ICBC phải bơm vốn vào đơn vị này để giải quyết các giao dịch.
+"Đây thực sự là một cú sốc với các ngân hàng lớn trên toàn thế giới. Việc ICBC bị hack sẽ buộc một loạt ngân hàng lớn trên toàn cầu phải chạy đua với thời gian để cải thiện tính bảo mật, bắt đầu từ hôm nay", Marcus Murray, nhà sáng lập công ty an ninh mạng Truesec của Thụy Điển chia sẻ với Bloomberg.
+Tuy các nguồn tin thị trường khẳng định tác động của vụ hack không quá lớn, nhưng sự cố này báo hiệu mức độ dễ bị tổn thương của các hệ thống thuộc những tổ chức lớn như ICBC. Nhiều khả năng những tổ chức này sẽ tiếp tục là mục tiêu của tội phạm mạng.
+Vụ việc có thể đặt ra câu hỏi về các biện pháp kiểm soát an ninh mạng của những bên tham gia thị trường và khiến cơ quan quản lý phải tăng cường giám sát.
+Công ty chứng khoán bị đánh cắp hàng triệu thông tin khách hàng 
+Tháng 11/2021, Robinhood, nền tảng giao dịch chứng khoán trực tuyến của Mỹ, đã bị tấn công. Robinhood cho biết tin tặc đã đánh cắp hơn 5 triệu địa chỉ email và 2 triệu tên khách hàng. Bên cạnh đó, chúng cũng lấy đi một tệp dữ liệu nhỏ chứa các thông tin chi tiết hơn về khách hàng.
+Theo bài đăng của Robinhood, qua điện thoại, một tin tặc đã giả danh đại diện dịch vụ khách hàng để có quyền truy cập vào hệ thống hỗ trợ khách hàng, từ đó thực hiện hành vi tội phạm.
+Họ khẳng định số tài khoản ngân hàng và thẻ ngân hàng của khách hàng không bị lộ, không gây ảnh hưởng tài chính. Sau đó, tin tặc còn tìm cách tống tiền Robinhood. Tuy nhiên, nền tảng giao dịch chứng khoán trực tuyến này đã báo cảnh sát và liên hệ công ty an ninh mạng Mandiant nhờ hỗ trợ.
+Robinhood cho biết tin tặc đã đánh cắp hơn 5 triệu địa chỉ email và 2 triệu tên khách hàng (Minh họa: CA).
+Upstox, công ty môi giới chứng khoán lớn thứ hai của Ấn Độ theo số lượng khách hàng, bị tấn công mạng vào tháng 4/2021. Thông tin liên hệ của 2,5 triệu khách hàng đã bị đánh cắp, theo Times of India
+Tin tặc yêu cầu khoản tiền chuộc 1,2 triệu USD để không công khai toàn bộ dữ liệu lên mạng. Upstox cho biết cổ phiếu và tiền của khách hàng đều an toàn và công ty đã tăng cường bảo mật tại các máy chủ.
+Năm 2020, website của sàn chứng khoán New Zealand cũng bị tấn công nặng đến nỗi cơ quan này không thể thông báo những thông tin quan trọng nhất tới thị trường. Sau đó phát hiện ra rằng hơn 100 ngân hàng, sàn giao dịch, công ty bảo hiểm và nhiều công ty tài chính khác trên thế giới đã trở thành mục tiêu tấn công DDoS tại cùng 1 thời điểm.
+DDoS là phương thức tấn công mạng phổ biến mà tin tặc thường sử dụng. Hệ thống của doanh nghiệp sẽ bị tấn công với lưu lượng truy cập từ nhiều máy chủ ở những nơi khác nhau, dẫn tới gián đoạn dịch vụ mạng và cạn kiệt tài nguyên.
+Nâng cao cảnh giác với tin tặc
+Khảo sát do Quỹ Tiền tệ Quốc tế thực hiện tại 51 quốc gia vào năm 2023 cho thấy 56% ngân hàng trung ương hoặc cơ quan giám sát không có chiến lược an ninh mạng quốc gia cho lĩnh vực tài chính.
+Các chuyên gia đồng tình rằng các định chế tài chính cần đầu tư vào mô phỏng tấn công mạng, kiểm tra sức chịu đựng của hệ thống, lập kế hoạch dự phòng và ứng phó với khủng hoảng.
+Ông Steve Stone, nhà quản lý cấp cao tại công ty an ninh Rubrik, nhấn mạnh các công ty tài chính cần đánh giá lượng dữ liệu mà họ nắm giữ, đánh giá rủi ro hoạt động để có phương án tốt nhất chống lại các mối đe dọa.
+Các chuyên gia cũng nói rằng sự hợp tác của toàn ngành tài chính và việc tăng cường các quy định sẽ đóng vai trò quan trọng giúp doanh nghiệp chống chọi nguy cơ bị tấn công mạng.
+"Chúng ta phải chú trọng đến việc thu thập và chia sẻ thông tin tình báo để bắt kịp các kỹ thuật mà những đối tượng tội phạm sử dụng", ông Jim Simpson, giám đốc công ty an ninh mạng Searchlight Cyber, chia sẻ với Financial Times.
+Chuyên gia cũng khuyến nghị các tổ chức tài chính nên giải quyết những điểm yếu trong toàn bộ chuỗi cung ứng, bao gồm các nhà cung cấp phần mềm hoặc kho dữ liệu bên thứ ba.

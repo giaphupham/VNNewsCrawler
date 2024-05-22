@@ -1,0 +1,6 @@
+Apple Lossless Audio Codec (ALAC) là một định dạng mã hóa tệp tin âm thanh được phát triển bởi Apple. Định dạng này ra mắt vào năm 2004, cho phép nén các tệp tin nhạc kỹ thuật số mà không mất dữ liệu.
+Hàng triệu smartphone Android có thể đã bị tấn công thông qua lỗ hổng này (Ảnh: Tom's Guide).
+Cuối năm 2011, Apple đã phát hành mã nguồn mở của định dạng này. Từ đó, ALAC được tích hợp lên nhiều nền tảng và thiết bị khác nhau, bao gồm cả smartphone Android hay những chiếc máy tính Windows. Trong nhiều năm, Apple đã cải tiến và sửa lỗi cho định dạng ALAC của họ. Tuy nhiên, phiên bản mà các nhà sản xuất bên thứ ba sử dụng vẫn chưa được cập nhật kể từ năm 2011.
+Theo các nhà nghiên cứu tại Check Point Research, hai nhà sản xuất chip di động lớn nhất thế giới là Qualcomm và MediaTek đã tích hợp định dạng ALAC này vào bộ giải mã âm thanh của họ. Những con chip đó cũng đã được sử dụng trên hơn một nửa số điện thoại thông minh toàn cầu.
+Lợi dụng lỗ hổng này, kẻ xấu có thể thực hiện tấn công thiết bị từ xa. Tin tặc cũng có thể chiếm quyền kiểm soát dữ liệu đa phương tiện trên thiết bị, thậm chí là truy cập vào camera của máy bị xâm nhập.
+Cả Qualcomm và MediaTek đều đã tung ra bản vá để khắc phục lỗ hổng trên từ tháng 12/2021. Tuy vậy, theo Check Point Research, khoảng 67% smartphone Android có thể đã bị tấn công thông qua lỗ hổng này.

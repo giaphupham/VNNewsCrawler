@@ -1,0 +1,7 @@
+Trong một thông báo mới đây, Intel cho biết công ty sẽ hợp tác cùng Microsoft để sản xuất chip trên tiến trình 18A. CEO Microsoft Satya Nadella cho biết quá trình chuyển đổi nền tảng sẽ thúc đẩy tăng năng suất của mọi tổ chức, cũng như toàn bộ ngành.
+Intel đã có bước chuyển mình quan trọng trong cuộc đua với các nhà sản xuất chip hàng đầu khác (Ảnh: Reuters).
+Thông báo trên được Intel công bố tại sự kiện ra mắt Intel Foundry, mảng kinh doanh gia công chip theo hệ thống để phục vụ cho kỷ nguyên AI. Hãng cũng công bố lộ trình mở rộng tiến trình sản xuất nhằm thiết lập vị thế so với các đối thủ.
+"AI đang thay đổi thế giới và cách chúng ta định nghĩa về công nghệ cũng như chất bán dẫn để hỗ trợ sức mạnh ngược lại cho chính AI. Điều này đã mang đến cơ hội chưa từng có cho những nhà thiết kế chip và Intel Foundry", ông Pat Gelsinger, CEO của Intel, chia sẻ.
+Intel cũng xác nhận rằng kế hoạch 4 năm, 5 tiến trình của hãng vẫn theo đúng lộ trình và sẽ cung cấp giải pháp cấp điện cho chip từ mặt dưới đầu tiên trong ngành. Các lãnh đạo của công ty kỳ vọng Intel sẽ lấy lại vị thế dẫn đầu về tiến trình với Intel 18A vào năm 2025.
+Hiện tại, Microsoft chưa tiết lộ con chip mới do công ty thiết kế sẽ được sử dụng với mục đích gì. Với thương vụ này, Intel dự kiến đạt doanh thu 15 tỷ USD cho các đơn đặt hàng.
+Ngoài ra, Intel cũng cho biết công ty có 4 khách hàng lớn đặt hàng sản xuất chip trên tiến trình 18A, nhưng không tiết lộ tên. Động thái trên cũng đánh dấu bước chuyển mình quan trọng của Intel trong cuộc đua với các nhà sản xuất chip hàng đầu khác.

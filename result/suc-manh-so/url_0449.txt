@@ -1,0 +1,7 @@
+Pin lithium-ion hiện được sử dụng trong hàng loạt thiết bị công nghệ như điện thoại thông minh, máy tính xách tay hay máy tính bảng. Chúng có ưu điểm về tuổi thọ lâu dài và cung cấp hiệu suất năng lượng tối ưu. Tuy vậy, tuổi thọ của những viên pin lithium-ion sẽ giảm xuống sau nhiều chu kỳ sạc và xả.
+Tính năng giới hạn sạc pin ở mức 80% được Apple tích hợp trên dòng sản phẩm iPhone 15 (Ảnh: Cultofmac).
+Trên dòng sản phẩm iPhone 15, Apple đã tích hợp tính năng giới hạn sạc pin ở mức 80%. Apple đang áp dụng "quy tắc 40-80", nhằm gia tăng tuổi thọ của pin lithium-ion trên những chiếc iPhone 15.
+Theo Cultofmac, việc sạc loại pin này ở mức dung lượng 40-80% sẽ mang lại tuổi thọ tốt nhất. Quy tắc trên không chỉ áp dụng cho iPhone, mà còn phù hợp với mọi thiết bị sử dụng pin lithium-ion.
+Để sử dụng tính năng này trên dòng sản phẩm iPhone 15, người dùng có thể truy cập vào phần Cài đặt -> Pin -> Tình trạng pin & sạc -> Tối ưu hóa sạc pin -> Giới hạn 80%.
+Tuy vậy, việc giới hạn dung lượng sạc pin ở mức 80% cũng sẽ gây ra một số phiền phức đối với người dùng. Trước hết, bạn đã mất đi tối thiểu 20% tổng dung lượng pin của thiết bị.
+Với những người dùng có nhu cầu sử dụng cơ bản, điều này có thể không quá ảnh hưởng. Tuy vậy, nếu thường xuyên dùng iPhone để chơi game, nghe nhạc hay xem video, tính năng này có thể sẽ khiến thiết bị của bạn không đủ năng lượng để đáp ứng nhu cầu sử dụng.

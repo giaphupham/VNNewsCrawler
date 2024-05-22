@@ -1,0 +1,23 @@
+Khi bắt đầu sử dụng ChatGPT, tiểu thuyết gia Douglas Preston đã đưa ra một thách thức cho phần mềm: Liệu AI có thể viết một bài thơ dựa trên một nhân vật trong một số cuốn sách của ông không?
+"Một bài thơ tuyệt vời đã ra đời", Preston nhớ lại, nói kết quả thật ấn tượng song cũng đáng lo ngại. 
+"Điều thực sự làm tôi ngạc nhiên là AI biết nhiều về nhân vật này đến mức nào? nhiều hơn những gì nó có thể thu thập từ Internet", Preston nói.
+Ông nghi ngờ phần mềm chatbot bằng cách nào đó đã sao chép công việc của mình, bằng cách thu thập dữ liệu rồi tổng hợp thành nội dung có vẻ nguyên bản.
+"Đó là một cảm giác rất đáng lo ngại, không khác gì khi bạn về nhà và phát hiện có ai đó đã vào nhà bạn và lấy đi mọi thứ", Preston nói.
+Những lo lắng đó đã khiến Preston ký đơn kiện chống lại OpenAI - công ty đứng sau ChatGPT. 
+George R.R. Martin - tác giả "Game of Thrones" - đã tham gia vụ kiện ChatGPT (Ảnh: AP).
+Ngoài Preston, một loạt tác giả tên tuổi lớn khác cũng tham gia vụ kiện, gồm: John Grisham, Jonathan Franzen, Jodi Picoult và George R.R. Martin - tác giả Game of Thrones nổi tiếng.
+Trước đó, ChatGPT đã trích dẫn một số câu từ tiểu thuyết A Song of Ice and Fire của George R.R. Martin. Các bản cập nhật gần đây của ứng dụng đã loại bỏ chức năng này, nhưng ChatGPT vẫn có thể cung cấp các bản tóm tắt và sản phẩm phái sinh.
+Người phát ngôn của OpenAI cho biết công ty tôn trọng quyền tác giả và tin rằng các tác giả nên "được hưởng lợi từ công nghệ AI".
+"Chúng tôi đang có những cuộc trò chuyện với nhiều người sáng tạo trên khắp thế giới, bao gồm Hiệp hội Tác giả Mỹ (Authors Guild), đồng thời hợp tác làm việc để hiểu và thảo luận mối quan ngại của họ về AI", người phát ngôn nói. 
+OpenAI tin rằng sẽ tìm ra giải pháp hợp tác cùng có lợi với các tác giả, giúp họ sử dụng công nghệ mới trong hệ sinh thái nội dung phong phú. 
+Tuy nhiên, trên thực tế, ngành xuất bản đang phải lùi bước khi đối mặt với sự phát triển bùng nổ của ChatGPT. Bất kỳ ai đều có khả năng tạo ra các tác phẩm của riêng mình. 
+Ngoài vụ kiện của Preston, nhiều nhóm tác giả khác cũng đang theo đuổi vụ kiện tập thể chống lại OpenAI.
+Vụ kiện mà Preston tham gia, trong đó có 17 thành viên Hiệp hội Tác giả Mỹ, tuyên bố OpenAI đã sao chép tác phẩm "không được phép" để đào tạo các chương trình cạnh tranh nhằm giành thời gian và tiền bạc của độc giả.
+Các nguyên đơn yêu cầu bồi thường thiệt hại do họ bị mất cơ hội cấp phép và "chiếm đoạt thị trường", cũng như lệnh cấm chống lại những hành vi như vậy trong tương lai.
+Nhà văn Douglas Preston lo ngại về kết quả của thử thách mà ông đặt ra cho ChatGPT (Ảnh: Getty).
+Preston nói về OpenAI: "Họ không xin phép chúng tôi và cũng không đền bù cho chúng tôi. Những gì họ đã làm là tạo ra một sản phẩm thương mại rất có giá trị có thể tái tạo giọng văn của chúng tôi. Về cơ bản, đó là hành vi trộm cắp công trình sáng tạo trên quy mô lớn". 
+Đồng thời, các tác giả phỏng đoán OpenAI lấy văn bản từ các trang web vi phạm bản quyền, cho thấy sự tinh ranh trong việc khai thác tài liệu.
+Trong một tuyên bố gửi Văn phòng Bằng sáng chế và Thương hiệu Hoa Kỳ được trích dẫn trong vụ kiện của Hiệp hội Tác giả Mỹ, OpenAI cho biết các hệ thống AI hiện đại đôi khi được đào tạo trên các bộ dữ liệu có sẵn công khai, bao gồm các tác phẩm có bản quyền.
+OpenAI lập luận rằng việc đào tạo phần mềm trí tuệ nhân tạo về các tác phẩm có bản quyền "không gây tổn hại đến thị trường hoặc giá trị của các tác phẩm có bản quyền" vì các tác phẩm đó được phần mềm sử dụng chứ không phải người thật.
+Bên cạnh con đường pháp lý, các bên liên quan đã đưa ra giải pháp tài chính cho sự căng thẳng này.
+"Chúng tôi đang cố gắng thuyết phục OpenAI cùng thảo luận một cách thiện chí. Chúng tôi không hề phản đối AI, nhưng đây không phải là trò chơi có tổng bằng 0", Preston ẩn ý. 

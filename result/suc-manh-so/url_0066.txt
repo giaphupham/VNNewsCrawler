@@ -1,0 +1,11 @@
+Báo cáo từ Cục An toàn thông tin, Bộ Thông tin và Truyền thông (TT&TT), cho biết thời gian gần đây xuất hiện tình trạng tội phạm sử dụng các loại mã độc đánh cắp thông tin, mã hóa dữ liệu của người dùng để chiếm đoạt tài sản.
+Người dân tuyệt đối không truy cập vào các đường link lạ hoặc cài các ứng dụng từ trang web, cổng thông tin bên ngoài (Ảnh: Tom's Guide).
+Trong đó, vấn nạn lừa đảo thông qua các ứng dụng giả mạo liên tục tăng cao vào giai đoạn cuối năm.
+Mới đây, Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao (PA05), Công an TPHCM, cho biết đơn vị đã ghi nhận một nạn nhân của chiêu trò trên.
+Theo trình báo của chị P. đến công an quận 1 (TPHCM), một đối tượng đã giả danh công an phường 10 và đề nghị chị lên phường để cập nhật số điện thoại chính chủ cho CCCD trên hệ thống VNeID. 
+Tiếp đó, đối tượng hướng dẫn chị P. truy cập vào đường link có đuôi .gov.vn để tải ứng dụng của Bộ Công an. Vì tin tưởng đường link có đuôi .gov.vn là của cơ quan nhà nước, chị P. đã thực hiện theo yêu cầu và tạo cơ hội cho đối tượng cài mã độc vào thiết bị. Sau đó, nạn nhân đã bị chiếm đoạt số tiền gần 40 triệu đồng.
+Có thể thấy, các đối tượng lừa đảo đã sử dụng những câu chuyện được ngụy trang một cách hợp lý và bài bản, từ đó dẫn dụ nạn nhân cài đặt ứng dụng có chứa mã độc.
+Đáng nói, kẻ gian đã lợi dụng lỗ hổng trên một số trang web có đuôi .gov.vn hay .com.vn để cài ứng dụng chứa mã độc. Mục đích là để nạn nhân tải về và chiếm quyền điều khiển trên thiết bị.
+Mã độc này có thể chứa các tính năng không cho phép người dùng gỡ cài đặt nó. Trong một số trường hợp, để có thể loại bỏ mã độc này, nạn nhân sẽ phải khôi phục cài đặt gốc cho điện thoại của mình.
+Trước thực trạng trên, Cục An toàn thông tin khuyến cáo người dân tuyệt đối không truy cập vào các đường link lạ hoặc cài các ứng dụng từ trang web, cổng thông tin bên ngoài.
+Bên cạnh đó, người dân cần thường xuyên nâng cấp hệ điều hành điện thoại, bật chức năng Google Play Protect đối với smartphone chạy hệ điều hành Android và sử dụng phần mềm diệt virus có bản quyền.

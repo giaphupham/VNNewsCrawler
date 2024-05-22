@@ -1,0 +1,21 @@
+Ngày nay, trí tuệ nhân tạo (AI) đang tồn tại và phát triển ở nhiều nước. AI được sử dụng trong tất cả các lĩnh vực và ngành công nghiệp khác nhau. Mặc dù có một số lo ngại rằng AI có thể thay thế con người trong công việc, nhưng trang Forbes vừa công bố 5 lĩnh vực sẽ cần nhân sự trong năm 2024.
+Trong năm 2024, chuyên gia dự báo một số công việc liên quan đến AI sẽ giúp người lao động có thu nhập rất cao (Ảnh minh họa: Dolab).
+Kỹ sư máy học
+Kỹ sư máy học (machine learning engineer) là một công việc có mức lương 125.000-201.000 USD/năm (khoảng 3-4,9 tỷ đồng). Công việc này là tạo kế hoạch chi tiết cho phần mềm AI, đóng vai trò lớn trong việc thiết kế, phát triển và tối ưu hóa các mô hình, thuật toán cho máy học.
+Nhân sự ngành này có nhiệm vụ phối hợp với các nhà khoa học dữ liệu, kỹ sư phần mềm và kiến trúc sư AI để phát triển các giải pháp hiệu quả, mở rộng. Đồng thời, kỹ sư máy học phải đảm bảo AI có thể học nhanh các hệ thống phù hợp để tối ưu hóa tính năng phục vụ con người.
+Kỹ sư dữ liệu
+Kỹ sư dữ liệu có thu nhập dao động từ 106.000 đến 162.000 USD/năm (khoảng 2,5-3,9 tỷ đồng). Người làm nghề này sẽ xây dựng hệ thống để các tổ chức có thể lưu trữ, truy cập vào nguồn dữ liệu. Đồng thời, hệ thống ấy cũng là nguồn để các máy học AI xử lý dữ liệu đúng cách.
+Khi AI trở nên tốt hơn trong việc tiếp nhận các nguồn dữ liệu, nó cũng sẽ tối ưu hóa được các khía cạnh về con người.
+Ngoài mức lương hậu hĩnh, công việc liên quan đến AI cũng đòi hỏi tay nghề và trách nhiệm cao (Ảnh minh họa: Canva).
+Nghiên cứu robot
+Với công việc nghiên cứu robot, các nhà khoa học sẽ nhận được đãi ngộ từ 116.000 đến 188.000 USD/năm (khoảng 2,8-4,5 tỷ đồng).
+Họ là những người nắm giữ sự kết nối giữa AI và robot. Nhà nghiên cứu robot sẽ tận dụng các kỹ thuật AI để nâng cao tính thông minh và tính tự chủ của các hệ thống này.
+Thực tế, nhà nghiên cứu sẽ tạo ra robot dành cho các máy móc, phần mềm thực tế, giúp con người cải thiện hệ thống, thực hiện mọi việc nhanh và tiết kiệm tài nguyên. Với tốc độ phát triển của công nghệ hiện tại, vẫn chưa ai biết được khi nào các nhà khoa học sẽ tạo ra được robot có chức năng nhận thức, suy luận và hành động giống hệt con người.
+Giám đốc đảm bảo chất lượng AI
+Người phụ trách quản lý chất lượng của AI có thể được trả thù lao từ 95.000 đến 151.000 USD/năm (2,3-3,6 tỷ đồng). Ở công việc này, giám đốc đảm bảo chất lượng sẽ tham gia vào công đoạn thiết kế, thử nghiệm để giải quyết các lỗi, chức năng của các mô hình và thuật toán AI.
+Qua sự phối hợp cùng kỹ sư dữ liệu, nhà phát triển phần mềm và nhóm đảm bảo chất lượng từ các bộ phận khác, nhân sự phải đảm bảo hệ thống AI vận hành trơn tru.
+Trong tương lai, AI có thể khiến một số ngành nghề bị thay thế và cũng sẽ tạo ra nhiều công việc mới (Ảnh minh họa).
+Cán bộ đạo đức AI
+Người làm công việc này có thể được trả 95.000-166.000 USD/năm (khoảng 2,3-4 tỷ đồng). Cán bộ đạo đức AI có nhiệm vụ bảo vệ các công cụ và hệ thống AI để đảm bảo chúng được phát triển, triển khai và sử dụng một cách có trách nhiệm, đạo đức.
+Họ thường cộng tác với các bên liên quan từ các nhóm chức năng chéo để thiết lập chính sách và quy trình phù hợp để tổ chức tuân theo.
+Trong khi kỹ sư dữ liệu và kỹ sư học máy là "bộ não" đằng sau AI thì cán bộ đạo đức lại đóng vai trò là "trái tim" và có tác động lớn đến tương lai của AI. Họ đảm bảo công nghệ sẽ phát triển mà không gây bất kỳ tổn hại nào cho mỗi cá nhân và cả cộng đồng.

@@ -1,0 +1,16 @@
+Cuối tuần trước, Microsoft thông báo sẽ loại bỏ phần mềm soạn thảo văn bản WordPad trên các bản nâng cấp Windows trong tương lai.
+Mặc dù Microsoft vẫn chưa công bố thời gian cụ thể WordPad sẽ bị loại bỏ, nhiều khả năng phần mềm này sẽ không còn được tích hợp trên phiên bản Windows 12 sắp tới.
+"WordPad sẽ không còn được cập nhật và bị xóa trong một bản phát hành Windows ở tương lai", Microsoft cho biết. "Chúng tôi khuyên bạn nên chuyển qua sử dụng Microsoft Word để xử lý file văn bản như .doc và .rtf và Windows Notepad cho các file tài liệu dạng văn bản thuần túy như .txt".
+WordPad là phần mềm soạn văn bản đơn giản, đã gắn bó với các phiên bản Windows suốt 28 năm qua (Ảnh chụp màn hình).
+WordPad được xuất hiện lần đầu tiên vào năm 1995, trên phiên bản Windows 95. Trong suốt 28 năm qua, WordPad đã trở thành một tính năng mặc định và quen thuộc trên mọi phiên bản Windows.
+WordPad là phần mềm soạn thảo và chỉnh sửa văn bản đơn giản, cho phép người dùng soạn và chỉnh sửa file văn bản một cách nhanh chóng. Các tính năng trên WordPad được rút gọn, giúp phần mềm hoạt động nhẹ nhàng, nhưng thiếu các tính năng xử lý văn bản nâng cao như Word hoặc các công cụ xử lý văn bản chuyên nghiệp khác.
+Lý do được Microsoft đưa ra cho quyết định loại bỏ WordPad là vì phần mềm này không còn được nhiều người sử dụng và có thể bị tin tặc khai thác để tấn công vào Windows.
+Tuy nhiên, sau khi Microsoft đưa ra thông báo "khai tử" phần mềm quen thuộc suốt 28 năm trên Windows, nhiều người dùng đã lên tiếng phản đối và cho biết họ vẫn thường xuyên sử dụng WordPad để phục vụ cho công việc hàng ngày.
+"Tôi vẫn đang sử dụng WordPad để chỉnh sửa văn bản hàng ngày. Phần mềm này nhẹ nhàng và hoạt động mượt mà trên máy tính của tôi, không rõ lý do tại sao Microsoft lại muốn xóa bỏ nó khỏi Windows?", một người dùng mạng xã hội X (trước đây là Twitter) bình luận về quyết định của Microsoft.
+"WordPad có khả năng xử lý văn bản tốt hơn so với NotePad, tôi không hiểu tại sao Microsoft lại bỏ WordPad và khuyên người dùng chuyển sang sử dụng NotePad?", một người dùng X khác bình luận. NotePad là phần mềm ghi chú và soạn văn bản với các tính năng đơn giản, hiện vẫn được Microsoft giữ lại trên các bản nâng cấp của Windows.
+Trong khi đó, nhiều người cho rằng Microsoft cố tình loại bỏ WordPad để ép người dùng Windows phải mua bản quyền gói phần mềm văn phòng Office (bao gồm phần mềm soạn văn bản Word), giúp hãng kiếm thêm được lợi nhuận.
+Trên thực tế, thời gian gần đây Microsoft đang có xu hướng xóa bỏ các phần mềm và tính năng quen thuộc trên các phiên bản Windows cũ.
+Trước đó vào năm 2017, hãng cũng đã xóa bỏ phần mềm vẽ tranh Paint trên bản nâng cấp Windows 10. Tuy nhiên, động thái này của Microsoft đã bị người dùng phản đối, buộc hãng phải đưa Paint lên kho ứng dụng Microsoft Store, cho phép người dùng có thể tự cài đặt phần mềm này nếu muốn.
+Mới đây, Microsoft cũng đã loại bỏ trợ lý ảo giọng nói Cortana trên các bản cập nhật Windows 11 mới nhất.
+Không loại trừ khả năng, nếu quyết định khai tử WordPad của Microsoft bị người dùng phản đối, hãng cũng sẽ đưa WordPad lên kho ứng dụng Microsoft Store để người dùng có thể tùy ý cài đặt phần mềm này vào Windows khi cần.
+Theo BComputer/PCMag

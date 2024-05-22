@@ -1,0 +1,23 @@
+Tỷ lệ hưởng lương hưu hàng tháng
+Theo Luật Bảo hiểm xã hội, mức lương hưu hằng tháng của người lao động được tính bằng tỷ lệ hưởng lương hưu hằng tháng nhân với mức bình quân tiền lương tháng đóng bảo hiểm xã hội.
+Trong đó, tỷ lệ hưởng lương hưu hằng tháng của người lao động đủ điều kiện hưởng lương hưu theo quy định tại Điều 54 của Luật Bảo hiểm xã hội được tính như sau:
+Lao động nữ nghỉ hưu từ ngày 1/1/2018 trở đi, tỷ lệ hưởng lương hưu hằng tháng được tính bằng 45% tương ứng với 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng bảo hiểm xã hội thì tính thêm 2%; mức tối đa bằng 75%;
+Lao động nam nghỉ hưu từ ngày 1/1/2018 trở đi, tỉ lệ hưởng lương hưu hằng tháng được tính bằng 45% tương ứng với số năm đóng bảo hiểm xã hội theo bảng dưới đây, sau đó cứ thêm mỗi năm đóng bảo hiểm xã hội, được tính thêm 2%; mức tối đa bằng 75%.
+Như vậy, để xác định được tiền lương hưu hằng tháng nhận được khi nghỉ hưu trước tuổi do suy giảm khả năng lao động cần phải xác định được tỷ lệ hưởng lương hưu.
+Theo đó, việc tính mức lương hưu hằng tháng khi nghỉ hưu trước tuổi do suy giảm khả năng lao động có thể tính dựa theo công thức sau đây:
+Trong đó, A là số năm nghỉ hưu trước tuổi.
+Về tỷ lệ hưởng lương hưu hằng tháng, kể từ năm 2022, lao động nam đóng bảo hiểm xã hội được 20 năm sẽ có tỷ lệ hưởng lương hưu là 45%, lao động nữ nghỉ hưu từ năm 2018 trở đi, tỉ lệ hưởng lương hưu hằng tháng được tính bằng 45% tương ứng với 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng bảo hiểm xã hội thì tính thêm 2%; mức tối đa bằng 75%.
+Tuổi nghỉ hưu với trường hợp suy giảm lao động
+Căn cứ Điều 169 Bộ luật Lao động 2019 quy định về tuổi nghỉ hưu, kể từ ngày 1/1/2021, tuổi nghỉ hưu đối với người lao động làm việc trong điều kiện bình thường sẽ được điều chỉnh theo lộ trình mỗi năm tăng thêm 3 tháng đối với lao động nam cho đến khi đủ 62 tuổi vào năm 2028 và mỗi năm tăng thêm 4 tháng đối với lao động nữ cho đến đủ 60 tuổi vào năm 2035.
+Nếu tính theo lộ trình trên, người lao động có đủ 20 năm đóng bảo hiểm xã hội trong điều kiện làm việc bình thường sẽ được nghỉ hưởng lương hưu vào năm 2023 khi đủ tuổi nghỉ hưu là 60 tuổi 9 tháng (đối với lao động nam), tròn 56 tuổi (đối với lao động nữ).
+Tuy nhiên, người lao động có thể nghỉ hưu trước tuổi quy định trên nếu bị suy giảm khả năng lao động. Trường hợp này được quy định tại Điều 55 Luật Bảo hiểm xã hội 2014, được sửa đổi tại Điều 219 Bộ luật Lao động 2019.
+Theo đó, người lao động khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội bắt buộc trở lên được hưởng lương hưu sớm hơn tuổi quy định tối đa đến 5 tuổi nếu bị suy giảm khả năng lao động từ 61% đến dưới 81%.
+Người lao động khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội bắt buộc trở lên được hưởng lương hưu sớm hơn tuổi quy định tối đa đến 10 tuổi nên bị suy giảm khả năng lao động từ 81% trở lên.
+Người lao động khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội bắt buộc trở lên được hưởng lương hưu sớm hơn tuổi quy định nếu có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm và bị suy giảm khả năng lao động từ 61% trở lên.
+Ví dụ lao động nam nghỉ việc hưởng lương hưu tháng 10/2023 khi đủ 49 tuổi. Người này có 27 năm đóng bảo hiểm xã hội, trong đó có 15 năm làm công việc khai thác than trong hầm lò, bị suy giảm khả năng lao động 81%.
+Tỷ lệ hưởng lương hưu của lao động được tính như sau:
+- 20 năm đầu được tính bằng 45%;
+- Từ năm thứ 21 đến năm thứ 27 là 7 năm, tính thêm: 7 x 2% = 14%;
+- Tổng 2 tỷ lệ trên là: 45% + 14% = 59%;
+Căn cứ Điểm a, Khoản 3, Điều 4 Nghị định 135/2020/NĐ-CP quy định về tuổi nghỉ hưu và Điểm a, Khoản 1, Điều 54 của Luật Bảo hiểm xã hội được sửa đổi, bổ sung tại Điểm a, Khoản 1, Điều 219 của Bộ luật Lao động thì mốc tính thời gian nghỉ hưu trước tuổi của người lao động là 50 tuổi 9 tháng, do đó, họ đã nghỉ hưu trước tuổi với thời gian nghỉ trước là 1 năm 9 tháng, vậy tỷ lệ giảm trừ do nghỉ hưu trước tuổi là 2+ 1=3%.
+Như vậy, tỷ lệ hưởng lương hưu hằng tháng của bạn đọc là 59% - 3% = 56%.

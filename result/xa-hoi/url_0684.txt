@@ -1,0 +1,20 @@
+Bộ Công an vừa gửi hồ sơ dự thảo Nghị định quy định về định danh và xác thực điện tử tới Bộ Tư pháp thẩm định.
+Theo dự thảo, công dân từ đủ 6 tuổi trở lên đã được cấp thẻ căn cước được cấp tài khoản định danh điện tử mức độ 1, tài khoản định danh điện tử mức độ 2.
+Công dân dưới 6 tuổi đã được cấp thẻ căn cước được cấp tài khoản định danh điện tử mức độ 1.
+Người nước ngoài nhập cảnh vào Việt Nam dưới 6 tuổi được cấp tài khoản định danh điện tử mức độ 1; từ đủ 6 tuổi trở lên được cấp tài khoản định danh điện tử mức độ 1, tài khoản định danh điện tử mức độ 2.
+Cơ quan, tổ chức được thành lập hoặc đăng ký hoạt động tại Việt Nam được cấp tài khoản định danh điện tử của cơ quan, tổ chức không phân phân biệt theo mức độ.
+Phần mềm định danh điện tử (Ảnh: Bộ Công an).
+"Tài khoản định danh điện tử mức độ 1 của công dân Việt Nam, người nước ngoài được sử dụng để truy cập, khai thác, sử dụng thông tin về danh tính điện tử, các tính năng, tiện ích, ứng dụng của hệ thống định danh và xác thực điện tử, hệ thống thông tin khác", dự thảo đề xuất.
+Bộ Công an đề xuất, tài khoản định danh điện tử mức độ 2 của công dân Việt Nam được sử dụng để truy cập, khai thác, sử dụng căn cước điện tử, thông tin khác được chia sẻ, tích hợp, cập nhật từ cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành (ngoài thông tin đã tích hợp vào căn cước điện tử) và các tính năng, tiện ích, ứng dụng của hệ thống định danh và xác thực điện tử, hệ thống thông tin khác.
+Về thời hạn giải quyết cấp tài khoản định danh điện tử, dự thảo nêu rõ không quá 1 ngày làm việc với trường hợp cấp tài khoản định danh điện tử mức độ 1 (trường hợp công dân Việt Nam đã có thẻ căn cước); không quá 3 ngày với trường hợp cấp tài khoản định danh điện tử mức độ 2.
+Đối với trường hợp công dân Việt Nam chưa có thẻ căn cước không quá 7 ngày làm việc.
+Kích hoạt tài khoản định danh điện tử
+Tại dự thảo, Bộ Công an đề xuất chủ thể danh tính điện tử thực hiện kích hoạt tài khoản định danh điện tử trên ứng dụng định danh quốc gia trong vòng 7 ngày kể từ ngày nhận được thông báo kết quả cấp tài khoản.
+Sau 7 ngày, nếu tài khoản định danh điện tử không được kích hoạt, chủ thể danh tính điện tử phải liên hệ với cơ quan quản lý thông qua tổng đài tiếp nhận và giải quyết các yêu cầu về định danh.
+Người chưa đủ 14 tuổi, người được giám hộ, người được đại diện sử dụng tài khoản định danh điện tử phải được sự đồng ý, xác nhận của người đại diện, người giám hộ thông qua ứng dụng định danh quốc gia.
+Người đại diện, người giám hộ sử dụng tài khoản định danh điện tử của người chưa đủ 14 tuổi, người được giám hộ, người được đại diện để thực hiện các giao dịch và các hoạt động khác phục vụ quyền và lợi ích của họ.
+Việc sử dụng tài khoản định danh điện tử, dịch vụ xác thực điện tử có giá trị pháp lý để khẳng định, chứng minh chủ thể danh tính điện tử đã thực hiện và chấp thuận đối với giao dịch.
+Trang thông tin định danh điện tử do Bộ Công an tạo lập
+Bộ Công an cho biết, nghị định này quy định chi tiết khoản 5 Điều 31, khoản 5 Điều 34, khoản 4 Điều 41 Luật Căn cước.
+Cơ quan quản lý định danh và xác thực điện tử là Cục Cảnh sát quản lý hành chính về trật tự xã hội Bộ Công an.
+Dinhdanhdientu.gov.vn, vneid.gov.vn là trang thông tin định danh điện tử do Bộ Công an tạo lập, phát triển từ hệ thống định danh và xác thực điện tử để phục vụ hoạt động định danh điện tử và xác thực điện tử trong giải quyết thủ tục hành chính, dịch vụ hành chính công và các giao dịch khác trên môi trường điện tử; phát triển các tính năng, tiện ích, ứng dụng để phục vụ cơ quan, tổ chức, cá nhân.

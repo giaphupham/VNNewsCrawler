@@ -1,0 +1,16 @@
+Như Dân trí đã đưa tin, trong ngày 2/4, nhiều kênh Youtube có lượng người theo dõi lớn tại Việt Nam, bao gồm Mixi Gaming (hơn 7,33 triệu lượt theo dõi), Quang Linh Vlogs (hơn 3,82 triệu người theo dõi) hay Thế Nhân Vlogs (hơn 1,21 triệu người theo dõi)… đã đồng loạt bị hacker tấn công và chiếm quyền kiểm soát.
+Phùng Thanh Độ (được biết đến với biệt danh Độ Mixi, chủ sở hữu của kênh Youtube Mixi Gaming) sau đó đã lấy lại được kênh Youtube của mình vào chiều 2/4, nhưng chỉ một thời gian ngắn sau kênh này tiếp tục bị hacker chiếm quyền kiểm soát và đổi tên thêm một lần nữa.
+Đến chiều 3/4, Độ Mixi mới chính thức giành lại được quyền kiểm soát kênh Youtube của mình. Hiện tại toàn bộ nội dung trên kênh Youtube này đã được phục hồi.
+Tuy nhiên, chưa vui mừng được bao lâu sau khi giành lại được kênh Youtube từ tin tặc, Độ Mixi lại phải đối mặt với nỗi buồn khi tài khoản Steam của anh này tiếp tục bị hacker tấn công và chiếm quyền kiểm soát.
+Tài khoản Steam của Độ Mixi đã không còn truy cập được (Ảnh chụp màn hình).
+Steam là một nền tảng mạng xã hội chủ yếu nhắm đến giới game thủ, dùng để phân phối các trò chơi điện tử, video, bản cập nhật phần mềm… Steam cũng là nền tảng quản lý bản quyền kỹ thuật số và các vật dụng ảo…
+Trước khi tài khoản Steam của Độ Mixi bị hack, trên tài khoản này chứa nhiều vật dụng ảo có giá trị cao đến hàng trăm triệu đồng. Theo nhiều game thủ, các vật dụng ảo trên tài khoản Steam của Độ Mixi có thể đạt tổng giá trị lên đến 2 tỷ đồng.
+Trước đây, Độ Mixi cũng đã từng bị hacker tấn công và chiếm đoạt một tài khoản Steam có giá trị lớn.
+Độ Mixi bị hacker tấn công bằng cách nào?
+Sau khi lấy lại được kênh Youtube, Độ Mixi đã thực hiện một buổi phát sóng trực tiếp trên kênh Youtube này để chia sẻ cách thức hacker đã sử dụng để tấn công tài khoản của anh này.
+Chia sẻ trên buổi livestream, Độ Mixi cho biết tin tặc đã gửi đến hộp thư của anh một email giả mạo nhà phát hành game, bên trong đính kèm file có chứa mã độc keylogger (phần mềm gián điệp đọc nội dung gõ từ bàn phím). Dựa vào mã độc này, hacker đã lấy được thông tin đăng nhập các tài khoản trực tuyến của Độ Mixi và chiếm quyền điều khiển.
+Email giả mạo nhà phát hành game với nội dung đề nghị hợp tác, có kèm theo file chứa mã độc (Ảnh: Độ Mixi).
+Do vậy, không loại trừ tin tặc đã chiếm quyền kiểm soát kênh Youtube và chiếm tài khoản Steam của Độ Mixi là một.
+Sau khi làm nhiều cách để khôi phục tài khoản Steam nhưng thất bại, Độ Mixi đã quyết định liên hệ với tin tặc qua email với hy vọng có thể lấy lại tài khoản.
+Tin tặc cũng đã lập tức phản hồi email của Độ Mixi và yêu cầu anh này phải trả khoản phí 5.000 USD để khôi phục tài khoản. Tin tặc cũng cung cấp địa chỉ ví Bitcoin và Ethereum để nhận tiền. Việc giao dịch thông qua tài khoản tiền điện tử sẽ rất khó để xác định được chủ nhân đứng sau các ví điện tử này.
+Hiện tại tài khoản Steam của Độ Mixi đã không còn truy cập được, không rõ do hacker đã xóa tài khoản hay đây là bước can thiệp từ Steam sau khi phát hiện tài khoản bị hack.

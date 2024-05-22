@@ -1,0 +1,12 @@
+Pixel 8 và Galaxy S24 là những chiếc smartphone đầu tiên mở ra kỷ nguyên "điện thoại AI" khi được tích hợp sẵn hàng loạt tính năng liên quan đến trí tuệ nhân tạo. Theo BGR, AI sẽ dần trở thành một chuẩn mực mới trong ngành công nghiệp di động.
+Apple đã tích cực mua lại 21 công ty khởi nghiệp liên quan đến AI kể từ năm 2017 (Ảnh: BGR).
+Rõ ràng, Apple sẽ không thể bỏ qua cuộc chiến quan trọng này. Nhiều khả năng, tại sự kiện WWDC 2024 sắp tới, công ty sẽ công bố hệ điều hành iOS 18 và trợ lý ảo Siri hoàn toàn mới cùng với AI tạo sinh do hãng tự phát triển.
+Một báo cáo từ Financial Times chỉ ra rằng Apple đã sẵn sàng đưa AI tạo sinh của riêng mình lên iPhone. Những động thái khác nhau mà Apple thực hiện gần đây cho thấy ngày ra mắt đã gần kề.
+Nguồn tin này cho biết Apple đã tích cực mua lại 21 công ty khởi nghiệp liên quan đến AI kể từ năm 2017. Với cùng khoảng thời gian đó, Microsoft đã mua 12 công ty AI, trong khi Alphabet mua 8 công ty.
+Bên cạnh việc mua lại các công ty khởi nghiệp, Apple còn tăng cường tuyển dụng nhiều chuyên gia trong lĩnh vực AI. John Giannandrea, cựu giám đốc AI của Google, đã gia nhập Apple vào năm 2018 và trở thành nhân sự chủ chốt về AI tại công ty.
+Báo cáo từ Morgan Stanley còn tiết lộ gần một nửa số công việc liên quan đến AI tại Apple đều đề cập về "Deep Learning", một thuật ngữ chỉ các thuật toán đằng sau AI.
+Đến nay, Apple chưa đưa ra bất cứ thông báo chính thức nào về việc tích hợp AI lên iPhone và các thiết bị của hãng. Tuy nhiên, trong một cuộc họp vào mùa hè năm 2023, CEO Tim Cook khẳng định công ty đang đầu tư có trách nhiệm vào AI và "đã tiến hành nghiên cứu trên nhiều loại công nghệ AI".
+CEO Tim Cook khẳng định công ty đang đầu tư có trách nhiệm vào AI (Ảnh: Bloomberg).
+Tất cả những điều trên cho thấy Apple đang ấp ủ một sản phẩm AI tạo sinh dành riêng cho iPhone. Báo cáo của Financial Times còn nói rằng Apple đang làm việc trên mô hình ngôn ngữ lớn của riêng mình.
+Mục tiêu của Apple là chạy các chương trình GPT trực tiếp trên iPhone, sử dụng tài nguyên phần cứng và phần mềm của thiết bị cầm tay thay vì xử lý thông qua đám mây. Đây là một sự khác biệt lớn so với cách hoạt động của ChatGPT, Copilot và Gemini/Bard.
+Nhiều nguồn tin rò rỉ gần đây cho biết Apple đã tìm ra cách sử dụng bộ lưu trữ flash của thiết bị để chạy AI cục bộ thay vì tăng RAM. Ngoài ra, bộ xử lý silicon của Apple còn có thể tạo ra các tính năng AI tạo sinh ngay trên iPhone.

@@ -1,0 +1,14 @@
+Gã khổng lồ công nghệ Huawei vừa cho ra mắt mô hình trí tuệ nhân tạo (A.I) thế hệ mới, mang tên gọi Pangu 3.0, như một động thái để cạnh tranh với chatbot tích hợp A.I ChatGPT nổi tiếng của Mỹ.
+Các mô hình trí tuệ nhân tạo là công nghệ để tạo nên các chatbot như ChatGPT. Huawei cho biết mô hình Pangu 3.0 của hãng tập trung vào xử lý ngôn ngữ tự nhiên, thị giác máy tính, tính toán khoa học, tăng tốc độ phản hồi các câu hỏi của người dùng…
+Huawei tham vọng mô hình A.I Pangu sẽ giúp định hình lại nhiều ngành công nghiệp khác nhau (Ảnh minh họa: Pinterest).
+Đáng chú ý, Pangu sẽ không chỉ tập trung vào những người dùng phổ thông như ChatGPT đang nhắm đến, mà mô hình A.I này đang được phát triển để dành cho đối tượng khách hàng doanh nghiệp.
+Các doanh nghiệp có thể dựa vào mô hình trí tuệ nhân tạo Pangu 3.0 để phát triển những chatbot, hệ thống A.I phù hợp với mục đích của riêng mình.
+Zhang Pingan, Giám đốc điều hành Huawei và đứng đầu bộ phận Huawei Cloud, tin rằng Pangu sẽ mang lại giá trị đáng kể trong các lĩnh vực tài chính, sản xuất, nghiên cứu, phát triển dược phẩm, khai thác than, đường sắt…
+Thậm chí, Huawei còn đặt ra tham vọng Pangu sẽ giúp "định hình lại nhiều ngành công nghiệp" khác nhau.
+Một trong những ứng dụng thành công nhất của mô hình Pangu tính đến thời điểm hiện tại đó là dự báo thời tiết nhờ vào trí tuệ nhân tạo.
+Theo Huawei, Pangu-Weather, mô hình dự báo thời tiết dựa trên A.I, đã thể hiện độ chính xác cao và vượt trội so với các phương pháp dự báo thời tiết truyền thống. Mô hình này cho phép cải thiện tốc độ dự báo thời tiết gấp 10.000 lần, giảm thời gian dự đoán thời tiết trên phạm vi toàn cầu xuống chỉ còn vài giây.
+Pangu cũng được sử dụng để phát triển một trợ lý thông minh dành cho chính quyền huyện Phúc Điền (thành phố Thâm Quyến, Trung Quốc).
+Trợ lý thông minh này được nạp cơ sở dữ liệu gồm thông tin về đường dây nóng, tài liệu về chính sách, bách khoa toàn thư của chính phủ, các dữ liệu về luật, quy định và thủ tục hành chính… giúp hỗ trợ giải quyết và xử lý các vấn đề của chính phủ.
+Kể từ thời điểm ChatGPT "gây sốt" trên toàn cầu, mở ra cuộc đua về phát triển mô hình trí tuệ nhân tạo, các hãng công nghệ tại Trung Quốc cũng đã nhanh chóng xây dựng những mô hình trí tuệ nhân tạo của riêng mình để không bị tụt lại trong cuộc đua này, đặc biệt để có thể cạnh tranh với Mỹ.
+Ngoài Huawei, các ông lớn công nghệ Trung Quốc như Baidu, ByteDance, Tencent hay Alibaba cũng đã phát triển và cho ra mắt các mô hình A.I của riêng mình. Trong đó, Baidu đã giới thiệu chatbot mang tên gọi Ernie Bot, nhưng phần mềm này đã khiến nhiều người thất vọng ngay trong ngày đầu được ra mắt.
+Theo DTrends

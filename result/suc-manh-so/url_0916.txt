@@ -1,0 +1,13 @@
+Các mẫu laptop thường có kích thước gọn, đủ nhẹ để người dùng có thể mang bên mình. Chính vì vậy, laptop không có đủ không gian để bố trí quá nhiều linh kiện phần cứng khiến laptop thường không đạt được hiệu suất mạnh mẽ như các loại máy tính cá nhân để bàn.
+Tuy nhiên, hãng công nghệ Xinjuneng Technology (Trung Quốc) đã đi ngược lại xu hướng thiết kế mỏng, nhẹ của thị trường laptop để cho ra mắt chiếc laptop "nồi đồng cối đá" và sở hữu cấu hình mạnh nhất thế giới hiện nay.
+REV-9 có thiết kế to và dày để trang bị cấu hình mạnh và hệ thống tản nhiệt bằng chất lỏng ở bên trong (Ảnh: IT Home).
+Sản phẩm có tên gọi Yunguai REV-9, sở hữu màn hình 17,5-inch, độ phân giải 2K, tần số quét 240Hz, hoặc người dùng có thể tùy chọn nâng cấp lên độ phân giải 4K, tần số quét 144Hz.
+Sản phẩm được trang bị chip xử lý AMD EPYC, với 64 lõi và 128 luồng xử lý. Đây là chip xử lý được AMD phát triển dành cho máy chủ, nhưng Xinjuneng Technology đã mang chip này lên sản phẩm của mình, giúp REV-9 trở thành chiếc laptop đầu tiên trên thế giới sở hữu chip xử lý với 64 lõi.
+Đi kèm với chip xử lý mạnh, REV-9 cũng được trang bị card xử lý đồ họa GeForce RTX-4808, với dung lượng 16GB, thừa sức đáp ứng những tác vụ và các game đòi hỏi khả năng xử lý đồ họa cao nhất.
+Màn hình phụ phía dưới bàn phím để hiển thị nhiệt độ máy, mức tiêu thụ điện năng, dung lượng pin… (Ảnh: ZXT).
+Để chiếc laptop với cấu hình mạnh như thế này có thể hoạt động ổn định, REV-9 được trang bị một hệ thống tản nhiệt bằng chất lỏng, thay vì sử dụng quạt tản nhiệt thông thường.
+Ngoài ra, phía dưới bàn phím của REV-9 được tích hợp một màn hình nhỏ, kích thước 3,5-inch, để hiển thị các thông số hoạt động của sản phẩm như nhiệt độ, mức pin…
+Dĩ nhiên, để trang bị cấu hình mạnh cùng một hệ thống tản nhiệt bằng chất lỏng, chiếc REV-9 không thể sở hữu thiết kế mỏng nhẹ, mà thay vào đó là một thiết kế theo phong cách "nồi đồng cối đá", nếu không muốn nói là khác lạ. Chiếc laptop này dày đến 11,6cm khi gập lại và phần thân chính dày 10cm khi mở màn hình.
+Thực tế chiếc laptop sở hữu cấu hình mạnh nhất thế giới (Video: RT).
+Hiện mức giá của REV-9 vẫn chưa được công bố, nhưng bộ vi xử lý AMD EPYC đã có giá dao động từ 7.000 đến 9.000 USD, do vậy chắc chắn mức giá của chiếc laptop này sẽ không hề rẻ.
+Theo ITHome

@@ -1,0 +1,14 @@
+Hồi tháng 2 vừa qua, một lỗ hổng bảo mật (được định danh CVE-2023-21716), bị đánh giá là cực kỳ nghiêm trọng, đã được tìm thấy trên gói phần mềm văn phòng Microsoft Office dành cho máy tính chạy Windows.
+Thông qua lỗ hổng bảo mật này, tin tặc có thể triển khai và thực thi các loại mã độc từ xa, lây nhiễm virus để chiếm quyền điều khiển, lấy cắp dữ liệu… trên máy tính.
+Mặc dù Microsoft đã phát hành bản vá lỗi để khắc phục lỗ hổng bảo mật cực kỳ nghiêm trọng này, nhưng theo một báo cáo mới đây của công ty an ninh mạng Bkav, tại Việt Nam vẫn còn gần 4 triệu máy tính chưa cập nhật bản vá lỗi, dẫn đến nguy cơ bị lây nhiễm virus và tin tặc tấn công từ xa.
+Mới đây, Bkav đã phát hành một công cụ cho phép người dùng quét và kiểm tra máy tính của mình có tồn tại lỗ hổng bảo mật CVE-2023-21716 hay không.
+Người dùng có thể download công cụ miễn phí tại đây. Sau khi download, bạn có thể kích hoạt file "Bkav CVE-2023-21716 Scan.exe" có ở bên trong để sử dụng ngay mà không cần cài đặt.
+Tại giao diện hiện ra khi chạy phần mềm, bạn nhấn nút "Kiểm tra".
+Quá trình quét sẽ diễn ra khá nhanh chóng. Sau khi quét, nếu xuất hiện hộp thoại "Không phát hiện lỗ hổng", nghĩa là máy tính của bạn được an toàn và không cần làm gì thêm.
+Ngược lại, nếu xuất hiện hộp thoại "Máy tính có tồn tại CVE-2023-21716", nghĩa là máy tính có lỗ hổng bảo mật và cần phải khắc phục càng sớm càng tốt.
+Làm gì khi máy tính có tồn tại lỗ hổng bảo mật CVE-2023-21716?
+Trong trường hợp phần mềm của Bkav thông báo máy tính có tồn tại lỗ hổng bảo mật, bạn có thể nhấn nút "OK" tại hộp thoại hiện ra, trang web download bản vá lỗi chính thức từ Microsoft sẽ được xuất hiện.
+Tại trang web này sẽ liệt kê danh sách các bản vá lỗi tương ứng với từng phiên bản Microsoft Office. Bạn có thể tìm và download bản vá lỗi phù hợp với phiên bản Office mình đang sử dụng để cài đặt vào máy tính.
+Ngoài ra, có một cách đơn giản và nhanh chóng hơn đó là bạn truy cập vào mục "Cài đặt" trên máy tính, tìm và chọn "Windows Update" từ menu hiện ra.
+Tại đây, bạn nhấn nút "Kiểm tra bản cập nhật" và tiến hành cập nhật các bản vá lỗi do Microsoft cung cấp để khắc phục lỗ hổng bảo mật đang tồn tại.
+Các chuyên gia bảo mật cảnh báo người dùng cần phải thường xuyên kiểm tra và tiến hành nâng cấp Windows, các phiên bản phần mềm trên máy tính… để vá kịp thời các lỗ hổng bảo mật có thể tồn tại, tránh nguy cơ bị lây nhiễm virus hoặc tin tặc khai thác lỗ hổng để tấn công máy tính.

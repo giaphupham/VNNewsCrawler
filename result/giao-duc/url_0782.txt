@@ -1,0 +1,12 @@
+Em Nguyễn Lê Quốc Bảo, học sinh lớp 12, Trường Trung học phổ thông (THPT) chuyên Lê Hồng Phong, TPHCM là một trong hai thí sinh thực hiện dự án "Phần mềm tích hợp học sâu để phân vùng và tái tạo cấu trúc tim nguyên khối trong không gian 3D mô phỏng cho ứng dụng thực hành y khoa" được Bộ Giáo dục và Đào tạo (GD&ĐT) chọn tham gia Hội thi Khoa học kỹ thuật quốc tế 2024.
+Hội thi được tổ chức tại Mỹ từ 11-17/5 tới đây. Tuy nhiên, trong lần phỏng vấn xin cấp visa đầu tiên ngày 25/4, Quốc Bảo không được sự chấp thuận. Lịch phỏng vấn tiếp theo được hẹn vào ngày 30/5, song đã quá lịch thi.
+Cùng tham gia dự án với Bảo còn có Lê Tuấn Hy nhưng hiện mới chỉ có Hy được cấp visa. 
+Nguyễn Lê Quốc Bảo và Lê Tuấn Hy là hai học sinh rất đặc biệt, khi không học chuyên tin nhưng rất đam mê lĩnh vực này. Hai bạn có khả năng nghiên cứu và tự học, chủ động trong việc nghiên cứu.
+Lê Tuấn Hy (trái) và Nguyễn Lê Quốc Bảo (phải) cùng nghiên cứu dự án "Phần mềm tích hợp học sâu để phân vùng và tái tạo cấu trúc tim nguyên khối trong không gian 3D mô phỏng cho ứng dụng thực hành y khoa" (Ảnh: Huyên Nguyễn).
+Chia sẻ về dự án, Nguyễn Lê Quốc Bảo cho biết, dự án hướng tới việc hỗ trợ y bác sĩ và chuyên gia chẩn đoán hình ảnh đưa ra kết quả chuẩn đoán từ hình chụp chiếu cắt lớp bằng việc tái tạo những hình ảnh 2D chuyển sang 3D mô phỏng, qua đó dễ dàng phục vụ cho thực hành y khoa.
+Phần mềm dự án trải qua nhiều phiên bản và được nâng cấp dần lên để đáp ứng thông qua những trao đổi trực tiếp với các bác sĩ tại nhiều bệnh viện ở TPHCM.
+Từ "đặt hàng" của các y bác sĩ cho dự án, nhóm bắt tay viết một thuật toán nghiên cứu sâu về hậu phân tích sau khi dựng 3D.
+Sở GD&ĐT TPHCM cũng vừa có công văn gửi Lãnh sứ quán Mỹ, Thường trực UBND TPHCM, Sở Ngoại vụ TPHCM để hỗ trợ visa cho học sinh Nguyễn Lê Quốc Bảo. 
+Cùng chung đoàn Việt Nam dự thi Hội thi Khoa học kỹ thuật quốc tế lần này còn có ông Nguyễn Xuân Hùng, chuyên viên Phòng Giáo dục Trung học, Sở GD&ĐT tỉnh Lâm Đồng và em Lê Hoàng Trường Giang (Trường THPT Phan Đình Phùng, huyện Đam Rông, Lâm Đồng) cũng bị từ chối cấp visa sang Mỹ.
+Lê Hoàng Trường Giang và Lê Hà Thanh Phong là đồng tác giả của dự án Ứng dụng AI, IoT và ChatGPT vào mô hình nuôi tằm của bà con nông dân.
+Do tác giả Lê Hà Thanh Phong có việc gia đình, không thể trực tiếp tham dự cuộc thi nên ngành giáo dục tỉnh Lâm Đồng thành lập đoàn sang Mỹ với 2 người gồm ông Nguyễn Xuân Hùng và tác giả là Lê Hoàng Trường Giang. Song, cả hai thành viên đều đứng trước nguy cơ tạm dừng nếu không được cấp visa. 

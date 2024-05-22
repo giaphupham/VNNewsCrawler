@@ -1,0 +1,6 @@
+Apple Vision Pro được công bố lần đầu tại sự kiện WWDC 2023 diễn ra vào tháng 6/2023. Phần kính ở phía trước được làm trong suốt, cho phép người dùng có thể quan sát được thế giới bên ngoài, trong khi vẫn theo dõi những nội dung mà kính hiển thị.
+Apple Vision Pro nhiều khả năng sẽ được mở bán từ ngày 27/1 tại thị trường Mỹ (Ảnh: TheVerge).
+Vision Pro được trang bị camera và các cảm biến để theo dõi chuyển động của mắt. Người dùng có thể điều khiển thiết bị bằng cách kết hợp cử chỉ từ mắt, thao tác tay và trợ lý ảo Siri.
+Giao diện sử dụng trên Vision Pro mang khá nhiều nét tương đồng với hệ điều hành macOS. Toàn bộ ứng dụng sẽ được hiển thị ra không gian trước mắt để người dùng có thể truy cập. Thiết bị sử dụng bộ xử lý M2 và con chip R1 được thiết kế riêng. Vision Pro được Apple chào bán với mức giá 3.499 USD.
+Trang CNBC nhận định rằng việc quan trọng nhất mà Apple cần thực hiện vào thời điểm hiện tại là thuyết phục các nhà phát triển tạo thêm ứng dụng cho thiết bị mới này.
+Kho ứng dụng được đánh giá là yếu tố quan trọng, có thể quyết định đến sự thành bại của Vision Pro. Apple cho biết Vision Pro hiện có thể chạy các ứng dụng của iPad. Tuy vậy, công ty hy vọng rằng các nhà phát triển có thể chuyển những cửa sổ ứng dụng 2D sang dạng 3D để phù hợp với chiếc kính.

@@ -1,0 +1,19 @@
+Hỗ trợ nhắn tin RCS
+Tháng 11/2023, Apple đã thông báo rằng công ty sẽ áp dụng tiêu chuẩn nhắn tin RCS (Rich Communication Services). Đây là một giao thức nhắn tin được thiết kế để thay thế SMS.
+RCS sẽ xuất hiện trên iPhone vào cuối năm 2024 (Ảnh: DigitalTrends).
+RCS sẽ mang lại khả năng tương tác tốt hơn cho việc nhắn tin đa nền tảng giữa người dùng iPhone và Android. RCS hỗ trợ mã hóa, đọc biên nhận, chỉ báo gõ, chia sẻ hình ảnh và video độ phân giải cao. 
+Về cơ bản, đây giống như iMessage nhưng không chỉ giới hạn ở người dùng iPhone. Dự kiến, tính năng này sẽ xuất hiện thông qua một bản cập nhật phần mềm vào cuối năm 2024.
+Trợ lý ảo Siri thông minh hơn
+Siri đã trở thành một phần không thể thiếu của iPhone kể từ lần đầu xuất hiện trên chiếc iPhone 4S. Tuy vậy, sau nhiều năm trôi qua, trợ lý ảo của Apple đang có phần thua kém so với những đối thủ khác.
+Siri được kỳ vọng sẽ trở nên thông minh hơn nhờ AI tạo sinh (Ảnh: DigitalTrends).
+Bản cập nhật iOS 18 được kỳ vọng sẽ mang đến một phiên bản Siri hoàn toàn mới. Nhiều nguồn tin rò rỉ cho biết Apple đã đầu tư nghiên cứu AI tạo sinh trong nhiều năm và công ty sẽ tích hợp mô hình ngôn ngữ lớn vào Siri.
+Điều này hứa hẹn sẽ giúp Siri trở nên thông minh hơn, từ đó nâng cấp trải nghiệm sử dụng của người dùng. Siri có thể hỗ trợ người dùng xử lý nhiều tác vụ khác nhau chỉ bằng cách giao tiếp.
+Nâng cấp ứng dụng chỉnh ảnh
+Trong những năm gần đây, hệ thống camera trên iPhone liên tục được nâng cấp qua mỗi thế hệ. Dù vậy, phần mềm chỉnh sửa hình ảnh mặc định trên iPhone lại không có nhiều thay đổi.
+Ứng dụng chỉnh sửa ảnh mặc định trên iPhone chưa được nâng cấp trong nhiều năm (Ảnh: DigitalTrends).
+Để bắt kịp các đối thủ, Apple sẽ cần bổ sung thêm nhiều tính năng mới vào công cụ này, nhằm hỗ trợ người dùng có thể nhanh chóng chỉnh sửa hình ảnh.
+Chưa dừng lại ở đó, iOS 18 nhiều khả năng cũng sẽ tích hợp một số tính năng AI, cho phép người dùng có thể nhanh chóng chỉnh sửa ảnh chỉ thông qua các thao tác đơn giản.
+Hệ thống thông báo được cải thiện
+Hệ thống thông báo trên những chiếc iPhone vẫn luôn bị người dùng phàn nàn. Chúng hiển thị một cách thiếu trực quan, rắc rối và đôi khi có thể khiến người dùng bỏ lỡ thông báo.
+Hệ thống thông báo trên iPhone kém trực quan hơn so với điện thoại Android (Ảnh: DigitalTrends).
+Trong khi đó, những chiếc smartphone Android hiển thị thông báo ngăn nắp, dễ nhìn hơn. Do đó, Apple chắc chắn sẽ cần tiếp tục cải thiện hệ thống thông báo trên phiên bản iOS 18.

@@ -1,0 +1,18 @@
+Trung tá Lê Xuân Thủy, Giám đốc Trung tâm an ninh mạng quốc gia, Bộ Công an, giải đáp những thắc mắc liên quan tới tấn công mã hóa dữ liệu (Ảnh: Cương Quyết).
+Tháng 3 vừa qua có thể nói là thời gian hoạt động cao điểm của hacker, khi Việt Nam ghi nhận ít nhất 3 vụ tấn công mã hóa dữ liệu (ransomware) quy mô lớn, với mục tiêu nhắm vào VnDirect, PVOil và một nhà cung cấp dịch vụ viễn thông.
+Điều đáng nói, đây đều là những doanh nghiệp lớn, và có thể đã đầu tư rất nhiều tiền vào hệ thống bảo mật, an ninh mạng nội bộ. Thế nhưng vì sao họ vẫn là nạn nhân của những vụ tấn công quy mô lớn?
+Chia sẻ tại tọa đàm chiều 5/4 ở Hà Nội, Trung tá Lê Xuân Thủy, Giám đốc Trung tâm an ninh mạng quốc gia, Bộ Công an, nhấn mạnh rằng các tổ chức hacker thường khai thác các lỗ hổng ZeroDay chưa được công bố.
+Bởi lẽ đó, các hệ thống bảo mật dù được đầu tư rất nhiều tiền, nhưng đa số là không thể phát hiện và ngăn chặn được.
+"Có rất nhiều nơi ở Việt Nam, một phần vì nhận thức, nghĩ rằng chúng ta đã làm chặt, nên sinh tâm lý chủ quan, lơ là. Điều này càng dễ khiến hệ thống là nạn nhân của tin tặc", ông Lê Xuân Thủy cho biết.
+Chuyên gia tới từ Trung tâm an ninh mạng quốc gia khẳng định, cách tốt nhất để phòng thủ trước các cuộc tấn công mạng là liên tục rà soát 24/7, kết hợp tối ưu hệ thống để khi hacker đã xuất hiện và hành động thì có thể kịp thời ứng cứu và ngăn chặn.
+Ngoài ra, cần dựa trên 3 trụ cột, là quy trình, con người, và hệ thống an toàn thông tin. Bởi vậy, nếu chỉ đầu tư vào hệ thống phòng thủ, bảo mật an toàn thông tin thôi thì chưa đủ.
+"Nên nhớ rằng dưới phương diện là người phòng thủ, chúng ta phải tìm tất cả các lỗ hổng, còn kẻ tấn công chỉ cần tìm duy nhất một lỗ hổng mà thôi", ông Thủy cho hay.
+Để phòng thủ hiệu quả trước hacker, điều cần làm là phải đầu tư đúng, chứ không phải đầu tư bao nhiêu tiền (Ảnh: Getty).
+Một điểm khác cần lưu tâm là cách ứng xử của đơn vị chủ quản. Trong đó, nhận thức của người đứng đầu rất quan trọng, bởi đó là người ký hợp đồng, quyết định đầu tư.
+Theo các chuyên gia bảo mật, nếu không có nhận thức đầy đủ thì việc đầu tư dễ bị lệch hướng, "bỏ nhiều tiền nhưng hệ thống vẫn hổng".
+Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), cho rằng theo công thức chung của thế giới, đầu tư cho an ninh mạng thường chiếm khoảng 10% chi phí đầu tư cho hệ thống thông tin. Tuy nhiên, đa số các doanh nghiệp ở Việt Nam chưa đạt tỷ lệ này.
+"Mức đầu tư lý tưởng cho an ninh mạng hiện nay là 10%, tốt là 20%. Tuy nhiên ở Việt Nam chưa làm được như vậy, có lẽ chỉ ở mức dưới 5%", ông Sơn đánh giá.
+Ông Sơn cũng đồng ý với quan điểm rằng, điều cần làm là phải đầu tư đúng, chứ không phải đầu tư bao nhiêu tiền. Cụ thể, các cơ quan, doanh nghiệp Việt Nam đa số đầu tư 80% chi phí vào việc phòng thủ, ngăn chặn, mà chỉ dành 15% nguồn vốn cho giám sát theo dõi và 5% cho phản ứng.
+Các chuyên gia bảo mật cho rằng cách tiếp cận này đã lỗi thời. Thay vào đó, cách đầu tư đúng cho một hệ thống an toàn thông tin hiện đại, hay còn gọi là "tư duy mới" hiện nay, là nên đầu tư theo kiểu kiềng 3 chân, chia đều cho các công đoạn ngăn chặn, theo dõi và phản ứng.
+Theo ông Lê Xuân Thủy, các tổ chức, doanh nghiệp, nên chấp nhận thực tế rằng ngay cả khi đã đầu tư đúng cách, thì vẫn có nguy cơ xảy ra tấn công. "Nên coi đây là trường kỳ kháng chiến", ông Thủy cho hay.
+Tóm lại, giống như việc dù có xây tường cao đến mấy, thì cũng không thể chắc chắn rằng bức tường đó không thể bị vượt qua. Điều quan trọng là nâng cao quy trình theo dõi, giám sát, phản ứng thay vì ngăn chặn theo cách thông thường.

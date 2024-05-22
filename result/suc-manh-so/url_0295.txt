@@ -1,0 +1,8 @@
+Phím bấm này cho phép người dùng có thể truy cập nhanh và tương tác với chatbot AI do công ty phát triển. Từ đó, người dùng có thể đặt câu hỏi hoặc đưa ra các yêu cầu như hỗ trợ soạn thảo văn bản.
+Phím Copilot mới sẽ được đặt ở khu vực phía dưới bên phải bàn phím, gần vị trí dấu cách và phím Alt (Ảnh: Engadget).
+"Điều này sẽ giúp đơn giản hóa trải nghiệm sử dụng máy tính của người dùng. Đồng thời, thay đổi này cũng được kỳ vọng sẽ biến 2024 trở thành năm của máy tính AI.
+Việc tích hợp phím bấm Copilot sẽ giúp cho tương tác hàng ngày của người dùng trở nên liền mạch hơn", Yusuf Mehdi, phó chủ tịch điều hành kiêm giám đốc tiếp thị của Microsoft, cho biết.
+Theo CNN, phím Copilot mới sẽ có thiết kế với logo biểu tượng của chatbot AI Copilot, được đặt ở khu vực phía dưới bên phải bàn phím, gần vị trí dấu cách và phím Alt. Việc bổ sung thêm phím Copilot đánh dấu sự thay đổi lớn đầu tiên đối với bàn phím trên các máy tính Windows kể từ năm 1994.
+Copilot được Microsoft giới thiệu vào cuối tháng 9/2023. Trợ lý ảo này hoạt động dưới dạng chatbot (phần mềm chat tự động), cho phép trả lời các câu hỏi của người dùng, tóm tắt nội dung hoặc soạn thảo email.
+Người dùng có thể giao tiếp và ra lệnh cho Copilot bằng văn bản, giọng nói hoặc sử dụng hình ảnh để yêu cầu Copilot nhận dạng, xử lý. Người dùng cũng có thể ra lệnh cho Copilot để tắt/mở nhanh một tính năng nào đó trên Windows, như kích hoạt phần mềm, tắt/mở kết nối WiFi,...
+Đến tháng 11/2023, Microsoft tích hợp vào trợ lý ảo của mình GPT-4, mô hình ngôn ngữ được đánh giá là có dữ liệu lớn và thông minh nhất hiện nay. Điều này giúp Copilot trở nên thông minh hơn, phản hồi các câu hỏi, yêu cầu của người dùng được chính xác hơn.

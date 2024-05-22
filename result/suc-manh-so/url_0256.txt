@@ -1,0 +1,14 @@
+Trong hồ sơ gửi lên tòa án, nền tảng này cho rằng việc Quốc hội Mỹ cấm TikTok là "một động thái chưa từng có", đồng thời gọi hành động này là "vi hiến".
+"Lần đầu tiên trong lịch sử, Quốc hội đã ban hành luật cấm vĩnh viễn một nền tảng đã xuất hiện trên toàn quốc, cấm mọi người Mỹ tham gia vào một cộng đồng trực tuyến với hơn 1 tỷ người dùng trên toàn thế giới", đơn kiện viết.
+TikTok đang tích cực đấu tranh để chống lại lệnh cấm từ chính phủ Mỹ (Ảnh: Tech Crunch).
+Công ty lập luận rằng lệnh cấm ở Mỹ sẽ không khả thi vì điều đó buộc TikTok phải chuyển giao "hàng triệu dòng mã phần mềm" từ ByteDance sang chủ sở hữu mới.
+Bên cạnh đó, TikTok cũng lên tiếng phủ nhận mọi cáo buộc rằng họ từng cấp cho các quan chức chính phủ Trung Quốc quyền truy cập vào dữ liệu của người dùng Mỹ. Công ty nói rằng họ đã thực hiện các bước bảo vệ thông tin bằng cách lưu trữ dữ liệu trên máy chủ thuộc sở hữu của Oracle.
+Giữa tháng 3, Hạ viện Mỹ đã thông qua một dự luật buộc TikTok phải thoái vốn khỏi chủ sở hữu của Trung Quốc và bán lại cho một pháp nhân được chỉ định tại Mỹ. Nếu không, nền tảng mạng xã hội này sẽ bị cấm hoạt động ở Mỹ.
+Cuối tháng 4, Thượng viện Mỹ cũng đã thông qua dự luật trên. Sau khi được 2 viện thông qua, dự luật này sẽ được chuyển đến cho Tổng thống Mỹ Joe Biden, người trước đó đã tuyên bố sẽ ký ban hành luật.
+Theo dự luật mới, ByteDance sẽ có thời hạn tối đa một năm để bán TikTok cho một công ty có trụ sở tại Mỹ. Nếu không, mạng xã hội này sẽ bị cấm và xóa bỏ khỏi các cửa hàng ứng dụng của Apple và Google ở Mỹ, hoặc 2 công ty sẽ bị phạt nặng.
+ByteDance không tiết lộ công khai hoạt động tài chính hoặc chi tiết tài chính của bất kỳ đơn vị nào dưới quyền mình. Công ty kiếm được phần lớn lợi nhuận ở Trung Quốc, chủ yếu từ các ứng dụng khác như Douyin. Theo Reuters, Mỹ chiếm khoảng 25% tổng doanh thu TikTok vào năm ngoái.
+TikTok chia sẻ thuật toán cốt lõi với các ứng dụng nội địa của ByteDance như Douyin. Các thuật toán này được đánh giá là tốt hơn so với các đối thủ như Tencent và Xiaohongshu.
+Thuật toán của TikTok được xem là cốt lõi đối với hoạt động tổng thể của ByteDance (Ảnh: Bloomberg).
+Các nguồn tin nội bộ cho biết TikTok sẽ không thể thoái vốn mà không có các thuật toán, do giấy phép sở hữu trí tuệ của họ được đăng ký theo tập đoàn mẹ ở Trung Quốc. Vì thế, nền tảng này rất khó tách khỏi công ty mẹ. Chưa dừng lại, ByteDance cũng sẽ không đồng ý bán một trong những tài sản có giá trị nhất của mình cho các đối thủ.
+Chia sẻ trong một bài đăng trên Toutiao, tập đoàn Trung Quốc tuyên bố họ không có kế hoạch bán TikTok. Đây là lời đáp trả sau bài báo của The Information, nói rằng ByteDance đang tìm cách lách luật để bán TikTok tại Mỹ mà không kèm theo thuật toán đề xuất video cho người dùng.
+"Chúng tôi hy vọng sẽ đạt được chiến thắng trước các thách thức pháp lý sắp tới nhằm ngăn chặn dự thảo do Tổng thống Joe Biden ký thành luật", Giám đốc điều hành TikTok Shou Zi Chew cho biết vào ngày 24/4.

@@ -1,0 +1,27 @@
+Hydro là nguồn năng lượng thứ cấp, tức là nó không sẵn có để khai thác trực tiếp mà phải được tạo ra từ một nguồn sơ cấp ban đầu như là nước hoặc các hợp chất hydrocarbon khác. 
+Hydro thường được chia thành 3 loại chính:
+Hydro xám (grey hydrogen)
+Màu xám đại diện cho sản phẩm hydro được sản xuất từ các dạng nhiên liệu hóa thạch như khí đốt hoặc than, vốn gây hại đối với môi trường. Tuy nhiên, hydro xám lại chiếm tới 95% lượng hydro thương mại được sản xuất trên phạm vi toàn cầu.
+Hai phương pháp chính để sản xuất ra hydro xám là nhiệt hóa khí Metan và khí hóa than đá. Cả hai phương pháp trên đều thải ra lượng khí CO2 tương đối lớn. Khi lượng khí thải này bị xả ra môi trường, sản phẩm hydro đầu ra sẽ được xếp vào thang màu xám. Do đó, hydro xám không được coi là một dạng nhiên liệu carbon thấp. 
+Hydro xanh dương (blue hydrogen)
+Hydro xanh dương có nhiều điểm tương đồng với hydro xám. Điểm khác biệt duy nhất tới từ cách xử lý lượng khí CO2 thải ra từ quá trình sản xuất. Nếu như hydro xám gắn với việc khí CO2 từ quá trình sản xuất được xả trực tiếp ra môi trường thì để tạo ra hydro xanh dương, khí CO2 sẽ được thu thập và lưu trữ, xử lý.
+Chính sự khác biệt này giúp cho hydro xanh dương được coi là một loại nhiên liệu carbon thấp. Hydro xanh dương thân thiện với môi trường hơn so với hydro xám nhưng chi phí sản xuất cao hơn do phải xử lý khí CO2.
+Hydro xanh lá (green hydrogen)
+Hydro xanh lá được sản xuất bằng nguồn điện có nguồn gốc từ các dạng năng lượng sạch như điện gió, điện mặt trời,... Hydro xanh lá được coi là nhiên liệu carbon thấp hoặc phi carbon vì quá trình sản xuất không sản sinh ra khí nhà kính.
+Hydro xanh lá là sản phẩm của quá trình phân tách nước thành hydro (H2) và oxy (O2), hay còn gọi là điện phân. Phương pháp điện phân nước có chi phí tương đối cao nhưng bù lại cho ra sản phẩm thân thiện với môi trường nhất.
+Các loại hydro chính (Minh họa: The Guardian).
+Trong lĩnh vực năng lượng, nhiều màu sắc khác cũng được chọn làm đại diện cho các sản phẩm hydro. Tuy nhiên, những màu sắc này kém phổ biến hơn so với ba màu sắc đã đề cập ở trên. Một số loại hydro khác có thể nhắc đến như:
+Hydro đen là sản phẩm của quá trình khí hóa than đá trong khi hydro nâu được tạo ra từ than nâu. Hydro đỏ có nguồn gốc từ sinh khối thông qua quá trình khí hóa.
+Hydro hồng được tạo ra thông qua quá trình điện phân sử dụng điện có nguồn gốc từ năng lượng hạt nhân. Đây cũng là một loại hydro thân thiện với môi trường vì không sản sinh ra khí CO2.
+Hydro trắng là hydro ở thể khí, không màu, được tìm thấy trong các trầm tích dưới lòng đất. Tuy nhiên, chưa có một giải pháp khai thác khả thi nào được phát triển.
+Các phương pháp sản xuất hydro hiện có:
+Phương pháp nhiệt hóa metan
+Phương pháp nhiệt hóa metan (Steam-methane reforming) là phương pháp sản xuất hydro phổ biến nhất, cho ra gần như toàn bộ lượng hydro thương mại trên phạm vi toàn cầu.
+Theo phương pháp này, hydro sẽ được tách từ các nguyên tử carbon trong khí metan (CH4). Hơi nước nhiệt độ cao ( từ 700⁰C - 1.000⁰C) sẽ phản ứng với khí metan cùng với sự xuất hiện của chất xúc tác để tạo ra hydro, Carbon Monoxide và khí CO2.
+Phương pháp điện phân
+Điện phân là phương pháp tách hydro (H2) khỏi nước (H2O) thông qua một dòng điện. Quá trình này không sản sinh ra bất cứ sản phẩm phụ nào hoặc cho ra sản phẩm khác ngoài hydro và oxy.
+Vì thế, đây được coi là giải pháp được kỳ vọng sẽ thay thế giải pháp nhiệt hóa metan truyền thống, vốn không thân thiện với môi trường. Tuy nhiên, để sản xuất ra hydro xanh lá, loại điện được sử dụng để điện phân phải được sản xuất từ các nguồn sạch như năng lượng tái tạo hoặc thủy điện.
+Phương pháp điện phân để tách hydro và oxy từ nước (Nguồn: Internet).
+Ngoài ra, một số phương pháp khác cũng đang được nghiên cứu triển khai để đa dạng hóa nguồn cung hydro:
+Phương pháp nhiệt hóa chuyển đổi sinh khối thành khí hoặc chất lỏng sau đó tách lấy hydro Phương pháp quang phân sử dụng năng lượng mặt trời để tách hydro và Oxy từ nước Phương pháp sinh học sử dụng các vi sinh vật, ví dụ như vi khuẩn và vi tảo để sản xuất hydro thông qua các phản ứng sinh học.
+Thời gian tới, các phương pháp sản xuất ra hydro sạch được hy vọng sẽ được ứng dụng rộng rãi trên quy mô lớn để nhiên liệu hydro có thể phát huy được hết tiềm năng vốn có của mình, đẩy nhanh quá trình xanh hóa năng lượng toàn cầu.

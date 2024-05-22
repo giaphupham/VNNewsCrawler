@@ -1,0 +1,33 @@
+TikTok kiện chính phủ Mỹ
+Trong hồ sơ gửi lên tòa án, nền tảng này cho rằng việc Quốc hội Mỹ cấm TikTok là "một động thái chưa từng có", đồng thời gọi hành động này là "vi hiến".
+TikTok đang tích cực đấu tranh để chống lại lệnh cấm từ chính phủ Mỹ (Ảnh: Tech Crunch).
+Công ty lập luận rằng lệnh cấm ở Mỹ sẽ không khả thi vì điều đó buộc TikTok phải chuyển giao "hàng triệu dòng mã phần mềm" từ ByteDance sang chủ sở hữu mới.
+Bên cạnh đó, TikTok cũng lên tiếng phủ nhận mọi cáo buộc rằng họ từng cấp cho các quan chức chính phủ Trung Quốc quyền truy cập vào dữ liệu của người dùng Mỹ. Công ty nói rằng họ đã thực hiện các bước bảo vệ thông tin bằng cách lưu trữ dữ liệu trên máy chủ thuộc sở hữu của Oracle.
+Nokia 3210 được "hồi sinh" sau 25 năm
+HMD Global vừa công bố mẫu điện thoại "cục gạch" Nokia 3210 với thiết kế được lấy cảm hứng từ phiên bản cùng tên ra mắt cách đây 25 năm. Phần mặt trước được làm mới với hệ thống phím điều hướng đa dạng hơn.
+Nokia 3210 được biết đến là một trong những mẫu điện thoại thành công nhất của Nokia (Ảnh: HMD).
+Nokia 3210 (2024) được trang bị màn hình LCD với kích thước 2,4 inch cùng độ phân giải QVGA. Thiết bị tích hợp bộ vi xử lý Unisoc T107, dung lượng RAM 64MB và bộ nhớ trong 128MB. Ngoài ra, sản phẩm cũng hỗ trợ mở rộng bộ nhớ lên 32GB thông qua khe cắm thẻ nhớ microSD.
+Phiên bản Nokia 3210 thế hệ mới sẽ được HMD Global bán ra tại thị trường châu Âu với mức giá 90 euro (khoảng 2,5 triệu đồng). Máy có 3 tùy chọn về màu sắc gồm vàng, xanh và đen.
+Samsung trình làng TV tích hợp AI
+Ngày 7/5, Samsung đã công bố dòng sản phẩm năm 2024 bao gồm TV Neo QLED 8K, Neo QLED 4K, OLED cùng các sản phẩm loa thanh thế hệ mới. Theo đó, hãng cũng giới thiệu hàng loạt tính năng AI giúp cải thiện công nghệ hình ảnh và âm thanh trên các dòng TV mới. 
+Samsung tích hợp giải pháp AI giúp nâng cấp trải nghiệm về hình ảnh và âm thanh trên TV (Ảnh: Thế Anh).
+Dòng Neo QLED 8K chủ lực tích hợp bộ vi xử lý NQ8 AI thế hệ 3. Bộ xử lý này được nâng cấp số lượng mạng nơ-ron thần kinh gấp 8 lần so với thế hệ tiền nhiệm, đồng thời cung cấp tốc độ xử lý gấp đôi so với thế hệ trước.
+Yêu cầu an toàn thông tin dành cho camera giám sát
+Ngày 7/5, Bộ Thông tin và Truyền thông (TT&TT) đã ban hành quyết định về bộ tiêu chí yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát. Tài liệu khuyến nghị áp dụng các yêu cầu kỹ thuật an toàn thông tin mạng cơ bản cho thiết bị camera giám sát sử dụng giao thức mạng (gọi tắt là thiết bị camera).
+Đối với các yêu cầu kỹ thuật an toàn thông tin mạng ở mức cao hơn, các tổ chức, cá nhân căn cứ đặc thù, nhu cầu thực tiễn của mình để xem xét, quyết định.
+Theo đó, các camera giám sát phải có tài liệu hướng dẫn sử dụng sản phẩm cho người sử dụng. Để đảm bảo an toàn thông tin cho người dùng, camera giám sát phải có tính năng quản lý xác thực bao gồm phòng chống tấn công vét cạn và quản lý mật khẩu an toàn.
+Cụ thể, camera cần có chức năng quản trị hệ thống cho phép thay đổi thời gian khóa, số lần đăng nhập sai và khoảng thời gian đăng nhập sai liên tục. Chỉ thông tin cho người sử dụng nội dung đăng nhập thành công/thất bại mà không có nội dung khác làm cơ sở thực hiện tấn công vét cạn.
+iPhone 17 Slim lộ diện
+Nguồn tin từ nhà phân tích Jeff Pu cho biết Apple đang lên kế hoạch bổ sung hàng loạt nâng cấp cho dòng sản phẩm iPhone 17, bao gồm thiết kế, cải tiến về camera trước hay thu gọn kích thước của Dynamic Island.
+iPhone 17 Slim sẽ có kích thước nhỏ hơn phiên bản Pro Max (Ảnh: MacRumors).
+Pu cũng tiết lộ rằng Apple sẽ giới thiệu một phiên bản mới có tên gọi iPhone 17 Slim. Mẫu máy này sẽ thay thế cho dòng sản phẩm Plus, vốn không nhận được nhiều sự quan tâm của người dùng trong những năm qua.
+Theo đó, iPhone 17 Slim sẽ có kích thước màn hình 6,6 inch. Các phiên bản iPhone 17, iPhone 17 Pro và iPhone 17 Pro Max sẽ được trang bị màn hình với kích thước lần lượt 6,1 inch, 6,3 inch và 6,9 inch.
+Bị lừa hơn 200 triệu đồng khi hẹn hò qua mạng
+Theo thông tin từ Cục An toàn thông tin (Bộ Thông tin và Truyền thông), chị H (ngụ tại TP Long Khánh, tỉnh Đồng Nai) đã bị lừa đảo và chiếm đoạt số tiền hơn 200 triệu đồng khi hẹn hò qua mạng.
+Đối tượng đã sử dụng tính năng hẹn hò trên Facebook để tìm kiếm nạn nhân và thực hiện hành vi lừa đảo (Ảnh: Thế Anh).
+Cụ thể, đối tượng tên Q đã sử dụng chức năng hẹn hò của mạng xã hội Facebook để làm quen với nhiều phụ nữ, trong đó có chị H. Khi làm quen, Q sử dụng tên cùng thông tin giả là đang công tác tại Công an TP Hà Nội. Một thời gian sau, chị H đồng ý làm quen và nảy sinh tình cảm.
+Trong giai đoạn tháng 3/2023-4/2024, Q thường xuyên đưa ra nhiều thông tin như bản thân phải đi công tác vùng sâu, biên giới nguy hiểm, cần tiền đóng thuế đất, bồi thường thiệt hại và sửa chữa xe do bị tai nạn trong quá trình đi công tác, cần tiền để xin chuyển công tác giúp thuận tiện cho việc kết hôn.
+Bộ đôi laptop AI mới từ Asus
+Vivobook S 14/16 OLED sở hữu thiết kế mỏng nhẹ với độ dày 1,39cm và trọng lượng 1,3kg. Khung máy được hoàn thiện bằng kim loại. Phần bản lề có thể mở được 180 độ, giúp người dùng sử dụng linh hoạt tùy theo nhu cầu.
+Bàn phím trên Vivobook S 14/16 OLED có đèn RGB, sử dụng cùng Windows Dynamic Lighting.
+Thiết bị tích hợp bộ xử lý Intel Core Ultra 7 cùng nhân NPU phục vụ cho các tác vụ xử lý AI. Card Intel Arc tích hợp mang đến khả năng xử lý gấp 2 lần so với thế hệ tiền nhiệm, hỗ trợ tốt cho các nhu cầu về giải trí đa phương tiện và đồ họa.

@@ -1,0 +1,6 @@
+Nguồn tin từ MacRumors cho biết Apple đang phát triển một phiên bản mới của trợ lý ảo Siri được tích hợp AI tạo sinh. Nhiều khả năng, Siri thế hệ mới sẽ được hãng giới thiệu tại sự kiện WWDC 2024.
+Phiên bản mới của ‌Siri‌ sẽ có khả năng trò chuyện tự nhiên cũng như tăng cường trải nghiệm cá nhân hóa người dùng (Ảnh: CNet).
+Phiên bản mới của ‌Siri‌ sẽ có khả năng trò chuyện tự nhiên cũng như tăng cường trải nghiệm cá nhân hóa người dùng. Báo cáo cũng tiết lộ một số tính năng AI mới của Apple có thể khác nhau tùy theo gói dịch vụ đăng ký.
+Trước đó, nguồn tin từ Bloomberg cho biết Apple đang làm việc trên một dự án trí tuệ nhân tạo có tên gọi nội bộ là "Apple GPT". Công ty cũng đã phát triển một khung "Ajax" cho các mô hình ngôn ngữ lớn như ChatGPT của OpenAI, Bing của Microsoft và Bard của Google.
+Nền tảng Ajax được xây dựng trên khung máy học Jax của Google, chạy trên Google Cloud. Trước đó, Apple được cho là đã cân nhắc việc ký hợp đồng với OpenAI và thử nghiệm công nghệ của OpenAI cho các nhóm trong công ty. Tuy vậy, cuối cùng hãng đã không làm điều đó.
+Apple hiện có một số nhóm làm việc về trí tuệ nhân tạo và cố gắng giải quyết các vấn đề liên quan đến quyền riêng tư. Ngay cả với trợ lý cá nhân Siri, Apple luôn thận trọng hơn các đối thủ cạnh tranh khi đặt quyền riêng tư lên trên những chức năng khác.

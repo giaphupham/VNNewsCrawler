@@ -1,0 +1,22 @@
+Gần 1 tuần xảy ra sự cố, đến giờ chị T.T. (ở Đà Nẵng) vẫn chưa quên được cảm giác lo sợ khi bị lừa thông qua hình thức ứng tuyển của người lao động.
+Làm ở vị trí marketing của một công ty hỗ trợ thủ tục hành chính doanh nghiệp được 6 tháng, đây là lần đầu tiên chị rơi vào tình huống trớ trêu này.
+Khi đó, công ty đăng tuyển thực tập sinh. Với những vị trí đơn giản này, chị T. có thể nhanh chóng kiểm tra CV và hẹn phỏng vấn, thay vì phải qua phòng nhân sự.
+15h ngày 25/4 là đợt cuối cùng phỏng vấn thực tập sinh. Buổi sáng hôm đó, sau khi nhận được CV của người lao động nộp qua Zalo, chị không ngần ngại kiểm tra sớm để ứng viên kịp thời gian phỏng vấn.
+CV của ứng viên mà chị T. nhận được (Ảnh: NVCC).
+Bình thường, các ứng viên khác nộp CV bằng ảnh, file pdf (tệp dữ liệu di động) thì điểm khác biệt là người này gửi cho chị một CV đuôi zip (file nén).
+"Tôi không ngần ngại tải CV, giải nén file đó. Tuy nhiên, trong quá trình này tôi giải nén, file bị lỗi nên tôi yêu cầu bạn đó gửi lại CV. Lúc này, trong đầu tôi vẫn không có bất kỳ nghi ngờ gì", chị T. chia sẻ.
+Khoảng 1 giờ sau, điện thoại của chị hiển thị thông tin bị trừ 800.000 đồng ở giao dịch mạng xã hội Facebook. Chị có một tài khoản ngân hàng trong đó có 35 triệu đồng, liên kết với Facebook thực hiện thanh toán những lần chạy quảng cáo.
+Lúc này, chị vẫn nghĩ do một đợt quảng cáo nào đó đến kỳ hạn thanh toán nên tự động trừ. Ngay sau đó, chị bị trừ tiền liên tiếp ở tài khoản này 5 lần với số tiền gần 8 triệu đồng.
+"Lúc đó, tôi mới cuống cuồng vào thẻ ngân hàng để kiểm tra khi bị trừ liên tiếp nhiều tiền. Trong lúc rối loạn, tôi run bắn, chuyển hết số tiền còn lại trong thẻ qua một tài khoản ngân hàng khác của bạn mình", chị T. nhớ lại.
+Lúc đó, tất cả các tài khoản Email, hay mạng xã hội trên máy tính của chị đều bị chiếm đoạt. Đối tượng chiếm quyền tiếp tục tìm cách đăng nhập nhiều email khác trên máy tính của chị.
+Sau khi trao đổi với những người làm về công nghệ thông tin, chị mới biết máy tính của mình bị dính virus botnet. Máy tính của chị bị chiếm quyền và đang được điều khiển bởi một mạng từ xa.
+Tài khoản liên tiếp bị trừ tiền (Ảnh: NVCC).
+Theo chị T., có nhiều người từng gặp trường hợp này. Với chị, đây là lần đầu tiên "dính bẫy", khó tránh được việc đề phòng. Chính vì vậy, thẻ ngân hàng chạy quảng cáo và số tiền chị tiết kiệm cũng biến mất.
+Sau tình huống gặp phải, chị rút kinh nghiệm không tải file zip từ bất kỳ người lạ nào gửi tới. Bên cạnh đó, chị sẽ không để quá nhiều tiền trong một tài khoản thẻ mà có liên kết thanh toán với các nền tảng khác. Cụ thể, chị quyết định sử dụng thẻ ngân hàng chạy quảng cáo facebook riêng, thẻ tiêu dùng thường ngày riêng.
+Trước đó, báo Dân trí đã phản ánh về trường hợp chị Ngọc Hà, nhân viên hành chính nhân sự của một công ty tại Hà Nội gặp phải tình huống tương tự. Trong quá trình làm đại diện nhà tuyển dụng, chị còn gặp ứng viên có dấu hiệu lừa đảo.
+Vì là nhà tuyển dụng công khai số điện thoại nên chị nhận được tin nhắn của một ứng viên qua mạng xã hội Zalo, hỏi về vị trí marketing đang tuyển của công ty. Người lao động này có gửi cho chị một văn bản CV rất lạ.
+Dù vị trí này công ty đang cần song chị cũng cảnh giác, nhờ nhân viên công nghệ thông tin kiểm tra. Hóa ra đây là văn bản kèm mã độc. Đây cũng là bài học chị thu lượm được trong quá trình làm nhân sự.
+Mới đây, Công an TP Hà Nội thông báo, tội phạm sử dụng công nghệ cao để lừa đảo chiếm đoạt tài sản vẫn diễn biến phức tạp, các đối tượng thường xuyên thay đổi phương thức, thủ đoạn hoạt động.
+Trước tình hình diễn biến của loại tội phạm này, Công an TP Hà Nội đã liệt kê nhiều thủ đoạn mà tội phạm công nghệ cao sử dụng nhằm cảnh báo đến người dân.
+Trong đó, có thủ đoạn đăng tin có nội dung tuyển dụng việc làm online.
+Sau đó, giả danh nhân viên các sàn thương mại điện tử Shopee, Lazada, Tiki... để tuyển dụng, giao việc và yêu cầu bị hại ứng tiền chuyển khoản thanh toán các đơn hàng trên các sàn thương mại điện tử trên, sau đó chiếm đoạt tiền của bị hại đã chuyển và cắt liên lạc với bị hại.

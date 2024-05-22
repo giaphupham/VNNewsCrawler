@@ -1,0 +1,6 @@
+Tính năng này sẽ hoạt động tương tự với tính năng Find My trên các thiết bị của Apple. Theo Business Insider, tính năng Find My Device sẽ tận dụng công nghệ Bluetooth tích hợp với hơn một tỷ thiết bị Android để giúp người dùng có thể định vị và tìm thấy thiết bị của họ khi chúng bị thất lạc.
+Tính năng Find My Device có thể hoạt động ngay cả khi thiết bị ở trạng thái ngoại tuyến (Ảnh: Business Insider).
+Đáng chú ý, tính năng này hoạt động ngay cả khi thiết bị ở trong trạng thái ngoại tuyến, không có kết nối Internet. Đối với một số thiết bị của Google như Pixel 8 và Pixel 8 Pro, người dùng còn có thể tìm được thiết bị ngay cả khi đã tắt nguồn.
+Google cho biết khi các thiết bị tham gia vào mạng lưới báo cáo vị trí thông qua kết nối Bluetooth, vị trí đó sẽ được mã hóa hai đầu và chỉ chủ sở hữu thiết bị mới có thể xem được thông tin này.
+"Với dữ liệu vị trí được mã hóa hai đầu, Google không thể giải mã, xem hoặc sử dụng dữ liệu vị trí đó", Google chia sẻ về vấn đề bảo mật của tính năng này.
+Tính năng tìm kiếm mới của Google đã giúp thu hẹp khoảng cách giữa hai nền tảng Android và iOS. Người dùng có thể tăng khả năng theo dõi và tìm kiếm thiết bị trong trường hợp bị thất lạc.

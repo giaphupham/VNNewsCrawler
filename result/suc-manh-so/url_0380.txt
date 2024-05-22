@@ -1,0 +1,25 @@
+Nvidia là một trong những tập đoàn về sản xuất chip bán dẫn giá trị nhất toàn cầu (Ảnh: Trust my science).
+Theo ông, kỹ năng này sẽ không còn cần thiết nữa vì trí tuệ nhân tạo (AI) có thể sớm đảm nhận hoàn toàn nhiệm vụ này.
+Vị tỷ phú thế giới ủng hộ việc người trẻ tập trung nhiều hơn vào các kỹ năng khác, chẳng hạn như công nghệ sinh học, nông nghiệp, sản xuất và giáo dục.
+Trong 3 thập kỷ qua, lập trình được coi là một kỹ năng thiết yếu cho bất kỳ ai muốn theo đuổi nghề điện toán. 
+Các chuyên gia trong lĩnh vực này thậm chí còn khuyên các quốc gia nên lồng ghép các khóa học lập trình vào trong đào tạo giáo dục bậc trung học, nhằm tạo nền tảng vững chắc cho những bạn trẻ mong muốn phát triển kỹ năng sau này. 
+Hiện nhiều trường đại học và học viện chuyên ngành trên thế giới triển khai các khóa đào tạo lập trình máy tính và cung cấp đầu vào tuyệt vời cho các công ty công nghệ.
+Tuy nhiên, CEO của Nvidia - một trong những tập đoàn sản xuất chip lớn nhất thế giới - cho rằng kỹ năng này không còn cần thiết nữa. 
+Đầu tư vào những kỹ năng hữu ích hơn?
+CEO Huang được biết đến với con đường sự nghiệp nhiều gian nan, từ một đứa trẻ khó khăn đến anh thanh niên có thu nhập thấp và trở thành một trong những tỷ phú của thế giới. 
+Nvidia là một trong những tập đoàn sản xuất chip có giá trị nhất thế giới, tầm nhìn chiến lược của CEO công ty gần đây lại hướng tới AI. 
+Thành công của chip CPU xử lý song song của Nvidia, đặc biệt phù hợp với các hệ thống AI tiên tiến, đã góp phần vào sự tăng trưởng theo cấp số nhân cho tập đoàn.
+Với những kết quả đáng kinh ngạc này, đã giúp khối tài sản cá nhân của CEO này tăng từ 59,6 tỷ USD lên 69,2 tỷ USD chỉ trong một ngày.
+Với thành công của mình, tỷ phú Huang đã khơi dậy sự ngưỡng mộ của các đồng nghiệp và là nguồn cảm hứng cho các chuyên gia tương lai trong lĩnh vực lập trình.
+Tuy nhiên, trong khi một phần xây dựng tài sản của mình nhờ lập trình máy tính, ông lại tuyên bố rằng, những người trẻ tuổi không cần phải học cách viết mã (code) máy tính.
+Tuyên bố của ông không ngừng làm dấy lên những lời chỉ trích, hoài nghi từ những người đang học tập, hoạt động trong lĩnh vực lập trình. 
+Theo ông, những tiến bộ hiện tại của AI phần lớn đã đáp ứng được nhu cầu về lập trình viên của con người. 
+"Nhiệm vụ của chúng tôi là tạo ra công nghệ điện toán mà không ai cần phải lập trình.
+Công nghệ đã làm cho việc lập trình máy tính trở nên dễ tiếp cận đến mức giờ đây mọi người đều là lập trình viên. Nói cách khác, mỗi chúng ta có thể dễ dàng tạo mã máy tính bằng AI. Đây là điều kỳ diệu của trí tuệ nhân tạo", vị CEO chia sẻ. 
+Giám đốc điều hành khuyên những người trẻ nên đầu tư nhiều hơn vào việc phát triển các kỹ năng khác ngoài việc học lập trình, những kỹ năng mà ông tin hữu ích hơn, chẳng hạn như công nghệ sinh học, sản xuất nông nghiệp và giáo dục. 
+Ông còn thông tin thêm các việc làm trong ngành có mức lương cao đều nằm trong số những lĩnh vực bị ảnh hưởng bởi tự động hóa của AI. 
+Có lẽ đã đến lúc một số lập trình viên nên tập trung vào các kỹ năng khác và theo đuổi các cơ hội khác?
+Sự kết thúc của nghề lập trình viên?
+Đáp lại bài phát biểu của Huang, các chuyên gia tỏ ra không tin tưởng, cho rằng mặc dù một số người đã tuyên bố bắt đầu sự kết thúc của các lập trình viên, nhưng ngành công nghệ vẫn thiếu hụt nhân viên trong lĩnh vực này. 
+Theo một số chuyên gia, thay vì "tiêu diệt" nghề lập trình, các công ty nên tích hợp AI và phát triển nó nhằm cải thiện khả năng sáng tạo của các lập trình viên.
+Mặc dù một số ngành như viết quảng cáo bị ảnh hưởng nặng nề bởi tự động hóa AI, một nghiên cứu khác cho thấy rằng, công việc phát triển phần mềm đã tăng trưởng 6% kể từ khi ChatGPT ra đời.

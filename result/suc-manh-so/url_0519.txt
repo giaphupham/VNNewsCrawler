@@ -1,0 +1,12 @@
+Trên một diễn đàn dành cho hacker, một nhóm tin tặc tự xưng biệt danh "AgainstTheWest" tuyên bố đang nắm giữ cơ sở dữ liệu gồm mã nguồn và thông tin cá nhân của hàng loạt người dùng mạng xã hội TikTok.
+Nhóm hacker này tuyên bố đã tấn công vào máy chủ của TikTok, lấy cắp cơ sở dữ liệu có dung lượng 790GB, bao gồm mã nguồn, thông tin của hơn 2 tỷ bản ghi dữ liệu thông tin cá nhân của người dùng, các thống kê về nền tảng như lượng người dùng thường xuyên, thời gian dùng ứng dụng…
+Các dữ liệu này bao gồm thông tin cả người dùng Douyin (phiên bản TikTok dành riêng cho thị trường Trung Quốc).
+Hacker đăng tin rao bán mã nguồn và thông tin người dùng của TikTok và WeChat, 2 ứng dụng có hàng tỷ người dùng hiện nay (Ảnh chụp màn hình).
+Nhóm hacker này còn đăng tải một dữ liệu mẫu lên diễn đàn để minh họa cho cơ sở dữ liệu mà mình đang nắm giữ. Các tin tặc rao bán dữ liệu yêu cầu người mua trả bằng tiền mã hóa, điều này sẽ khiến cho việc truy vết và tìm ra tung tích của nhóm hacker gặp nhiều khó khăn.
+Việc TikTok bị hack và làm lộ thông tin người dùng đã khiến giới công nghệ và cộng đồng người dùng TikTok xôn xao, khi mà TikTok đang là một trong những mạng xã hội lớn nhất thế giới.
+Tuy nhiên, phía TikTok đã lập tức lên tiếng trấn an người dùng và khẳng định mạng xã hội này không hề bị hack. Đại diện TikTok cho biết thông tin do các hacker công bố là không chính xác.
+"Đây là một cáo buộc sai trái. Đội ngũ bảo mật của chúng tôi đã điều tra và không tìm thấy bằng chứng nào cho thấy TikTok đã bị xâm nhập. Chúng tôi đã xác minh rằng những dữ liệu mà tin tặc đề cập đến đều là những dữ liệu công khai và không có bất kỳ sự xâm nhập nào vào hệ thống, mạng nội bộ cũng như cơ sở dữ liệu của TikTok".
+"Người dùng không cần phải thực hiện bất kỳ hành động nào và chúng tôi cam kết về sự an toàn, bảo mật của cộng đồng người sử dụng", phát ngôn viên của TikTok cho biết trong một thông cáo đưa ra.
+Trong khi đó, chuyên gia bảo mật người Mỹ Troy Hunt nhận định rằng phần lớn dữ liệu mà hacker đang rao bán là những dữ liệu được công khai trên TikTok, nhưng vẫn có một số dữ liệu bí mật không rõ lấy từ đâu, do vậy Hunt chưa thể khẳng định được liệu hacker có thực sự xâm nhập được vào hệ thống của TikTok hay chưa.
+Không chỉ TikTok, nhóm tin tặc "AgainstTheWest" còn tuyên bố lấy cắp được dữ liệu từ ứng dụng nhắn tin WeChat, một trong những ứng dụng có lượng người dùng lớn nhất tại Trung Quốc. Tuy nhiên, hiện tại WeChat chưa đưa ra bình luận gì về việc nền tảng này đã bị hacker xâm nhập hay không.
+Theo BleepingComputer

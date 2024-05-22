@@ -1,0 +1,15 @@
+Các kết quả đo được cho thấy tốc độ 5G của MobiFone khá ổn định, cao nhất lên tới trên 1,7 Gbps.
+Trong buổi trải nghiệm thực tế mạng 5G MobiFone tại Quận 1, TP. HCM ngày 17/12, tốc độ thực tế mạng 5G MobiFone đo thông qua phần mềm Speedtest đã xác lập kỷ lục mới, với kết quả cao nhất đạt hơn 1,700 Mbps (hay 1,7 Gbps).
+Trước đó ít ngày, 5G VinaPhone cũng gây bất ngờ khi đo được tốc độ thực tế ở xung quanh khu vực ven Hồ Gươm, Hà Nội lên tới 1,300 Mbps. Còn nhà mạng Viettel thì đã đạt tốc độ 5G với thiết bị đầu cuối từ 1,400 - 1,500 Mbps, vượt xa tốc độ giới hạn lý thuyết của mạng 4G LTE.
+Có thể thấy rằng những con số này đều nằm ở mức tiệm cận với tốc độ 5G trên lý thuyết, tức là môi trường trong phòng lab, cho thấy chất lượng hạ tầng 5G và thiết bị đầu cuối ở Việt Nam hoạt động rất tốt. Càng bất ngờ hơn khi trên thế giới, không có nhiều quốc gia đạt được tốc độ 5G cao như ở tại Việt Nam.
+Trước đó, lần lượt 5G Viettel và 5G VinaPhone đều có được tốc độ ấn tượng.
+Để so sánh, theo số liệu từ Ookla, người dùng mạng Verizon tại Hoa Kỳ có kết nối 5G trung bình đạt 793 Mbps, nhà mạng AT&T đạt tốc độ trung bình 728 Mbps và nhà mạng T-Mobile đạt 732 Mbps.
+Trong khi đó, tại quốc gia đông dân nhất thế giới là Trung Quốc, tốc độ 5G tại Quảng Châu - một trong những thành phố thí điểm trong việc triển khai mạng 5G cho tốc tải xuống trung bình đạt 1.000 Mbps, và tối đa đạt 1.300 Mbps đối với nhà mạng ZTE.
+Ở Hàn Quốc, tốc độ mạng 5G trung bình được đo từ 3 nhà mạng di động bao gồm SK Telecom, KT Corp và LG Uplus đạt 656 Mbps. Trong đó, tốc độ cao nhất đạt được từ nhà mạng SK. Telecom chỉ dừng lại ở 789 Mbps, tức là thấp hơn phân nửa so với con số ghi nhận tại Việt Nam.
+Tuy nhiên, theo ý kiến của một số chuyên gia, khi 5G tại Việt Nam chính thức đi vào thương mại hóa với lượng truy cập thực tế từ người dùng thì mới đánh giá chính xác được tốc độ và khả năng chịu tải của mạng lưới.
+So sánh tốc độ mạng 4G và 5G tại các quốc gia và vùng lãnh thổ trên thế giới.
+(Ảnh: OpenSignal)
+5G là mạng thông tin di động thế hệ mới nhất, kế tiếp sau mạng 4G, đang được cả thế giới cùng hướng đến với những ưu điểm như tốc độ dữ liệu lớn, dung lượng cao, độ trễ siêu nhỏ, tiết kiệm năng lượng và có khả năng kết nối đa thiết bị.
+Tại Việt Nam, 5G đang bước đầu được các nhà mạng lớn như Viettel, Vinaphone, MobiFone phát sóng thử nghiệm tại một số khu vực nhất định.
+Cụ thể đối với Viettel và Vinaphone, hai nhà mạng này đã triển khai phát sóng thương mại đồng thời tại khu vực quận trung tâm Hà Nội và Quận 1, TP. HCM. Trong khi đó, MobiFone hiện mới chỉ triển khai tại TP. HCM.
+Trong thời gian tới, các nhà mạng sẽ tiếp tục mở rộng vùng phủ sóng 5G tại các thành phố lớn, tạo cơ hội để người dân trải nghiệm Internet không dây tốc độ cao. Dự kiến, mạng 5G ở Việt Nam sẽ chính thức thương mại hóa trong năm 2021.

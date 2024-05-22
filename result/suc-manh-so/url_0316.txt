@@ -1,0 +1,17 @@
+Cùng với sự phát triển của công nghệ, kết nối mạng internet càng cho thấy mức độ quan trọng khi mọi hoạt động trong cuộc sống hàng ngày của người dân, quá trình vận hành của doanh nghiệp hoặc các tổ chức chính phủ ngày nay đều phụ thuộc vào kết nối mạng internet.
+Chắc hẳn không cần nói, bất kỳ ai cũng hiểu rằng nếu mạng internet gặp sự cố trên toàn cầu, dù chỉ trong vòng 1 phút, cũng sẽ gây ảnh hưởng nghiêm trọng đến hoạt động của người dùng thông thường, quá trình vận hành của các doanh nghiệp cũng như các tổ chức chính phủ.
+Vậy các quốc gia trên thế giới và các "ông lớn" công nghệ sẽ chịu thiệt hại như thế nào nếu mạng internet trên toàn cầu bị "sập" trong vòng một phút?
+Để đi tìm câu trả lời, NetBlocks - tổ chức chuyên giám sát an ninh mạng và quản trị internet có trụ sở tại London (Anh) - đã tiến hành một nghiên cứu để ước tính mức độ thiệt hại của nền kinh tế toàn cầu và từng quốc gia riêng biệt trong trường hợp mạng internet bị ngừng hoạt động trong vòng 60 giây.
+Mức độ thiệt hại ước tính của các quốc gia khi mạng internet bị "sập" trong 1 phút (Ảnh: PCMag).
+Theo đó, nếu internet trên toàn cầu gặp lỗi trong vòng 1 phút, nền kinh tế thế giới sẽ chịu thiệt hại ước tính hơn 20,1 triệu USD. Trong đó các quốc gia có nền khoa học công nghệ phát triển sẽ chịu ảnh hưởng và thiệt hại nhiều nhất.
+Cụ thể, nếu internet bị sự cố trong vòng 1 phút, Mỹ sẽ chịu thiệt hại hơn 7,64 triệu USD, Trung Quốc sẽ bị thiệt hại 6,87 triệu USD, tiếp theo là Vương quốc Anh, Nhật Bản và Đức với các mức thiệt hại tương ứng 2,27 triệu USD, 1,88 triệu USD và 1,04 triệu USD…
+Các "ông lớn" công nghệ sẽ thiệt hại thế nào nếu mạng internet "sập" trong 1 phút?
+Không chỉ với nền kinh tế toàn cầu, internet có vai trò vô cùng quan trọng đối với các "ông lớn" về công nghệ như Alphabet (công ty mẹ của Google), Meta (công ty mẹ của Facebook), Amazon, Microsoft… khi đây đều là những công ty cung cấp các dịch vụ trực tuyến và hoạt động chủ yếu trên nền tảng internet.
+Vậy nếu internet gặp sự cố trong vòng 1 phút, các "ông lớn" này sẽ bị thiệt hại đến mức nào?
+Hãng nghiên cứu thị trường MacroTrends (có trụ sở tại Seattle, Mỹ) đã thực hiện một nghiên cứu để dự đoán mức độ thiệt hại của các hãng công nghệ lớn khi mạng internet gặp sự cố.
+Mức độ thiệt hại ước tính của các hãng công nghệ lớn khi internet bị ngừng hoạt động trong 1 phút (Ảnh: PCMag).
+Nghiên cứu của MacroTrends cho thấy Amazon, hãng thương mại điện tử và cung cấp các dịch vụ đám mây trực tuyến, sẽ là công ty chịu thiệt hại nhiều nhất. Theo đó, nếu internet bị sập trong vòng 1 phút, Amazon sẽ chịu thiệt hại hơn 977.000 USD.
+Xếp thứ 2 về mức độ thiệt hại là Alphabet (công ty mẹ của Google), với mức thiệt hại ước tính hơn 538.000 USD. Các vị trí tiếp theo về mức độ thiệt hại lần lượt thuộc về Meta (công ty mẹ của Facebook, Instagram), ByteDance (công ty mẹ của TikTok), Netflix…
+Dĩ nhiên, mọi con số thống kê chỉ dừng lại ở mức độ ước tính và dự đoán, bởi lẽ việc internet bị "sập" trên phạm vi toàn cầu là điều rất khó xảy ra, chưa nói đến việc sự cố kéo dài đến 1 phút.
+Cuối năm 2015, nhóm tin tặc khét tiếng Anonymous từng lên tiếng đe dọa sẽ đánh sập mạng internet toàn cầu bằng một đợt tấn công từ chối dịch vụ (DDoS) quy mô lớn vào các máy chủ tên miền gốc (root name servers). Tuy nhiên, vụ tấn công mạng này chỉ gây ảnh hưởng người dùng internet tại một số khu vực trên thế giới.
+Theo PCMag/DTrends

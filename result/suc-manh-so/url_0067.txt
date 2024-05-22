@@ -1,0 +1,7 @@
+Trong cuộc họp gần đây, CEO Apple Tim Cook đã tiết lộ một số thông tin về AI tạo sinh của công ty. Vị CEO cho rằng Apple có những lợi thế riêng và sẽ tạo ra sự khác biệt trong thời đại AI.
+Tim Cook cho biết AI tạo sinh của công ty sẽ có sự khác biệt so với các đối thủ trên thị trường (Ảnh: Business Insider).
+"Chúng tôi nhận thấy nhiều cơ hội trong lĩnh vực AI tạo sinh. Chúng tôi đã thực hiện những khoản đầu tư đáng kể và chúng tôi mong muốn sớm được chia sẻ một số điều rất thú vị với khách hàng của mình.
+Chúng tôi tin vào tiềm năng của AI. Đồng thời, chúng tôi cũng có những lợi thế sẽ tạo nên sự khác biệt trong kỷ nguyên mới này, bao gồm sự kết hợp độc đáo giữa phần cứng, phần mềm và dịch vụ liền mạch", Tim Cook chia sẻ.
+Nhiều thông tin rò rỉ gần đây cho biết các tính năng AI do Apple thiết kế sẽ chạy trực tiếp trên thiết bị, thay vì xử lý thông qua liên kết với dịch vụ đám mây. Điều này sẽ giúp cho AI của Apple trở nên riêng tư, an toàn hơn so với các đối thủ.
+Để thực hiện được kế hoạch trên, Apple sẽ cần trang bị cho các sản phẩm của công ty CPU và GPU có sức mạnh đáng kể. Nhiều khả năng, Apple đang có kế hoạch tập trung vào AI với chip M4 sắp ra mắt.
+Trước đó, Apple đã gửi thư mời thông báo về việc sẽ tổ chức sự kiện đặc biệt vào ngày 7/5. Theo Bloomberg, chip M4 có thể sẽ được tích hợp trên những chiếc iPad Pro dự kiến ra mắt tại sự kiện này.

@@ -1,0 +1,7 @@
+Giám đốc điều hành Meta Mark Zuckerberg cho biết trợ lý AI này có thể trả lời các câu hỏi, hỗ trợ tạo hình ảnh. Meta AI được xây dựng trên mô hình ngôn ngữ lớn mới nhất của công ty có tên Meta Llama 3.
+Mark Zuckerberg đang tích cực đẩy mạnh cuộc đua AI (Ảnh: CNN).
+Công cụ AI này được xem là đối thủ cạnh tranh trực tiếp với ChatGPT của OpenAI và Google Gemini. Theo CNBC, đây cũng là nỗ lực lớn nhất từ trước đến nay của Meta trong cuộc đua AI.
+"Chúng tôi tin rằng Meta AI hiện là trợ lý AI thông minh nhất mà bạn có thể sử dụng", CEO Mark Zuckerberg chia sẻ.
+Meta AI sẽ được tích hợp vào hộp tìm kiếm của ứng dụng WhatsApp, Instagram, Facebook và Messenger. Người dùng có thể đặt câu hỏi và nhận câu trả lời thông qua công cụ này.
+Ngoài ra, Meta AI cũng được cung cấp trên nền tảng web. Người dùng có thể yêu cầu trợ lý AI thực hiện các nhiệm vụ như giải một bài toán hoặc viết email. Bên cạnh đó, người dùng còn có thể ghi lại cuộc trò chuyện để tham khảo trong tương lai.
+Trong khi đó, tính năng tạo hình ảnh hiện chỉ có sẵn ở phiên bản beta trên WhatsApp và nền tảng web. Hình ảnh cũng có thể được chuyển thành ảnh động (GIF) để người dùng chia sẻ.

@@ -1,0 +1,20 @@
+Lockbit, nhóm tin tặc cực kỳ nguy hiểm đứng sau hàng loạt vụ tấn công mạng quy mô lớn gây thiệt hại hàng tỷ USD, vừa bị triệt hạ. Nhiều tin tặc cầm đầu Lockbit đã bị bắt và đối mặt với án phạt nặng.
+Chiến dịch bắt giữ này do Cục Điều tra Liên bang (FBI) và Cơ quan Tội phạm Quốc gia Anh (NCA) dẫn đầu. Đây được xem là chiến dịch chưa từng có của cảnh sát quốc tế nhằm tấn công những băng đảng tội phạm mạng nguy hiểm.
+Đại diện của NCA, FBI, Bộ Tư pháp Hoa Kỳ, Cơ quan Cảnh sát Liên minh châu Âu đã tập trung tại London (Anh) để thông báo về sự tan rã của Lockbit. Nhóm tin tặc này từng nhắm đến hơn 2.000 nạn nhân trên toàn cầu, gây ra thiệt hại hàng tỷ USD.
+FBI, NCA và nhiều cơ quan thực thi pháp luật khác đã giành được quyền kiểm soát các trang web, tài khoản mạng xã hội thuộc quyền sở hữu của Lockbit.
+Các cơ quan này cũng đã thực hiện một bước đi đặc biệt, đó là sử dụng chính trang web của Lockbit để công bố các dữ liệu nội bộ của nhóm tin tặc này.
+Thông báo về việc Lockbit bị triệt hạ được đăng trực tiếp trên trang web chính thức của nhóm tin tặc này (Ảnh: FBI).
+"Chúng tôi đã tấn công, triệt hạ nhóm tin tặc, kiểm soát cơ sở hạ tầng và thu giữ mã nguồn của chúng, từ đó lấy được các khóa giúp nạn nhân giải mã dữ liệu do Lockbit mã hóa khi tấn công bằng mã độc tống tiền", Graeme Biggar, Tổng giám đốc NCA, cho biết.
+Graeme Biggar cho biết quá trình triệt hạ nhóm tin tặc Lockbit được thực hiện bởi chiến dịch có tên gọi "Cronos", là sự hợp tác quốc tế với sự tham gia của các cơ quan phòng chống tội phạm đến từ 10 quốc gia.
+Cảnh sát Ba Lan, Ukraine cũng tham gia chiến dịch và đã bắt giữ 2 công dân Nga, bị cáo buộc là những tin tặc đứng đầu và điều hành Lockbit.
+Danh tính của 2 tin tặc này được xác định là Artur Sungatov và Ivan Kondratyev.
+2 tin tặc này đã phát triển và sử dụng mã độc tống tiền để tấn công hàng loạt công ty tại nhiều bang của Mỹ và nhiều tập đoàn lớn, bao gồm Ngân hàng Công thương Trung Quốc (ICBC), ngân hàng lớn nhất thế giới; hãng sản xuất chip lớn nhất thế giới TSMC hay hãng sản xuất máy bay Boeing…
+Lockbit đã gây ra thiệt hại hàng tỷ USD
+Lockbit chuyên sử dụng các loại mã độc tống tiền để tấn công các nạn nhân. Mã độc tống tiền (ransomware) là loại mã độc rất nguy hiểm, có khả năng mã hóa dữ liệu trên máy tính, hệ thống của nạn nhân, buộc họ phải trả tiền chuộc để có thể giải mã và lấy lại dữ liệu. Nếu không trả tiền chuộc, dữ liệu có thể bị mã độc tiêu hủy hoàn toàn.
+Nhờ vào các loại mã độc tống tiền, Lockbit đã thu lợi hàng trăm triệu USD tiền chuộc từ các nạn nhân. Chủ yếu được trả thông qua các ví tiền điện tử nên rất khó để tìm ra danh tính của tin tặc.
+Tuy nhiên, nhiều nạn nhân của Lockbit đã không chấp nhận trả tiền chuộc cho nhóm tin tặc này và tìm cách tự giải mã để "cứu" dữ liệu.
+Graeme Biggar ước tính quá trình "cứu" dữ liệu và bị gián đoạn hoạt động bởi mã độc tống tiền tấn công đã khiến các doanh nghiệp trên toàn cầu chịu thiệt hại lớn, thậm chí lên đến hàng tỷ USD.
+Chiến dịch Cronos đã tịch thu 34 máy chủ của Lockbit, đóng băng 200 tài khoản tiền điện tử dùng để nhận tiền chuộc và khóa hơn 14.000 tài khoản trực tuyến lừa đảo phục vụ cho các hoạt động phát tán mã độc của Lockbit.
+Trước khi bị gỡ xuống, trang web của Lockbit đã đăng tải một "bộ sưu tập" các nạn nhân của nhóm tin tặc này. Danh sách nạn nhân của Lockbit liên tục được mở rộng và kéo dài mỗi ngày. Bên cạnh đó, Lockbit còn hiển thị một đồng hồ đếm ngược để cho biết các nạn nhân còn bao nhiêu thời gian trả tiền chuộc trước khi dữ liệu bị xóa bởi mã độc.
+Hiện tại trang web của Lockbit đã được cơ quan chức năng sử dụng để công bố các dữ liệu nội bộ của chính nhóm tin tặc này, đồng hồ đếm ngược được thay thế bằng mức án mà các tin tặc có thể phải đối mặt.
+Theo RT/Dtrends/Bcomputer

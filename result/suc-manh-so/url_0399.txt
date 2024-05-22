@@ -1,0 +1,6 @@
+Apple vừa tung ra bản cập nhật iOS 17.3 và iPadOS 17.3. Đây là phiên bản nâng cấp lớn thứ ba mà công ty phát hành kể từ khi iOS 17 và iPadOS 17 ra mắt vào tháng 9/2023.
+iOS 17.3 tập trung nâng cấp tính năng bảo mật trên thiết bị (Ảnh: Bloomberg).
+Một trong những thay đổi quan trọng trên phiên bản hệ điều hành mới này là tăng cường sinh trắc học thay cho mật khẩu. Cụ thể, Apple đã bổ sung tính năng bảo vệ thiết bị khi bị đánh cắp, giúp ngăn chặn người khác truy cập vào thông tin nhạy cảm ngay cả trong trường hợp biết mật khẩu của máy.
+Bên cạnh đó, người dùng cũng cần xác nhận bảo mật sinh trắc học mỗi khi muốn thay đổi mật khẩu mở máy hoặc tài khoản Apple ID. Thời gian giữa hai lần đổi mật khẩu tối thiểu là một giờ.
+Ngoài ra, hệ điều hành iOS 17.3 cũng bổ sung thêm hàng loạt cải tiến mới như tăng khả năng tương thích của AirPlay, theo dõi bảo hành của các thiết bị dùng chung tài khoản Apple ID hay tối ưu hóa phát hiện va chạm trên iPhone 14 và iPhone 15.
+Để cập nhật iOS 17.3 và iPadOS 17.3, người dùng có thể truy cập vào phần Cài đặt -> Cài đặt chung -> Cập nhật phần mềm. Bên cạnh đó, Apple cũng cung cấp bản cập nhật iOS 15.8.1 và iOS 16.7.5 cho những thiết bị đời cũ hơn.

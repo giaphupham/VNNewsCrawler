@@ -1,0 +1,13 @@
+Ngày 2/4, Tổng công ty Dầu Việt Nam (PVOIL) cho biết hệ thống công nghệ thông tin của đơn vị này đã bị tấn công bất hợp pháp có chủ đích theo hình thức mã hóa dữ liệu (ransomware).
+Trước đó, vào ngày 24/3, vụ tấn công có hình thức tương tự cũng đã xảy ra với Công ty Chứng khoán VNDirect.
+Trang web của PVOIL không thể truy cập được trong ngày 2/4 (Ảnh chụp màn hình).
+Điều này làm dấy lên nghi vấn rằng hai vụ tấn công trên có liên quan đến nhau và được thực hiện bởi cùng một nhóm tin tặc hay không.
+Trao đổi với phóng viên Dân trí, ông Vũ Ngọc Sơn, Giám đốc kỹ thuật Công ty Công nghệ An ninh mạng Quốc gia Việt Nam, cho biết dựa vào dấu hiệu tấn công của hai vụ việc thì đây là hai nhóm tin tặc hoàn toàn khác nhau.
+"Thời gian qua, một số doanh nghiệp tại Việt Nam đã bị tấn công theo hình thức mã hóa dữ liệu nâng cao. Về bản chất, đây là hình thức tấn công APT kết hợp mã hóa dữ liệu, không phải chỉ mã hóa dữ liệu đơn thuần.
+Những đối tượng tấn công sẽ nằm vùng từ trước ở trong hệ thống của nạn nhân, sau đó sẽ lựa chọn thời điểm thích hợp để tiến hành mã hóa dữ liệu", ông Sơn chia sẻ.
+Vị chuyên gia này cho biết thêm rằng có những trường hợp ghi nhận được tin tặc đã nằm vùng trong hệ thống 1-2 năm rồi mới thực hiện việc tấn công. Việc tin tặc ẩn nấp bên trong hệ thống từ rất lâu cho thấy hệ thống đã tồn tại những lỗ hổng từ trước.
+"Có thể sau các vụ việc vừa qua, các nhóm tin tặc nhận thấy có khả năng lấy được tiền nên có thể đã thực hiện tấn công mã hóa. Còn việc tấn công xâm nhập hệ thống đã diễn ra thời gian dài trước đó", ông Sơn tiết lộ.
+PVOIL đưa ra thông báo về việc bị tấn công trên trang fanpage Facebook (Ảnh: Thế Anh).
+Hiện tại, vụ tấn công mạng nhắm vào PVOIL đã khiến hệ thống công nghệ thông tin của đơn vị này bị ngưng trệ, trong đó có hệ thống phát hành hóa đơn điện tử. Vì vậy, việc phát hành hóa đơn điện tử phục vụ việc bán hàng của PVOIL tạm thời không thể thực hiện được.
+Qua theo dõi, giám sát không gian mạng, Cục An toàn thông tin, Bộ Thông tin và Truyền thông, phát hiện xu hướng tấn công mạng, đặc biệt là mã hóa tấn công tống tiền (ransomware) tăng cao.
+Cục An toàn thông tin đề nghị các cơ quan, tổ chức, doanh nghiệp rà soát và triển khai bảo đảm an toàn thông tin mạng cho các hệ thống thông tin thuộc phạm vi quản lý. 

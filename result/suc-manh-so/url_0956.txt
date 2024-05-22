@@ -1,0 +1,11 @@
+OpenAI cho biết công cụ mới của hãng có thể tạo ra những đoạn video với nội dung thực tế và giàu trí tưởng tượng dựa vào các văn bản hướng dẫn của người dùng. Các video do Sora tạo ra có thể bao gồm những khung cảnh phức tạp với sự góp mặt của nhiều nhân vật hoặc những khung cảnh giàu chi tiết, chính xác về bối cảnh xung quanh…
+OpenAI tự tin rằng Sora có thể hiểu rõ các vật thể tồn tại trong thế giới thực để có thể tạo ra những đoạn video với tính chân thật cao nhất, miễn là người dùng có những mô tả chi tiết và chính xác về nội dung đoạn video mà họ muốn tạo ra.
+Đoạn video ngắn do Sora tạo ra, với mô tả về một cô gái bước đi trên đường phố Tokyo ngập tràn ánh đèn neon… (Video: OpenAI).
+Sora cũng có thể tạo ra những đoạn video dựa trên hình ảnh tĩnh, tạo thêm các khung hình còn thiếu trên video hoặc mở rộng nội dung của một đoạn video. Tất cả đều thực hiện thông qua mô tả bằng văn bản, không đòi hỏi người dùng phải có những kiến thức hay kỹ năng xử lý video.
+OpenAI cũng đã chia sẻ một số đoạn video được tạo ra bởi Sora, cho thấy khả năng tạo video ấn tượng của công cụ này. Tuy nhiên, những người tinh ý vẫn có thể nhận ra đây là những đoạn video được tạo ra bởi phần mềm AI, cho thấy OpenAI vẫn còn nhiều điều phải làm để giúp Sora trở nên hoàn thiện.
+Hiện Sora cho phép người dùng có thể tạo ra những đoạn video với độ dài tối đa một phút.
+Video về voi ma mút được tạo ra bởi Sora (Video: OpenAI).
+Tuy nhiên, Sora chưa được mở cửa rộng rãi cho người dùng phổ thông, mà chỉ dành cho một số nhà thiết kế, người sáng tạo nội dung, nhà làm phim… trải nghiệm và đánh giá về khả năng của công cụ AI này.
+Trước Sora, OpenAI cũng đã phát triển công cụ trí tuệ nhân tạo DALL-E 3, cho phép người dùng có thể tạo ra những bức tranh vẽ đẹp mắt và chi tiết bằng văn bản mô tả.
+Hiện tại các công cụ tích hợp AI cho phép người dùng chuyển văn bản thành các nội dung nghệ thuật như tranh vẽ, hình ảnh hay đoạn nhạc… đang ngày càng phổ biến. Trong tương lai, những người bình thường cũng có thể tham gia vào quá trình sáng tạo nghệ thuật nhờ các phần mềm AI, mà không cần phải có những kỹ năng sáng tác âm nhạc, vẽ tranh hay xử lý đồ họa.
+Theo DTrends

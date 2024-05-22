@@ -1,0 +1,12 @@
+Theo Bleeping Computer, mã độc này có khả năng đánh cắp tài khoản ngân hàng và chiếm đoạt tài sản của người dùng từ xa. Tin tặc sẽ tấn công vào thiết bị của người dùng thông qua tính năng trợ năng trên những chiếc smartphone Android.
+Thời gian qua, các chuyên gia bảo mật liên tục phát hiện ra hàng loạt phần mềm độc hại trên nền tảng Android (Ảnh: Tom's Guide).
+Chúng thực hiện việc tấn công một cách âm thầm và triển khai trong nhiều giai đoạn khác nhau nhằm tránh bị phát hiện. Đáng nói, những phần mềm độc hại này đã xuất hiện trên kho ứng dụng CH Play trong một khoảng thời gian dài và thu hút hàng trăm nghìn lượt tải xuống.
+Danh sách chi tiết các ứng dụng độc hại vừa được phát hiện bao gồm:
+- Phone Cleaner - File Explorer
+- PDF Viewer - File Explorer
+- PDF Reader - Viewer & Editor
+- Phone Cleaner: File Explorer
+- PDF Reader: File Manager
+Hiện tại, cả 5 ứng dụng trên đều đã được Google gỡ khỏi CH Play. Trong trường hợp đã cài đặt các phần mềm này, người dùng cần nhanh chóng gỡ chúng ra khỏi thiết bị và thực hiện các biện pháp bảo mật nâng cao như thay đổi mật khẩu tài khoản.
+Thời gian qua, các chuyên gia bảo mật liên tục phát hiện ra hàng loạt phần mềm độc hại trên nền tảng Android. Bằng nhiều thủ thuật khác nhau, những ứng dụng độc hại này đã vượt qua hệ thống kiểm duyệt của Google và xuất hiện tràn lan trên kho ứng dụng này.
+Vì thế, người dùng smartphone Android cần hết sức cảnh giác mỗi khi cài đặt ứng dụng, ngay cả khi chúng được tải về từ CH Play.

@@ -1,0 +1,24 @@
+Tình hình hạn hán kéo dài, lượng mưa thấp đã làm ảnh hưởng nghiêm trọng đến công suất phát của các nhà máy thủy điện, điều này buộc các công ty điện lực phải cắt điện luân phiên trên cả nước.
+Bị cắt điện trong điều kiện thời tiết nắng nóng, nhiệt độ cao suốt cả ngày là "cơn ác mộng" của nhiều người. Tuy nhiên, nếu nắm trước được lịch cắt điện người dân sẽ sắp xếp lịch sinh hoạt cho phù hợp.
+Ngoại trừ những trường hợp xảy ra sự cố bất ngờ và bất khả kháng, công ty điện lực sẽ thông báo trước đến khách hàng của mình thời gian và những khu vực sẽ bị cắt điện luân phiên.
+Vậy làm thế nào để tra cứu thông tin về lịch cắt điện tại khu vực bạn đang sinh sống? Dưới đây là những giải pháp bạn có thể lựa chọn.
+Tra cứu lịch cắt điện thông qua trang web (sử dụng cho cả máy tính lẫn smartphone)
+Hiện tại, các công ty trực thuộc Tập đoàn Điện lực Việt Nam đều có trang web riêng, trong đó có cung cấp tính năng tra cứu thông tin về lịch cắt điện. Tùy thuộc vào khu vực đang sinh sống, bạn có thể truy cập vào trang web của công ty điện lực tương ứng để kiểm tra thời gian cắt điện.
+- Tại Hà Nội: Truy cập vào trang web của Tổng Công ty Điện lực Thành phố Hà Nội tại đây để kiểm tra lịch cắt điện theo từng khu vực.
+Thông tin về lịch cắt điện tại Quận Đống Đa (Hà Nội) từ ngày 26/6 đến 2/6 được hiển thị chi tiết trên trang web của Tổng Công ty Điện lực thành phố Hà Nội (Ảnh chụp màn hình).
+- Tại TP.HCM: Truy cập vào trang web của Tổng Công ty Điện lực TPHCM tại đây. Trang web này yêu cầu người dùng phải sử dụng số điện thoại (mà khách hàng đã đăng ký với bên điện lực) hoặc mã khách hàng để đăng ký (hoặc đăng nhập) vào tài khoản mới có thể tra cứu lịch cắt điện. Bạn có thể xem thông tin về mã khách hàng trên hóa đơn tiền điện hàng tháng (mã bắt đầu bằng 2 chữ cái "PE").
+- Các tỉnh thành khu vực miền Bắc (ngoại trừ Hà Nội): Truy cập vào trang web của Tổng công ty Điện lực miền Bắc tại đây. Với trang web này, bạn chỉ cần sử dụng mã khách hàng để tra cứu thông tin cắt điện mà không cần đăng ký hay đăng nhập vào tài khoản.
+- Các tỉnh thành khu vực miền Nam (ngoại trừ TPHCM): Truy cập vào trang web của Tổng công ty Điện lực miền Nam tại đây. Bạn có thể tra cứu thông tin lịch cắt điện theo mã khách hàng hoặc theo từng công ty điện lực cụ thể mà không cần đăng ký tài khoản.
+Thông tin về lịch cắt điện tại các tỉnh thành thuộc khu vực miền Nam (Ảnh chụp màn hình).
+- Các tỉnh thành miền Trung: Truy cập vào trang web của Tổng công ty Điện lực miền Trung tại đây. Trang web này cũng yêu cầu người dùng đăng nhập vào tài khoản bằng mã khách hàng hoặc số điện thoại (đã đăng ký với công ty điện lực) để tra cứu lịch cắt điện.
+Tra cứu thông qua ứng dụng trên smartphone
+Với người dùng smartphone (Android và iOS), bạn có thể cài đặt ứng dụng của các công ty điện lực để có thể tra cứu thông tin về lịch cắt điện tại khu vực mình đang sinh sống ngay trên thiết bị của mình.
+Tùy thuộc vào khu vực đang sinh sống, bạn download phiên bản ứng dụng phù hợp để tra cứu các thông tin.
+- Tại Hà Nội: Bạn đọc có thể download ứng dụng có tên gọi Epoint EVN phiên bản dành cho Android tại đây và cho iOS tại đây.
+- Tại TPHCM: Bạn đọc download ứng dụng có tên gọi CSKH EVNHCMC phiên bản dành cho Android tại đây và cho iOS tại đây.
+- Khu vực miền Bắc (ngoại trừ Hà Nội): Download ứng dụng có tên gọi EVNNPC CSKH dành cho Android tại đây và dành cho iOS tại đây.
+- Khu vực miền Nam (ngoại trừ TPHCM): Bạn có thể download ứng dụng với tên gọi CSKH EVNSPC dành cho Android tại đây và dành cho iOS tại đây.
+- Khu vực miền Trung: Bạn có thể download và cài đặt ứng dụng có tên gọi EVNCPC CSKH dành cho Android tại đây và dành cho iOS tại đây.
+Ứng dụng của công ty điện lực không chỉ cập nhật thông báo về lịch cắt điện (trái) mà còn có thông tin về tiền điện sử dụng hàng tháng (phải) (Ảnh chụp màn hình).
+Những ứng dụng kể trên đều là ứng dụng chính thức của các Tổng Công ty điện lực tại từng khu vực, người dùng có thể cài đặt và dùng các ứng dụng này hoàn toàn miễn phí. Tuy nhiên, để sử dụng các ứng dụng này, người dùng cần đăng nhập vào tài khoản bằng mã khách hàng hoặc số điện thoại đã đăng ký với công ty điện lực.
+Các ứng dụng đều có giao diện bằng tiếng Việt giúp quá trình sử dụng được dễ dàng và thuận tiện. Đáng chú ý, không chỉ hỗ trợ tra cứu lịch cắt điện, các ứng dụng kể trên còn cho phép người dùng tra cứu hóa đơn tiền điện, thông tin chi tiết về chỉ số điện đã sử dụng hàng tháng, thông báo đến công ty điện lực khi có sự cố về điện…

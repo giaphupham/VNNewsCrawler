@@ -1,0 +1,14 @@
+Cách đây không lâu, những hình ảnh và video bản dựng hoàn chỉnh của bộ 3 Galaxy S24 đã hé lộ thiết kế tổng thể của loạt smartphone Samsung sắp ra mắt. Những hình ảnh bị rò rỉ cho thấy Samsung hầu như không có sự thay đổi nào về thiết kế trên loạt Galaxy S24 so với Galaxy S23 ra mắt vào đầu năm 2023.
+Không thay đổi về thiết kế bên ngoài, nhiều khả năng Samsung sẽ tập trung vào việc nâng cấp về cấu hình bên trong, khi thông tin về cấu hình của loạt Galaxy S24 vừa bị rò rỉ.
+Theo Ice Universe, tài khoản Twitter thường đăng tải nhiều thông tin chính xác về các sản phẩm công nghệ sắp ra mắt, Samsung sẽ trang bị chip Exynos 2400 do chính hãng phát triển cho bộ đôi Galaxy S24 và S24+, trong khi đó Galaxy S24 Ultra sẽ sử dụng chip Snapdragon 8 Gen 3 của Qualcomm.
+Ngoài ra, Ice Universe cũng đã cung cấp điểm hiệu suất xử lý của 2 loại chip mà Samsung sẽ trang bị trên sản phẩm của mình.
+So sánh điểm hiệu suất xử lý của chip trên Galaxy S24 với A17 Pro của Apple.
+Theo đó, chip Exynos 2400 trang bị trên Galaxy S24 đạt số điểm 2.067 khi xử lý đơn nhân và 6.520 khi xử lý đa nhân. Chip Snapdragon 8 Gen 3 được trang bị trên Galaxy S24 Ultra đạt được số điểm 2.234 khi xử lý đơn nhân và 6.807 khi xử lý đa nhân.
+Điểm hiệu suất xử lý của chip trên Galaxy S24 vượt trội so với chip Snapdragon 8 Gen 2 của loạt Galaxy S23 ra mắt đầu năm nay, tuy nhiên, điểm số này lại thấp hơn so với chip A17 Pro được Apple trang bị trên bộ đôi iPhone 15 Pro và 15 Pro Max.
+Cụ thể, Ice Universe cho biết khi dùng ứng dụng Geekbench để chấm điểm hiệu suất xử lý, chip A17 Pro của Apple đạt được số điểm 2.890 khi xử lý đơn nhân và 7.194 khi xử lý đa nhân, nghĩa là cao hơn cả 2 loại chip được Samsung trang bị cho Galaxy S24 trên cả 2 bài kiểm tra đơn nhân và đa nhân.
+Trước đó, Apple đã tự tin tuyên bố A17 Pro trang bị trên iPhone 15 Pro và 15 Pro Max là chip di động mạnh nhất thị trường hiện nay. Có vẻ như ngay cả khi Samsung ra mắt Galaxy S24 với thế hệ chip mới vẫn chưa đủ đánh bại được Apple trong cuộc đua về hiệu suất.
+Dĩ nhiên, mọi thông tin vẫn chỉ dừng lại ở mức tin đồn và từ nay cho đến thời điểm loạt Galaxy S24 được ra mắt, Samsung vẫn còn đủ thời gian để hiệu chỉnh, giúp tăng hiệu suất xử lý cho sản phẩm của mình.
+Nếu những thông tin bị rò rỉ là chính xác, Samsung sẽ trình làng loạt Galaxy S24 vào tháng 1/2024, sớm hơn thời điểm quen thuộc ra mắt loạt Galaxy S là vào tháng 2 hàng năm.
+*Một điều cần lưu ý rằng chấm điểm hiệu suất xử lý của chip bằng các ứng dụng chỉ mang tính tham khảo và tương đối. Điểm số này có thể thay đổi tùy thuộc vào nhiệt độ, mức pin trên smartphone. 
+Ngoài ra, hiệu suất xử lý của chip còn tùy thuộc vào khả năng tối ưu của nền tảng phần mềm mà smartphone đang sử dụng, đây là điều mà Apple đang làm rất tốt với iOS.
+Theo THW/DTrends

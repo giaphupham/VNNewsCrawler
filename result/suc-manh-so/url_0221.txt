@@ -1,0 +1,19 @@
+Thủ thuật biến smartphone thành bàn phím và chuột không dây cho máy tính
+Giới thiệu về cách thức hoạt động của Unified Remote
+Chuột hoặc bàn phím máy tính bất ngờ bị hỏng khi bạn đang làm việc? Hoặc trong trường hợp bạn muốn dùng máy tính từ xa, nhưng không muốn chi tiền để mua chuột hoặc bàn phím không dây? Ứng dụng với tên gọi Unified Remote sẽ rất hữu ích cho bạn trong những trường hợp này.
+Unified Remote là ứng dụng miễn phí sẽ biến thiết bị di động chạy Android lẫn iOS (bao gồm cả smartphone và máy tính bảng) trở thành chuột cảm ứng và bàn phím không dây dành cho máy tính, cho phép người dùng có thể điều khiển máy tính và gõ văn bản ngay trên smartphone.
+Ngoài ra, ứng dụng còn cho phép người dùng mở file trên máy tính, tắt hoặc khóa máy tính... trực tiếp từ smartphone mà không cần chạm tay vào máy tính.
+Để sử dụng Unified Remote, bạn cần phải cài đặt ứng dụng trên smartphone và phần mềm trên máy tính để làm cầu nối liên kết giữa 2 thiết bị.
+Đầu tiên, bạn download phần mềm Unified Remote dành cho máy tính tại đây (bao gồm cả phiên bản dành cho máy tính chạy Windows và Mac). Tiếp theo, tìm và download ứng dụng Unified Remote từ kho ứng dụng Google Play dành cho Android hoặc App Store dành cho iOS.
+Xem thêm hướng dẫn của Dân trí tại đây để biến cách sử dụng Unified Remote, nhằm biến smartphone thành điều khiển từ xa cho máy tính.
+Bản quyền miễn phí loạt phần mềm hữu ích, tổng trị giá hơn 130 USD
+Hiện nhiều hãng phần mềm đang có chương trình khuyến mãi, cung cấp mã bản quyền các sản phẩm của mình hoàn toàn miễn phí cho người dùng. Nhiều phần mềm hữu ích như tối ưu Windows, quản lý tình trạng ổ cứng máy tính, phần mềm bảo mật mạnh mẽ… đều đang được miễn phí, với tổng giá trị bản quyền phần mềm lên đến 130 USD.
+Bạn đọc có thể tham khảo bài viết của Dân trí tại đây để tận dụng cơ hội này, nhằm sở hữu cho mình những phần mềm hữu ích, giúp cho quá trình sử dụng máy tính được trở nên dễ dàng và thuận tiện hơn.
+Thủ thuật chuyển file qua lại smartphone và máy tính không cần cáp kết nối
+Thông thường, để chuyển dữ liệu từ smartphone sang máy tính và ngược lại, người dùng cần phải sử dụng dây cáp để kết nối giữa 2 thiết bị với nhau. Vậy trong trường hợp bạn muốn chuyển dữ liệu từ smartphone sang máy tính hoặc ngược lại, nhưng không có sẵn dây cáp kết nối ở cạnh bên, thì phải làm thế nào?
+Trong trường hợp này, bạn có thể nhờ đến sự trợ giúp của công cụ có tên gọi PhotoSync.
+PhotoSync là ứng dụng miễn phí, cho phép người dùng chuyển ảnh và video từ smartphone sang máy tính và ngược lại, một cách dễ dàng, miễn là cả 2 thiết bị đều kết nối chung vào một mạng WiFi.
+Ứng dụng không giới hạn dung lượng tối đa cũng như số lượng file được gửi đi, do vậy người dùng có thể dễ dàng chuyển những file ảnh hoặc video có dung lượng lớn qua lại giữa smartphone và máy tính vào bất cứ lúc nào mình muốn, mà không cần bận tâm đến dây cáp kết nối giữa hai thiết bị.
+Ưu điểm của PhotoSync đó là hỗ trợ cả smartphone chạy Android lẫn iOS, cả máy tính chạy Windows lẫn Mac.
+Để sử dụng PhotoSync, bạn cần phải cài đặt ứng dụng trên smartphone và một phần mềm miễn phí trên máy tính (Windows và Mac), để làm cầu nối gắn kết giữa hai thiết bị. Đầu tiên, download phần mềm PhotoSync dành cho máy tính tại đây (bao gồm cả phiên bản dành cho máy tính chạy Windows lẫn Mac). Tiếp theo, tìm ứng dụng PhotoSync trên kho ứng dụng Google Play dành cho Android hoặc App Store dành cho iOS.
+Bạn đọc có thể tham khảo bài viết của Dân trí tại đây để biết cách sử dụng PhotoSync, giúp dễ dàng chia sẻ file từ smartphone sang máy tính (và ngược lại) một cách dễ dàng mà không cần dùng đến cáp kết nối.

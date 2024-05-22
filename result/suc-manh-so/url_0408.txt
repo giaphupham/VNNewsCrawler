@@ -1,0 +1,7 @@
+Apple vừa đưa ra thông báo về việc tổ chức hội nghị dành cho các nhà phát triển toàn cầu (WWDC) lần thứ 35. Theo đó, sự kiện WWDC 2024 sẽ diễn ra trong khoảng thời gian ngày 10-14/6.
+iOS 18 dự kiến sẽ được công bố tại sự kiện WWDC 2024 (Ảnh: Apple).
+Tương tự những năm trước, WWDC 2024 sẽ bao gồm nhiều phiên họp trực tuyến để hãng công bố về các tính năng và phần mềm mới. Theo MacRumors, Apple sẽ giới thiệu hàng loạt bản cập nhật tại sự kiện này như iOS 18, iPadOS 18, tvOS 18, macOS 15, watchOS 11 và VisionOS 2.
+Trong đó, iOS 18 được kỳ vọng sẽ sở hữu nhiều thay đổi, trở thành bản cập nhật quan trọng nhất từ trước đến nay.
+Theo Tom's Guide, iOS 18 có thể giới thiệu một chatbot do Apple thiết kế dành riêng cho iPhone. Đây sẽ là một phiên bản cải tiến của trợ lý ảo Siri, có khả năng thực hiện nhiều tác vụ phức tạp thông qua điều khiển bằng giọng nói.
+Apple sẽ kết hợp các mô hình ngôn ngữ lớn vào trợ lý ảo Siri. Động thái này nhằm hỗ trợ người dùng tự động hóa các tác vụ phức tạp. Đơn cử, AI sẽ giúp người dùng có thể phản hồi các đoạn hội thoại một cách nhanh chóng và hiệu quả hơn.
+Ngoài ra, AI còn có thể được tích hợp vào nhiều ứng dụng của Apple, chẳng hạn như tạo danh sách nhạc tự động trong Apple Music, viết báo cáo hay tạo bản thuyết trình trong Pages và Keynote.

@@ -1,0 +1,44 @@
+HUMAN, công ty nghiên cứu bảo mật có trụ sở tại New York (Mỹ), vừa phát hiện 28 ứng dụng có chứa mã độc nhắm đến người dùng Android, được mạo danh dưới dạng các ứng dụng hữu ích để lừa người dùng cài đặt.
+Trong số 28 ứng dụng này, 17 ứng dụng mạo danh dưới dạng các công cụ VPN (mạng riêng ảo), với lời quảng cáo giúp người dùng duyệt web an toàn hơn và che giấu thông tin thật trên internet.
+Các ứng dụng này có chứa mã độc mang tên gọi ProxyLib. Loại mã độc này từng được HUMAN phát hiện ra từ tháng 5/2023, trước khi tiếp tục phát hiện 28 ứng dụng khác mang loại mã độc này đang được phân phối công khai đến người dùng.
+Những người cài đặt nhầm các ứng dụng có chứa mã độc ProxyLib có thể sẽ bị tin tặc lợi dụng thiết bị của họ để phục vụ cho các hoạt động tội phạm như gian lận quảng cáo, gửi thư rác, tham gia vào các mạng lưới tấn công từ chối dịch vụ (DDoS), tự động dò mật khẩu đăng nhập… mà người dùng không hề hay biết.
+Một ứng dụng chứa mã độc được phân phối trên CH Play, có hơn 1 triệu lượt tải trước khi bị Google xóa bỏ (Ảnh: HUMAN).
+Các ứng dụng độc hại này cũng sẽ chạy ngầm để khiến smartphone của người dùng âm thầm truy cập vào các trang web mà họ không hay biết, điều này sẽ ảnh hưởng đáng kể đến thời lượng pin trên smartphone.
+Đáng chú ý, những ứng dụng này đã qua mặt Google và được phân phối trực tiếp trên kho ứng dụng CH Play dành cho nền tảng Android, khiến nhiều người dùng không hay biết và cài đặt các ứng dụng lên thiết bị của mình. Điều này cho thấy Google vẫn đang gặp vấn đề trong quá trình kiểm duyệt các ứng dụng trước khi cho phép xuất hiện trên CH Play.
+HUMAN đã gửi thông báo về phát hiện của mình đến cho Google. Hiện tại, toàn bộ 28 ứng dụng có chứa mã độc đã bị Google xóa bỏ khỏi kho ứng dụng CH Play. Tuy nhiên, trước khi các ứng dụng này bị xóa bỏ, đã có ứng dụng đạt hơn 1 triệu lượt tải, điều này cho thấy đã có rất nhiều người dùng vô tình cài đặt các ứng dụng mã độc mà không hay biết.
+Dưới đây là danh sách 28 ứng dụng có chứa mã độc vừa được HUMAN phát hiện. Nếu bạn đã cài đặt một trong các ứng dụng này, hãy lập tức gỡ bỏ nó ra khỏi thiết bị của mình.
+1. Lite VPN
+2. Anims Keyboard
+3. Blaze Stride
+4. Byte Blade VPN
+5. Android 12 Launcher
+6. Android 13 Launcher
+7. Android 14 Launcher
+8. CaptainDroid Feeds
+9. Free Old Classic Movies
+10. Phone Comparison
+11. Fast Fly VPN
+12. Fast Fox VPN
+13. Fast Line VPN 
+14. Funny Char Ging Animation 
+15. Limo Edges 
+16. Oko VPN 
+17. Phone App Launcher 
+18. Quick Flow VPN 
+19. Sample VPN 
+20. Secure Thunder 
+21. Shine Secure 
+22. Speed Surf 
+23. Swift Shield VPN 
+24. Turbo Track VPN
+25. Turbo Tunnel VPN 
+26. Yellow Flash VPN 
+27. VPN Ultra
+28. Run VPN
+Hướng dẫn quét để kiểm tra trên smartphone có ứng dụng độc hại hay không
+Trong trường hợp muốn kiểm tra xem trên smartphone của mình có vô tình cài đặt ứng dụng nào chứa mã độc hay không, bạn có thể nhờ đến tính năng "Play Protect" được Google tích hợp sẵn trong kho ứng dụng CH Play.
+Để sử dụng tính năng này, bạn kích hoạt kho ứng dụng CH Play, nhấn vào biểu tượng tài khoản người dùng ở góc trên bên phải, chọn "Play Protect" từ menu hiện ra.
+Nhấn nút "Quét" tại giao diện tiếp theo. Sau khi quét, nếu xuất hiện thông báo "Không tìm thấy ứng dụng gây hại nào", nghĩa là smartphone của bạn an toàn và không cần phải lo lắng gì thêm.
+Trong trường hợp Play Protect phát hiện ra trên smartphone có cài đặt những ứng dụng mà Google nhận diện là "độc hại" và đã xóa bỏ khỏi CH Play, tính năng này sẽ tự động vô hiệu hóa các ứng dụng để bảo vệ thiết bị, đồng thời khuyến cáo người dùng nên gỡ bỏ ứng dụng đó để đảm bảo an toàn.
+Tuy nhiên, Play Protect chỉ bảo vệ smartphone khỏi các ứng dụng mà Google đã nhận diện là "độc hại". Trong trường hợp các ứng dụng có chứa mã độc được cài lên smartphone, mà Google vẫn chưa thể nhận diện mã độc từ các ứng dụng này, thì tính năng Play Protect cũng chưa thể quét ra để cảnh báo người dùng.
+Theo BComputer/DTrends

@@ -1,0 +1,11 @@
+Có một thực tế rằng các bác sĩ thường rất bận rộn do phải khám cho rất nhiều bệnh nhân trong ngày, đó là lý do tại sao khi kê đơn thuốc, bác sĩ thường viết rất nhanh để tiết kiệm thời gian, điều này dẫn đến việc chữ bác sĩ thường rất xấu và khó đọc, gây khó khăn cho người bệnh cũng như các dược sĩ khi cần đọc đơn thuốc.
+Google mới đây đã công bố một hệ thống trí tuệ nhân tạo và máy học, giúp "dịch" chữ viết tay của bác sĩ để giúp dược sĩ và người bệnh có thể hiểu được các loại thuốc có trong đơn do bác sĩ kê.
+Trí tuệ nhân tạo của Google sẽ giúp người bệnh "hiểu" được chữ viết của bác sĩ (Ảnh minh họa).
+Google cho biết đã hợp tác với chính các bác sĩ và dược sĩ để tìm ra cách "giải mã" các nội dung viết tay của bác sĩ. Các kiểu chữ viết tay của bác sĩ khi kê đơn thuốc sẽ được nhập vào cơ sở dữ liệu của hệ thống trí tuệ nhân tạo, giúp hệ thống này có thể ghi nhận được nhiều dạng chữ viết tay khác nhau, từ đó xác định được loại thuốc mà các bác sĩ đang đề cập đến.
+Tính năng mới này sẽ được tích hợp vào ứng dụng Google Lens. Google cho biết người dùng chỉ việc chụp ảnh đơn thuốc viết tay mà họ muốn "giải mã" bằng Google Lens, ứng dụng này sau đó sẽ nhận diện chữ viết tay có trong đơn thuốc để xác định các loại thuốc được đề cập trong đơn.
+Tuy nhiên, hiện tại tính năng vẫn đang trong giai đoạn phát triển và chưa được cung cấp cho người dùng phổ thông.
+Theo "gã khổng lồ công nghệ", tính năng mới này sẽ hoạt động như một công nghệ hỗ trợ để số hóa các tài liệu y tế viết tay, bằng cách nhận diện và biến chữ viết tay thành văn bản số hóa. Tuy nhiên, Google cũng khuyến cáo rằng tính năng này chỉ mang tính tham khảo và người dùng vẫn cần hỏi ý kiến bác sĩ trong trường hợp công cụ không thể nhận diện hoàn toàn các nội dung viết tay trên đơn thuốc.
+"Vẫn còn nhiều việc phải làm trước khi hệ thống trí tuệ nhân tạo này có thể trang bị cho người dùng", đại diện của Google cho biết.
+Minh họa về ứng dụng nhận diện chữ viết tay của bác sĩ do Google phát triển (Video: Google).
+Ứng dụng Google Lens đã từng được Google tích hợp hệ thống trí tuệ nhân tạo, cho khả năng nhận diện tốt các đối tượng ngoài đời thực (chẳng hạn giúp xác định thông tin của một loại cây trồng hoặc một vật dụng nào đó hoặc dịch thuật các ngôn ngữ theo thời gian thực nhờ trí tuệ nhân tạo…)
+Theo ET

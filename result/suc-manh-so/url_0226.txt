@@ -1,0 +1,14 @@
+Minh họa về hệ thống mạng di động lắp đặt trên Mặt Trăng trong tương lai, đánh dấu sự hợp tác giữa Nokia và NASA (Ảnh: Nokia Bell).
+Tập đoàn NASA và Nokia mới đây đã công khai hợp tác thiết lập mạng di động trên Mặt Trăng, nhằm thiết lập nền móng cho sự hiện diện lâu dài của con người trên các hành tinh khác.
+NASA cho biết, một tên lửa của SpaceX sẽ được phóng trong năm 2024, dù ngày chính xác vẫn chưa được xác nhận.
+Tên lửa này có nhiệm vụ mang mạng 4G lên Mặt Trăng thông qua thiết lập cơ sở hạ tầng ở phần cực nam, và sau đó được điều khiển từ xa trên Trái Đất.
+Ông Walt Engelund, đại diện Ban Giám đốc Sứ mệnh Công nghệ Vũ trụ của NASA, cho biết sẽ có nhiều thách thức với sứ mệnh, do các thiết bị phải hoạt động trong môi trường Mặt Trăng khắc nghiệt với nhiệt độ và bức xạ khác xa so với Trái Đất.
+Tuy nhiên nếu được thiết lập thành công, hệ thống có thể tạo điều kiện để các phi hành gia của sứ mệnh của Artemis liên lạc trên Mặt Trăng, cũng như bất kỳ sứ mệnh nào khác trong tương lai.
+"Có thể liên lạc trên Mặt Trăng là điều quan trọng đối với Artemis. Tầm quan trọng của nó như bất kỳ yếu tố nào khác, như năng lượng, nước để uống và không khí để thở", đại diện từ NASA chia sẻ.
+Không chỉ vậy, NASA cũng cho rằng, hợp tác giữa họ và Nokia có thể đặt nền móng cho một mạng Internet ngoài vũ trụ không khác gì Internet trên Trái Đất.
+"Nỗ lực này rốt cuộc sẽ thiết lập một mạng lưới liên lạc bền vững trên Mặt Trăng, cho phép các nhà thám hiểm của chúng tôi có khả năng truyền dữ liệu khoa học về Trái Đất, và nói chuyện với gia đình của họ như thể họ đang đi bộ trên phố với chiếc điện thoại của mình", ông Engelund nói.
+Ông Thierry Klein, Chủ tịch hãng nghiên cứu Bell Labs Solutions, thì nhấn mạnh vai trò của nền kinh tế Mặt Trăng trong tương lai, khi cho rằng nó sẽ phụ thuộc rất nhiều vào công nghệ truyền thông để thu thập và phân tích dữ liệu.
+Ông cho rằng, điều này có ảnh hưởng trực tiếp đến việc duy trì sự hiện diện bán vĩnh viễn - hoặc vĩnh viễn - của con người trên Mặt Trăng, cũng như các hoạt động robot tự động để vận chuyển, khai thác tài nguyên, chế biến khoáng sản và thu thập dữ liệu khoa học
+Bên cạnh những thúc đẩy to lớn về khám phá vũ trụ, hoạt động này cũng mang lại một số lợi ích thương mại tiềm năng cho các dự án kinh doanh trên Trái Đất.
+Đó là bởi khi một nền tảng mạng di động có thể chịu đựng được hành trình vào quỹ đạo, sau đó triển khai và tồn tại một cách tự động trong môi trường chân không, bức xạ vũ trụ, thì mạng đó hoàn toàn có thể tồn tại ở những địa điểm khắc nghiệt nhất trên Trái Đất — chẳng hạn như chỏm băng ở vùng cực, sa mạc hoặc ngoài khơi.
+Ông Klein nhấn mạnh về các ứng dụng tiềm năng của mạng này, như việc triển khai được từ xa và ở bất cứ đâu, như lắp đặt tại các khu công nghiệp độc hại, ứng phó khẩn cấp, khắc phục thảm họa thiên tai, an ninh quốc phòng...

@@ -1,0 +1,12 @@
+Nền tảng di động và các ứng dụng được xem là "linh hồn" của các mẫu smartphone. Các ứng dụng trên smartphone sẽ giúp người dùng đáp ứng các nhu cầu về công việc, liên lạc hay giải trí… Những nền tảng di động nào có càng nhiều ứng dụng sẽ càng thu hút nhiều người dùng.
+Vậy bạn nghĩ sao về một chiếc smartphone không có ứng dụng? Liệu bạn sẵn sàng sử dụng một chiếc smartphone như vậy?
+Nhà mạng Đức Deutsche Telekom tin rằng người dùng sẵn sàng sử dụng một chiếc smartphone không có ứng dụng nên đã giới thiệu một chiếc smartphone như vậy tại MWC.
+Chiếc smartphone của Deutsche Telekom hoạt động hoàn toàn dựa trên trợ lý ảo AI, không cần phải cài đặt thêm bất kỳ ứng dụng nào khác (Ảnh: Android Authority).
+Theo đó, chiếc smartphone này sẽ được tích hợp một trợ lý ảo trí tuệ nhân tạo (AI) để hỗ trợ cho mọi công việc của người dùng, mà không cần phải cài đặt thêm bất kỳ ứng dụng nào khác. Nền tảng AI của smartphone được phát triển bởi Brain.ai, một công ty chuyên phát triển các hệ thống trí tuệ nhân tạo, có trụ sở tại bang California, Mỹ.
+Trợ lý ảo AI này sẽ ghi nhận các thói quen, nhu cầu, sở thích của người dùng… để đưa ra những nhắc nhở, hướng dẫn người dùng trong công việc cũng như cuộc sống hàng ngày của họ.
+"Trợ lý ảo dựa trên AI của smartphone sẽ thay thế vô số các ứng dụng. Nó sẽ giống như một trợ lý, người hướng dẫn hiểu rõ mục tiêu của người dùng để giúp hoàn thành các mục tiêu đó", nhà mạng Deutsche Telekom giới thiệu về hệ thống AI trên sản phẩm của mình.
+Chẳng hạn, nếu bạn muốn thực hiện một chuyến đi du lịch, thay vì phải tự mình truy cập vào vô số ứng dụng để lên kế hoạch, tìm vé máy bay, đặt phòng khách sạn… bạn chỉ cần ra lệnh bằng giọng nói cho chiếc smartphone này, trợ lý ảo AI trên thiết bị sẽ thực hiện các công việc theo yêu cầu của người dùng mà không cần phải mở bất kỳ ứng dụng nào.
+Với tính năng này, người dùng thậm chí có thể sử dụng chiếc smartphone mà không cần phải chạm vào màn hình thiết bị.
+Chiếc smartphone này được tích hợp chip xử lý Snapdragon 8 Gen 3 của Qualcomm, nhưng được thiết kế lại để tối ưu các tác vụ trí tuệ nhân tạo, cho phép xử lý AI ngay trên smartphone mà không cần phải kết nối internet, giúp đảm bảo tính riêng tư cho người dùng.
+Hiện Deutsche Telekom đang trình bày nguyên mẫu thử nghiệm của "smartphone không ứng dụng" tại MWC và có thể vẫn sẽ phải mất thêm một thời gian mới có thể tung ra thị trường, nhất là khi không phải người dùng nào cũng sẵn sàng sử dụng một chiếc smartphone như vậy.
+Theo ZDNet

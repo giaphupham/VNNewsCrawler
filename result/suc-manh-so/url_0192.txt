@@ -1,0 +1,20 @@
+Con người thường lo sợ trí tuệ nhân tạo có thể vượt qua họ về khả năng tư duy, suy nghĩ, trong khi đó tự tin rằng những việc đòi hỏi sự tỉ mỉ, khéo léo và cẩn trọng, con người vẫn sẽ vượt trội so với các hệ thống A.I.
+Tuy nhiên, mới đây, một robot tích hợp trí tuệ nhân tạo đã gây kinh ngạc khi có thể đánh bại được con người ở trò chơi đòi hỏi sự khéo léo và nắm rõ các quy tắc về vật lý.
+Trò chơi được nhắc đến ở đây là trò "cẩm thạch trong mê cung". Ở trò chơi này, người chơi sẽ phải tìm cách đưa viên bi vượt qua mê cung để đi về đích, đồng thời tránh không để viên bi bị rơi vào hàng loạt lỗ hổng có trong mê cung đó. Người chơi sẽ điều khiển 2 núm vặn để tạo độ nghiêng trên bàn chơi nhằm di chuyển viên bi theo ý mình.
+Trò chơi "cẩm thạch trong mê cung" đòi hỏi người chơi phải hết sức khéo léo và tỉ mỉ (Ảnh chụp màn hình).
+Người chiến thắng là người đưa viên bi vượt qua mê cung theo đúng số thứ tự đường đi được vẽ sẵn và trong thời gian ngắn nhất.
+Mặc dù nghe có vẻ đơn giản, trò chơi này đòi hỏi sự tỉ mỉ, khéo léo, các kỹ năng điều khiển viên bi một cách cẩn thận, nắm rõ không gian của trò chơi và các quy luật vật lý. Người chơi sẽ phải luyện tập rất nhiều để có thể hoàn thành được trò chơi.
+Hiện Lars Goran Danielsson, quốc tịch Thụy Điển, là người nắm giữ kỷ lục của trò chơi này với thành tích 15,41 giây. Ông Danielsson đã luyện tập trò chơi này suốt 35 năm qua để có thể lập được kỷ lục như vậy.
+Tuy nhiên, mới đây, robot được tích hợp trí tuệ nhân tạo có tên CyberRunner, được phát triển và chế tạo bởi Viện Công nghệ Liên bang Thụy Sĩ (ETH Zurich), chỉ phải mất 6 giờ để làm quen từ đầu và tập luyện trò chơi "cẩm thạch trong mê cung" để đạt được thành tích 14,48 giây.
+"Đây không chỉ là vấn đề đánh bại con người trong một trò chơi, nó đánh bại con người trong trò chơi đòi hỏi kỹ năng thể chất và sự khéo léo", Giáo sư Raffaello D'Andream, chuyên ngành Hệ thống động và Điều khiển tại ETH Zurich, đứng đầu nhóm phát triển robot CyberRunner, chia sẻ.
+Robot CyberRunner được tích hợp trí tuệ nhân tạo để có thể rút kinh nghiệm sau những lần chơi thất bại (Ảnh: ETH Zurich).
+Robot CyberRunner được tích hợp camera để quan sát trò chơi, đồng thời tích hợp 2 động cơ để điều khiển núm xoay trên trò chơi. Cũng giống như con người, CyberRunner được tích hợp trí tuệ nhân tạo để có khả năng tự học hỏi thông qua trải nghiệm, nhận ra những sai lầm trong khi chơi để tự điều chỉnh sao cho phù hợp nhất.
+Các nhà khoa học cho biết, ban đầu CyberRunner đã sử dụng cách gian lận, tìm giải pháp để đưa viên bi vượt qua mê cung nhanh nhất, thay vì đi đúng đường đã vạch sẵn trên trò chơi.
+"Trong quá trình học hỏi trò chơi, CyberRunner đã tự tìm ra những lối đi tắt để hoàn thành trò chơi nhanh nhất. Điều này là sai luật, nhưng cho thấy CyberRunner có khả năng tư duy để vượt qua thử thách", Thomas Bi, nghiên cứu sinh tiến sĩ tại ETH Zurich và thành viên nhóm nghiên cứu, cho biết.
+"Chúng tôi đã phải can thiệp và hướng dẫn nó luật chơi một cách nghiêm túc để tránh gian lận", Thomas Bi chia sẻ thêm.
+Lần đầu tiên A.I đánh bại con người trong trò chơi cần sự khéo léo (Video: ETH Zurich).
+Sau rất nhiều lần thất bại, CyberRunner đã rút ra những bài học kinh nghiệm và có thể hoàn thành trò chơi. Không chỉ vậy, robot này còn rút ngắn được thời gian chơi xuống còn 14,48 giây, vượt qua kỷ lục của con người.
+Đây là lần đầu tiên A.I đánh bại con người ở trò chơi cần sự tỉ mỉ và quy tắc vật lý. Trước đó, A.I đã từng nhiều lần vượt qua con người ở những trò chơi đòi hỏi trí tuệ và khả năng tư duy.
+Chẳng hạn như vào năm 1997, hệ thống máy tính Deep Blue do IBM phát triển đã đánh bại vua cờ Garry Kasparov. Đây là lần đầu tiên một nhà vô địch cờ vua thế giới bị chương trình máy tính đánh bại trong một trận đấu theo quy định.
+Năm 2016, hệ thống A.I AlphaGo do Google phát triển đã đánh bại nhà vô địch cờ vây thế giới Lee Sedol. Thậm chí, AlphaGo còn sáng tạo ra những chiêu thức mới con người chưa từng nghĩ ra trước đây.
+Theo Telegraph/DTrends

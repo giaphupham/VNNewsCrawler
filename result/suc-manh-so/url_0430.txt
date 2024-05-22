@@ -1,0 +1,9 @@
+Theo phản ánh của nhiều người dùng trên các nền tảng mạng xã hội cũng như trên trang web hỗ trợ của Samsung, mẫu smartphone Galaxy S23 Ultra của họ đang gặp phải các vấn đề về kết nối WiFi.
+Cụ thể, dù đã kết nối vào mạng WiFi và tình trạng mạng vẫn đang ổn định, tuy nhiên, người dùng sẽ nhận được thông báo WiFi không thể sử dụng và họ không thể kết nối mạng Internet trên chiếc Galaxy S23 Ultra của mình, dù các thiết bị khác đang kết nối vào cùng chung mạng WiFi vẫn truy cập Internet bình thường.
+Galaxy S23 Ultra gặp vấn đề về kết nối WiFi khiến nhiều người dùng cảm thấy khó chịu (Ảnh: Twitter).
+Một vài người dùng cho biết dường như lỗi xảy ra khi họ kết nối vào những mạng WiFi hỗ trợ chuẩn WiFi-6, trong khi đó nếu kết nối vào mạng WiFi chuẩn cũ thì không gặp vấn đề gì.
+Vấn đề chỉ gặp phải trên Galaxy S23 Ultra, trong khi đó các sản phẩm cùng dòng bao gồm Galaxy S23 và S23+ không xảy ra lỗi này. Điều này cho thấy nhiều khả năng lỗi liên quan đến vấn đề phần mềm hơn là phần cứng, do bộ xử lý và chip WiFi sử dụng trên loạt sản phẩm Galaxy S23 là tương tự nhau.
+Ngoài ra, nhiều người dùng nhận ra lỗi gặp phải sau khi nâng cấp Galaxy S23 Ultra lên bản cập nhật mới nhất vừa được Samsung phát hành cho sản phẩm, nghĩa là nếu vẫn sử dụng phiên bản phần mềm cũ (chưa nâng cấp) thì không gặp vấn đề gì.
+Các nguồn tin cho biết hiện Samsung đã ghi nhận được vấn đề và sẽ sớm phát hành bản nâng cấp để vá lỗi trong thời gian sớm nhất.
+Trong khi chờ bản cập nhật vá lỗi từ phía Samsung, người dùng Galaxy S23 Ultra nếu gặp vấn đề về kết nối WiFi có thể tạm thời khắc phục lỗi bằng cách tắt chức năng WiFi trên thiết bị rồi bật lại, hoặc thậm chí khôi phục lại cài đặt gốc trên smartphone để khôi phục về phiên bản phần mềm cũ hơn (cần lưu ý rằng nếu khôi phục cài đặt gốc sẽ khiến toàn bộ dữ liệu trên smartphone bị xóa, do vậy cần phải sao lưu các dữ liệu quan trọng trước khi thực hiện điều này).
+Theo SamMobile

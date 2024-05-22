@@ -1,0 +1,17 @@
+Vì lý do bảo mật, Apple không cho phép người dùng iPhone cài đặt các ứng dụng từ bên ngoài, mà người dùng chỉ được phép cài các ứng dụng đã được Apple kiểm duyệt trên kho ứng dụng App Store của hãng.
+Đây là điểm khác biệt giữa nền tảng iOS và Android, khi người dùng Android có thể dễ dàng cài đặt các ứng dụng từ bên ngoài hoặc cài đặt ứng dụng từ các file độc lập.
+Tuy nhiên, nhiều khả năng Apple sẽ phải có sự thay đổi, cho phép người dùng iPhone có thể cài đặt các ứng dụng từ bên thứ 3 hoặc tải file cài đặt từ trang web, thay vì chỉ được cài ứng dụng thông qua App Store như hiện nay.
+Người dùng iPhone sắp được cài đặt ứng dụng từ bên ngoài, thay vì chỉ được phép cài đặt trên App Store như hiện nay (Ảnh minh họa: MUO).
+Theo đó, Đạo luật chống độc quyền trên thị trường kỹ thuật số vừa được Liên minh châu Âu (EU) thông qua vào năm ngoái, buộc Apple phải cho phép người dùng cài đặt ứng dụng trên iPhone từ bên ngoài, thay vì độc quyền kho ứng dụng App Store.
+Đạo luật này cũng yêu cầu Apple cho phép các nhà phát triển ứng dụng tích hợp nền tảng thanh toán của riêng họ khi người dùng mua đồ trong ứng dụng, thay vì phải sử dụng nền tảng thanh toán của Apple (mà Apple sẽ được giữ lại 30% tiền phí giao dịch của người dùng).
+Phó chủ tịch phát triển phần mềm Craig Federighi của Apple đã thừa nhận vào năm ngoái rằng công ty sẽ phải tuân thủ theo luật pháp tại châu Âu. Hạn chót để Apple tuân thủ đạo luật này là vào ngày 7/3 tới.
+Nếu không tuân thủ, Apple hoàn toàn có thể bị cấm bán iPhone tại thị trường châu Âu.
+Điều này cũng tương tự như động thái trước đây khi EU cấm Apple độc quyền cổng kết nối Lightning trên iPhone, buộc Apple phải chuyển sang sử dụng cổng kết nối USB-C trên loạt iPhone 15.
+Tuy nhiên, trong khi iPhone 15 trên thị trường toàn cầu đều được chuyển sang sử dụng cổng kết nối USB-C, thì nhiều khả năng Apple sẽ chỉ cho phép người dùng tại châu Âu được cài đặt ứng dụng từ bên ngoài, trong khi đó người dùng iPhone trên toàn cầu vẫn sẽ tiếp tục phải cài ứng dụng thông qua App Store.
+Phóng viên công nghệ Mark Gurman của hãng tin Bloomberg cho biết Apple dự định sẽ tung ra một bản cập nhật cho người dùng iPhone và iPad tại châu Âu trong một vài tuần tới, cho phép người dùng cài đặt ứng dụng từ bên ngoài. Tuy nhiên, bản cập nhật này sẽ chỉ dành riêng cho người dùng tại châu Âu, còn người dùng tại các khu vực khác sẽ không có gì thay đổi.
+Đáng chú ý, ngoài châu Âu, nhiều quốc gia cũng muốn thông qua luật chống độc quyền và ép buộc Apple phải cho phép người dùng iPhone cài đặt ứng dụng từ bên ngoài.
+Vào tháng 12/2023, nhiều nguồn tin cho biết Nhật Bản cũng đang chuẩn bị thông qua luật chống độc quyền của riêng mình, buộc Apple phải cho phép người dùng iPhone cài đặt ứng dụng từ bên ngoài và chấp thuận các nền tảng thanh toán khác nhau trên ứng dụng, thay vì độc quyền dùng nền tảng của Apple.
+Bộ tư pháp Mỹ cũng được cho là sẵn sàng ép buộc Apple phải thực hiện động thái tương tự trên iPhone và iPad bán ra tại Mỹ.
+Nếu bị quá nhiều quốc gia ép buộc, nhiều khả năng Apple sẽ mở cửa để người dùng iPhone, iPad có thể tải và cài đặt các ứng dụng từ bên ngoài, thay vì tùy chỉnh tính năng này cho từng quốc gia riêng biệt.
+Dĩ nhiên, việc người dùng có thể tự cài đặt ứng dụng bên ngoài, thay vì thông qua App Store, sẽ khiến họ phải đối mặt với nguy cơ bảo mật khi có thể cài nhầm các ứng dụng có chứa mã độc, khiến iPhone bị xâm nhập và tấn công.
+Theo 9to5Mac/Bloomberg

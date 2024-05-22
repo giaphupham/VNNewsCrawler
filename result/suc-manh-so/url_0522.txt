@@ -1,0 +1,7 @@
+Apple vừa phát hành bản cập nhật iOS 17.4.1 cho người dùng iPhone. Đáng nói, phiên bản này được tung ra chỉ khoảng 2 tuần sau khi công ty công bố hệ điều hành iOS 17.4.
+iOS 17.4.1 được phát hành nhằm sửa lỗi cho iPhone (Ảnh: Digital Trends).
+Trong phần ghi chú, Apple không chia sẻ nhiều về những thay đổi trong bản cập nhật này. Tuy vậy, công ty cho biết iOS 17.4.1 bao gồm "các bản cập nhật bảo mật và sửa lỗi quan trọng, được khuyến nghị cho tất cả người dùng".
+Sau khi cập nhật iOS 17.4, nhiều người dùng iPhone phản ánh rằng thiết bị của họ gặp một số vấn đề liên quan đến pin, sự cố treo máy và một số vấn đề khác. Bản cập nhật iOS 17.4.1 được kỳ vọng sẽ khắc phục những sự cố này.
+Để cài đặt iOS 17.4.1, người dùng có thể truy cập vào phần Cài đặt -> Cài đặt chung -> Cập nhật phần mềm. Bản cập nhật này tương thích với tất cả thiết bị hỗ trợ iOS 17.4 trước đó.
+Bên cạnh iOS 17.4.1, Apple cũng phát hành bản cập nhật iPadOS 17.4.1. Công ty cho biết một số lỗi trong phiên bản iPadOS 17.4 trước đó đã ảnh hưởng đến hệ thống camera trên các dòng máy iPad Gen 6, ‌iPad‌ Gen 7, iPad Pro 10,5 inch và ‌iPad Pro‌ 12,9 inch thế hệ thứ hai.
+Sự cố này khiến ứng dụng camera không thể hoạt động khi quét mã QR. Apple cho biết những khách hàng bị ảnh hưởng bởi vấn đề trên cần cập nhật lên hệ điều hành iPadOS 17.4.1 để được khắc phục.

@@ -1,0 +1,12 @@
+Thỏa thuận này sẽ giúp Apple có thể bổ sung hàng loạt tính năng AI lên các sản phẩm của hãng. Giữa tháng 3, Apple được cho là đã đàm phán với Google về việc tích hợp chatbot Gemini lên iPhone. Tuy vậy, thỏa thuận này có vẻ như không đạt được thành công.
+Apple sẽ hợp tác với OpenAI để tích hợp các tính năng mới vào iOS 18 (Ảnh: Bloomberg).
+Theo Apple Insider, AI trên hệ điều hành iOS 18 có thể hỗ trợ người dùng một số tính năng như chuyển đổi tệp tin âm thanh thành văn bản, hỗ trợ dịch sang một ngôn ngữ khác hoặc tóm tắt văn bản.
+Hiện tại, Apple vẫn đang phát triển các tính năng mới của phiên bản hệ điều hành iOS 18 dựa trên mô hình AI do công ty tự nghiên cứu. Tuy nhiên, những cải tiến này sẽ tập trung vào các tính năng hoạt động trên thiết bị, thay vì được cung cấp thông qua đám mây.
+Vì vậy, Apple cần một đối tác để thực hiện những công việc nặng nhọc khác về AI, bao gồm các tính năng như tạo hình ảnh hay viết bài luận dựa trên những gợi ý cho sẵn.
+"Chúng tôi nhận thấy nhiều cơ hội trong lĩnh vực AI tạo sinh. Chúng tôi đã thực hiện những khoản đầu tư đáng kể và chúng tôi mong muốn sớm được chia sẻ một số điều rất thú vị với khách hàng của mình.
+Chúng tôi tin vào tiềm năng của AI. Đồng thời, chúng tôi cũng có những lợi thế sẽ tạo nên sự khác biệt trong kỷ nguyên mới này, bao gồm sự kết hợp độc đáo giữa phần cứng, phần mềm và dịch vụ liền mạch", CEO Apple Tim Cook chia sẻ trong một cuộc họp gần đây.
+iOS 18 được kỳ vọng sẽ sở hữu nhiều thay đổi, trở thành bản cập nhật quan trọng nhất từ trước đến nay.
+iOS 18 được kỳ vọng trở thành bản cập nhật quan trọng nhất từ trước đến nay (Ảnh: Apple Insider).
+Theo Tom's Guide, iOS 18 có thể giới thiệu một chatbot do Apple thiết kế dành riêng cho iPhone. Đây sẽ là một phiên bản cải tiến của trợ lý ảo Siri, có khả năng thực hiện nhiều tác vụ phức tạp thông qua điều khiển bằng giọng nói.
+Apple sẽ kết hợp các mô hình ngôn ngữ lớn vào trợ lý ảo Siri. Động thái này nhằm hỗ trợ người dùng tự động hóa các tác vụ phức tạp. Đơn cử, AI sẽ giúp người dùng có thể phản hồi các đoạn hội thoại một cách nhanh chóng và hiệu quả hơn.
+Ngoài ra, AI còn có thể được tích hợp vào nhiều ứng dụng của Apple, chẳng hạn như tạo danh sách nhạc tự động trong Apple Music, viết báo cáo hay tạo bản thuyết trình trong Pages và Keynote. Dự kiến, iOS 18 sẽ được công bố chính thức tại sự kiện WWDC 2024 diễn ra vào tháng 6.

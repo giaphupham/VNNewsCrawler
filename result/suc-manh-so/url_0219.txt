@@ -1,0 +1,10 @@
+Phần mềm Google Play Games do Google phát triển sẽ được giới thiệu vào năm 2022, cho phép các trò chơi trên kho ứng dụng Google Play có thể chạy được trên máy tính bảng, máy tính xách tay và PC Windows.
+"Bắt đầu từ năm 2022, người dùng sẽ có thể trải nghiệm các trò chơi tại Google Play với nhiều thiết bị hơn, chuyển đổi liền mạch giữa điện thoại, máy tính bảng, Chromebook và sắp tới là máy tính Windows.
+Sản phẩm này do Google chế tạo, mang những tính năng tốt nhất của Google Play Games đến với nhiều máy tính bảng, máy tính để bàn.
+Chúng tôi rất vui khi có thể mở rộng nền tảng của mình để người dùng thưởng thức các trò chơi Android yêu thích của họ", Greg Hartrell, Giám đốc sản phẩm trò chơi của Android và Google Play cho biết.
+Windows 11 đã bắt đầu hỗ trợ chạy một số ứng dụng Android (Ảnh: The Verge).
+Trao đổi với The Verge, ông Alex Garcia-Kummert - một phát ngôn viên của Google cho biết rằng công ty đã tự mình xây dựng ứng dụng này. Điều này đồng nghĩa Google chưa chính thức hợp tác với Microsoft.
+Hiện tại, vẫn chưa rõ Google áp dụng công nghệ gì để các ứng dụng Android có thể chạy được trên nền tảng Windows. Tuy nhiên, các ứng dụng này có thể chạy trực tiếp thông qua phần cứng của máy tính, thay vì phải sử dụng các giải pháp đám mây.
+"Ứng dụng này sẽ hỗ trợ từ Windows 10 trở lên. Nó sẽ không liên quan đến các trò chơi trên đám mây. Ứng dụng của Google sẽ không dựa vào bất cứ tính năng đặc biệt nào trên Windows 11 và công ty sẽ tự phân phối chúng", Hartrell giải thích.
+Thông báo trên của Google được đưa ra vài tháng sau khi Microsoft bắt đầu thử nghiệm chạy các ứng dụng Android trên Windows 11. Microsoft đã xây dựng một hệ thống con dành riêng cho việc chạy các ứng dụng Android.
+Tuy nhiên, do Microsoft chỉ hợp tác với Amazon để phát triển tính năng này nên số lượng trò chơi và ứng dụng sẽ tương đối hạn chế.

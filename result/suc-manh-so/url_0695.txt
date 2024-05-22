@@ -1,0 +1,32 @@
+Chắc hẳn không ít lần bạn đã vô tình xóa nhầm các dữ liệu quan trọng trên máy tính, hoặc các dữ liệu đã bị "bốc hơi" ngoài ý muốn do format nhầm ổ đĩa, cài đặt lại Windows mà chưa kịp sao lưu dữ liệu...
+Hãng phần mềm iCare (Mỹ) nổi tiếng với các sản phẩm khôi phục dữ liệu bị mất trên máy tính. Phần mềm iCare Data Recovery Pro là một trong số đó.
+iCare Data Recovery Pro là phần mềm chuyên nghiệp được ra đời không chỉ giúp người dùng khôi phục những dữ liệu bị xóa nhầm, mà còn những dữ liệu bị mất do quá trình format hay hư hỏng ổ cứng… Phần mềm cung cấp nhiều chế độ quét khác nhau giúp dễ dàng tìm kiếm và khôi phục các dữ liệu bị đã bị mất.
+Với sự trợ giúp của phần mềm này, bạn sẽ có được một giải pháp đề phòng trong trường hợp vô tình xóa nhầm các dữ liệu quan trọng hoặc các dữ liệu biến mất không rõ lý do.
+Lưu ý: khả năng khôi phục dữ liệu bị mất không đảm bảo 100% và phụ thuộc vào nhiều yếu tố, nhưng dung lượng dữ liệu, thời gian dữ liệu đã bị xóa... Hiện không có bất kỳ phần mềm khôi phục dữ liệu nào có thể đảm bảo tìm kiếm và khôi phục 100% những dữ liệu đã bị xóa trên máy tính.
+Hướng dẫn cài đặt và kích hoạt phần mềm
+Mặc định, iCare Data Recovery có giá bản quyền 69,95 USD, trong khi phiên bản dùng thử của phần mềm lại hạn chế tính năng khôi phục file, chỉ cho phép khôi phục tối đa 20MB dữ liệu đã mất.
+Hiện tại, hãng phần mềm iCare đang có chương trình khuyến mãi, cung cấp miễn phí mã bản quyền của phần mềm. Bạn đọc có thể thực hiện theo các bước sau để tận dụng chương trình khuyến mãi này.
+- Đầu tiên, download bản dùng thử của phần mềm tại đây.
+Lưu ý: bạn không nên cài đặt phần mềm lên phân vùng ổ đĩa có chứa dữ liệu đã mất cần khôi phục, vì quá trình cài đặt phần mềm sẽ khiến việc khôi phục dữ liệu đã bị xóa gặp nhiều khó khăn hơn. Nếu bạn cần khôi phục dữ liệu đã bị xóa từ phân vùng ổ đĩa C, bạn nên cài đặt phần mềm lên phân vùng ổ đĩa D.
+- Sau khi hoàn tất cài đặt, trong lần đầu tiên sử dụng, bạn nhấn vào mục "Register" ở góc trên bên phải giao diện phần mềm.
+- Từ hộp thoại hiện ra, bạn điền đoạn mã sau vào khung "License Code": GXNXI-VKQG3-KW8QB-ZJPCE-2NUSG-FAWKV-33KFC-XGVUK
+Nhấn nút "Register" từ hộp thoại để xác nhận.
+Đây là đoạn mã bản quyền do hãng phần mềm iCare Recovery cung cấp nên hoàn toàn hợp lệ và miễn phí.
+Bây giờ, bạn đã có thể sử dụng iCare Data Recovery với đầy đủ bản quyền mà không còn gặp hạn chế nào về tính năng cũng như số ngày sử dụng.
+Hướng dẫn sử dụng phần mềm
+Mặc định, phần mềm sẽ cung cấp cho người dùng 3 tùy chọn để khôi phục dữ liệu bị mất trên máy tính, bao gồm:
+- Deleted file recovery: đây là hình thức khôi phục file đơn giản nhất, cho phép người dùng khôi phục lại những file đã bị xóa từ thùng rác của máy tính hoặc xóa file bằng tổ hợp phím "Shift - Delete".
+- Deep scan recovery: đây là hình thức khôi phục dữ liệu hiệu quả và được sử dụng phổ biến nhất trên phần mềm. Công cụ này cung cấp khả năng khôi phục file ở hầu hết các trường hợp, như file bị mất do format nhầm ổ đĩa, bị xóa nhầm hoặc vì nhiều lý do khác nhau.
+- Lost partition recovery: đây là chức năng cho phép khôi phục dữ liệu từ những phân vùng ổ đĩa đã bị xóa hoặc những phân vùng ổ đĩa bị lỗi do hệ thống và không thể truy cập được.
+Bài viết sẽ hướng dẫn bạn cách thức sử dụng "Deep scan recovery", là chế độ khôi phục dữ liệu hiệu quả nhất của phần mềm, để phục hồi các dữ liệu bị mất.
+Sau khi nhấn vào tùy chọn "Deep scan recovery", một hộp thoại sẽ hiện ra cho phép người dùng chọn phân vùng ổ đĩa có dữ liệu bị mất cần khôi phục. Nhấn nút "Next" để phần mềm bắt đầu quá trình quét và tìm thông tin về dữ liệu bị mất.
+Thời gian để thực hiện quá trình quét tìm dữ liệu bị xóa lâu hay mau phụ thuộc vào số lượng file cũng như dung lượng của phân vùng ổ đĩa. Với phân vùng ổ đĩa có dung lượng 500GB sẽ phải mất khoảng một giờ.
+Sau khi quá trình quét kết thúc, phần mềm sẽ liệt kê những định dạng file hệ thống của phân vùng chứa file đã bị xóa. Đánh dấu chọn một trong các phân vùng được liệt kê, sau đó nhấn nút "Next".
+Dựa vào thông số "Suggestion" (Đề xuất), bạn nên chọn phân vùng nào có thông số Suggestion cao nhất (High) để có khả năng khôi phục được dữ liệu cao nhất.
+Danh sách những file có thể khôi phục sẽ được liệt kê dưới dạng từng nhóm thư mục. Bạn tìm đến thư mục đã từng chứa file bị mất để tìm lại các dữ liệu cần khôi phục. Bạn cũng có thể nhấn "Search files" để tìm kiếm nhanh file đã bị xóa, xem phần mềm có thể tìm thấy và khôi phục những file đó hay không.
+Bạn có thể kích đôi vào từng file ở danh sách bên phải để xem nội dung trước khi quyết định có khôi phục file đó hay không.
+Sau khi đã tìm đúng file cần khôi phục, bạn đánh dấu vào file đó (có thể đánh dấu đồng thời nhiều file hoặc đánh dấu chọn toàn bộ), sau đó nhấn nút "Next".
+Hộp thoại hiện ra tiếp theo cho phép bạn chọn thư mục để lưu lại những file cần khôi phục. Quá trình khôi phục diễn ra nhanh hay chậm phụ thuộc vào dung lượng và số lượng file cần phục hồi.
+Sau khi quá trình phục hồi hoàn tất, một thư mục hiện ra trong thư mục bạn đã chọn để lưu file, bên trong có chứa những file đã khôi phục. Bây giờ, bạn đã lại có thể sử dụng những dữ liệu đã bị xóa mất này.
+Lưu ý: nếu tiến hành khôi phục dữ liệu càng sớm sau khi bị xóa mất hoặc bị format ổ đĩa, khả năng khôi phục thành công sẽ càng cao.
+Trong quá trình sử dụng máy tính, sẽ không ai biết trước được khi nào thì vô tình xóa file hoặc format phân vùng ổ đĩa, khiến cho toàn bộ dữ liệu trên đó bị mất, đặc biệt với trường hợp format nhầm USB hoặc ổ cứng di động. Do vậy, bạn nên cài sẵn iCare Data Recovery trên máy tính để có thể sử dụng và khôi phục dữ liệu quan trọng ngay khi cần.

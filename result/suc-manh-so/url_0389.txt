@@ -1,0 +1,14 @@
+Kevin McSheehan, chuyên gia bảo mật 37 tuổi người Mỹ, đã vô tình phát hiện một lỗi ngớ ngẩn trên mạng xã hội X (trước đây là Twitter) khi đang truy cập trang X chính thức của CIA.
+Theo đó, vào cuối tháng 9 vừa qua, CIA đã chia sẻ lên tài khoản X của mình một đường link trang web nhằm hướng dẫn mọi người có thể liên hệ với CIA để cung cấp các thông tin tình báo một cách an toàn và bí mật. Đường link trang web này dẫn đến tài khoản mạng xã hội Telegram do CIA quản lý.
+Đường dẫn đến kênh Telegram trên tài khoản X của CIA tự động bị rút ngắn, gây ra lỗi khi người dùng nhấn vào (Ảnh chụp màn hình).
+Tuy nhiên, mạng xã hội X lại mắc một sai lầm ngớ ngẩn, khi tự động cắt ngắn đường link trang web mà CIA đã chia sẻ. Do đó, khi người dùng nhấn vào đường link này, họ sẽ được chuyển đến một tài khoản Telegram hoàn toàn khác, thay vì tài khoản Telegram chính thức của CIA.
+Kevin McSheehan đã phát hiện ra điều này. Ngay lập tức ảnh cảm thấy lo lắng vì kẻ xấu có thể lợi dụng lỗi của X để chuyển hướng người dùng đến một tài khoản Telegram giả mạo, từ đó có thể lấy cắp các thông tin tình báo quan trọng do mọi người dùng cung cấp.
+Điều may mắn là tài khoản Telegram được chuyển hướng từ trang X của CIA chưa có ai đăng ký. Ngay lập tức, McSheehan đã đăng ký một tài khoản Telegram mới, với tên sử dụng và đường dẫn giống với đường link xuất hiện trên trang X của CIA.
+Lúc này, bất kỳ ai nhấn vào đường link Telegram chia sẻ trên trang X của CIA sẽ được chuyển hướng đến tài khoản Telegram do Kevin McSheehan đang quản lý. Trên tài khoản Telegram này, McSheehan đã đặt một thông điệp cảnh báo lớn với nội dung: "Đây không phải là kênh Telegram chính thức của CIA. Không chia sẻ thông tin nhạy cảm nào với bất cứ ai".
+Anh cũng đã thông báo sự việc với CIA và X để khắc phục vấn đề.
+"Hãy thử tưởng tượng nếu kẻ xấu phát hiện ra lỗi này trên X trước tôi, chúng có thể đăng ký một tài khoản Telegram giống với đường link được CIA chia sẻ trên X, sau đó mạo danh CIA để khai thác các thông tin tình báo do mọi người cung cấp. Nghĩ đến điều đó, tôi đã lập tức hành động", Kevin McSheehan chia sẻ.
+Hiện vấn đề đã được khắc phục. Trên trang X chính thức của CIA, đường link dẫn đến kênh liên lạc trên Telegram của cơ quan tình báo này đã được sửa lại chính xác.
+Theo McSheehan, vấn đề nằm ở mạng xã hội X chứ không phải do lỗi của CIA.
+"Tôi không rõ vì sao X lại rút ngắn đường link trang web đi như vậy, nhưng rõ ràng đây là một lỗi ngớ ngẩn. Không thể đổ lỗi cho CIA trong trường hợp này", McSheehan chia sẻ thêm.
+CIA và X vẫn chưa đưa ra bình luận gì về lỗi gặp phải do McSheehan phát hiện.
+Theo YN

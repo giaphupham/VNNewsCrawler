@@ -1,0 +1,7 @@
+Các tính năng trí tuệ nhân tạo (AI) đang ngày càng trở nên phổ biến và được áp dụng rộng rãi trên smartphone, chẳng hạn tính năng tối ưu bối cảnh khi chụp ảnh bằng AI, tính năng xóa đối tượng trên ảnh bằng AI hay các trợ lý ảo tích hợp AI…
+Các mẫu smartphone trong tương lai sẽ được tích hợp thêm một tính năng trí tuệ nhân tạo khác, đó là tối ưu tốc độ kết nối mạng 5G bằng AI.
+Theo đó, tại Hội nghị Di động Thế giới (MWC) đang diễn ra ở Barcelona, Tây Ban Nha, hãng phát triển chip di động Qualcomm vừa cho ra mắt mẫu modem dành cho smartphone với tên gọi Snapdragon X80.
+Các mẫu smartphone 5G trong tương lai sẽ được tối ưu tốc độ kết nối và mức độ ổn định bằng trí tuệ nhân tạo (Ảnh minh họa: Pinterest).
+Thay vì chỉ thực hiện chức năng kết nối mạng 5G theo tần số, Snapdragon X80 được tích hợp một bộ xử lý trí tuệ nhân tạo riêng biệt, mà theo Qualcomm có thể phân tích tín hiệu sóng, vị trí kết nối… giúp cải thiện tốc độ kết nối mạng 5G, giảm độ trễ và giảm năng lượng tiêu thụ của thiết bị khi kết nối mạng di động, giúp kéo dài thời gian sử dụng pin trên smartphone…
+Qualcomm cho biết modem Snapdragon X80 sẽ đặt nền móng cho sự phát triển của công nghệ mạng 5G Advanced (còn gọi là công nghệ mạng 5.5G), với nhiều ưu điểm là tốc độ kết nối nhanh hơn gấp 10 lần, phạm vi phủ sóng rộng hơn và độ trễ ít hơn so với mạng 5G hiện tại.
+Nhiều khả năng modem Snapdragon X80 sẽ được tích hợp trong chip xử lý trung tâm Snapdragon 8 Gen 4 được Qualcomm ra mắt vào cuối năm 2024 và sẽ được trang bị trên các mẫu smartphone cao cấp được trình làng vào đầu năm 2025.

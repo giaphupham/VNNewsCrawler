@@ -1,0 +1,6 @@
+Singular Computing, được thành lập bởi nhà khoa học máy tính Joseph Bates tại Massachusetts (Mỹ), đã đệ đơn kiện Google sao chép công nghệ từ Bates và đưa vào các sản phẩm công ty.
+Vụ kiện cáo buộc Google đã sao chép công nghệ từ Bates và đưa vào các sản phẩm công ty (Ảnh: Reuters).
+Đơn kiện cho biết Bates đã chia sẻ những cải tiến về xử lý máy tính của mình với Google trong giai đoạn 2010-2014. Những đổi mới này đã được Google tích hợp vào bộ xử lý Tensor và sử dụng để hỗ trợ các tính năng AI trong Google Search, Gmail, Google Translate và nhiều dịch vụ khác.
+Trong khi đó, luật sư của Google phản bác rằng các nhân viên thiết kế chip cho công ty chưa bao giờ có trao đổi với Bates. Đồng thời, Google khẳng định họ thiết kế chip một cách độc lập.
+"Các con chip của Google về cơ bản là khác hoàn toàn so với những gì được mô tả trong bằng sáng chế của Singular", luật sư của Google cho biết.
+Google cho biết Singular đã yêu cầu bồi thường thiệt hại lên tới 7 tỷ USD với cáo buộc vi phạm hai bằng sáng chế của họ. Singular đã đệ đơn kiện từ năm 2019 và phiên tòa sẽ diễn ra trong tuần này tại Boston. Dự kiến, phiên tòa sẽ kéo dài trong khoảng thời gian 2-3 tuần.

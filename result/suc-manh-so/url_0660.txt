@@ -1,0 +1,12 @@
+Hiện tại, Apple đã sử dụng WiFi 6E trên một số dòng thiết bị, bao gồm iPad Pro 11 inch, iPad Pro 12,9 inch, Mac Mini cùng hai mẫu máy tính MacBook Pro phiên bản 14 inch và 16 inch.
+Công nghệ WiFi 6E hứa hẹn sẽ giúp iPhone 15 có kết nối nhanh hơn, giảm độ trễ (Ảnh: GSMArena).
+Tuy nhiên, chưa có chiếc iPhone nào được trang bị công nghệ này. Hiện tại, vẫn chưa rõ công nghệ WiFi 6E sẽ được trang bị trên toàn bộ dòng sản phẩm iPhone 15, hay chỉ xuất hiện trên những mẫu iPhone 15 Pro.
+WiFi 6E là chuẩn WiFi đầu tiên cho phép kết nối với băng tần 6 GHz, trong khi chuẩn WiFi 6 trước đó vẫn bị giới hạn ở các băng tần 2,4 GHz và 5 GHz. Nâng cấp mới này hứa hẹn sẽ giúp iPhone 15 có tốc độ kết nối nhanh hơn, độ trễ thấp hơn và ít nhiễu hơn.
+Đầu tháng 1, nguồn tin từ Economic Daily News cho biết iPhone 15 đã bước vào giai đoạn "sản xuất thử nghiệm" sớm tại nhà máy lắp ráp thiết bị của Foxconn. Trong quá trình này, Apple và các nhà cung cấp sẽ phác thảo quy trình sản xuất để biến những thiết kế mới nhất của hãng trở thành sản phẩm thực tế, từ đó tiến hành sản xuất hàng loạt.
+Các thông tin rò rỉ trước đó cho biết dòng sản phẩm iPhone 15 vẫn sẽ có 4 phiên bản, bao gồm iPhone 15, iPhone 15 Plus, iPhone 15 Pro và iPhone 15 Ultra. Các mẫu iPhone 15 Pro sẽ được trang bị bộ xử lý A17 Bionic, được sản xuất trên tiến trình 3nm của TSMC. Dung lượng RAM trên dòng sản phẩm Pro sẽ được nâng cấp lên 8 GB, thay vì 6 GB như hiện tại.
+Trong khi đó, bộ đôi iPhone 15 và iPhone 15 Plus sẽ sử dụng chip A16 Bionic và dung lượng RAM 6 GB. Tất cả bốn mẫu máy này đều được trang bị cổng sạc USB-C cùng modem 5G Snapdragon X70 của Qualcomm.
+Theo 9to5mac, bộ xử lý A17 Bionic trên dòng sản phẩm iPhone 15 sẽ chủ yếu tập trung vào việc cải thiện thời lượng sử dụng pin, thay vì nâng cấp hiệu năng xử lý như trước.
+Bản dựng iPhone 15 Ultra (Ảnh: Tom's Guide).
+Nhà phân tích Jeff Pu cho biết ống kính telephoto trên iPhone 15 Ultra sẽ tích hợp công nghệ kính tiềm vọng, hỗ trợ khả năng thu phóng quang học. Ngoài ra, bộ đôi iPhone 15 và iPhone 15 Plus cũng sẽ được nâng cấp camera với cảm biến 48 MP, giúp chụp hình với chất lượng tốt hơn.
+Nguồn tin từ LeaksApplePro cho biết giá bán iPhone 15 Ultra có thể nằm trong khoảng 1.199-1.299 USD. Để so sánh, mẫu điện thoại cao cấp nhất của Apple hiện nay là chiếc iPhone 14 Pro Max, có giá bán khởi điểm từ 1.099 USD.
+Ngược lại, Apple được cho là có thể sẽ giảm giá đối với hai mẫu iPhone 15 và iPhone 15 Plus, nhằm gia tăng khả năng cạnh tranh của dòng sản phẩm này so với các đối thủ trong cùng phân khúc.

@@ -1,0 +1,6 @@
+Apple vừa phát hành bản cập nhật iOS 17.5 và iPadOS 17.5. Theo thông tin từ phần mô tả, phiên bản hệ điều hành này sẽ khắc phục các lỗ hổng nghiêm trọng trên iPhone, đồng thời cung cấp bản vá bảo mật cho thiết bị.
+iOS 17.5 bao gồm nhiều bản vá bảo mật và sửa lỗi cho iPhone (Ảnh: 9to5mac).
+Bên cạnh đó, bản cập nhật iOS 17.5 cũng bổ sung tính năng đọc tin tức ngoại tuyến trên ứng dụng Apple News+. Theo đó, người dùng có thể sử dụng phần mềm này để đọc thông tin ngay cả khi không có kết nối Internet.
+Apple News+ cũng tích hợp một trò chơi ô chữ hàng ngày có tên Quartiles. Người chơi sẽ cần kết hợp các ô chữ để tạo thành các từ khóa nhất định để kiếm điểm.
+Ngoài ra, iOS 17.5 còn hỗ trợ trình theo dõi vật phẩm của bên thứ ba. Đây là tính năng mà Apple đã nghiên cứu và phát triển từ năm ngoái. Sau khi cập nhật iOS 17.5, iPhone có thể đưa ra cảnh báo cho người dùng khi có các thiết bị theo dõi không mong muốn của bên thứ ba ở gần.
+Bản cập nhật mới cũng cho phép người dùng iPhone có thể tải xuống ứng dụng từ các trang web của bên thứ ba. Tuy vậy, thay đổi này sẽ chỉ xuất hiện tại thị trường châu Âu.

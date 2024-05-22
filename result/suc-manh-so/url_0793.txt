@@ -1,0 +1,48 @@
+Không giống như máy tính để bàn hay máy tính xách tay, siêu máy tính xử lý các tập hợp dữ liệu khổng lồ và thực hiện các phép tính với tốc độ cực cao.
+Theo IBM, chúng là những máy tính nhanh nhất thế giới và cần có cơ sở hạ tầng khổng lồ để vận hành chúng, trong đó có các hệ thống làm mát vô cùng hiện đại.
+Về mặt thiết kế, chúng cũng có nhiều linh kiện hơn máy tính thông thường. Máy tính xách tay của bạn có thể có 1 bộ xử lý trung tâm (CPU) và một bộ xử lý đồ họa (GPU), nhưng một siêu máy tính có thể có hàng nghìn CPU và GPU và mỗi bộ đều mạnh hơn nhiều CPU và GPU của máy tính thông thường.
+Về hiệu suất, một máy tính bình thường có sức mạnh vài trăm gigaFLOP/giây (mỗi FLOP là một phép tính toán học), tương đương 1 nghìn tỷ. Trong khi đó, siêu máy tính mạnh nhất thế giới hiện nay đã vượt quá khả năng 1 exaFLOP, tương đương 1 triệu tỷ. Chúng được gọi là siêu máy tính cấp exa.
+Do chúng có khả năng xử lý khối lượng dữ liệu cực kỳ lớn và tính toán nhanh không tưởng, các nhà khoa học thường dùng siêu máy tính để giải quyết những vấn đề về phát minh, khám phá các loại thuốc và vật liệu.
+Chúng cũng có khả năng dự báo, ví dụ như dự báo thời tiết và thậm chí học cách chơi cờ, như là siêu máy tính Deep Blue cổ điển của IBM năm 1997.
+Dưới đây là 7 siêu máy tính mạnh nhất hiện nay.
+1. Frontier
+Địa điểm: Phòng thí nghiệm quốc gia Oak Ridge, Tennessee, Mỹ
+Hiệu suất: 1,2 exaFLOPS
+Công bố hoạt động: tháng 8/2022
+Frontier là siêu máy tính mạnh nhất trên thế giới. Ban đầu các nhà khoa học dự định dùng nó để nghiên cứu bệnh ung thư, phát minh thuốc, tổng hợp hạt nhân, vật liệu mới, thiết kế động cơ siêu hiệu quả và lập mô hình các vụ nổ sao. Trong tương lai, các nhà khoa học sẽ dùng Frontier để thiết kế công nghệ giao thông vận tải và công nghệ y khoa.
+2. Aurora
+Địa điểm: Phòng thí nghiệm quốc gia Argonne, Illinois, Mỹ
+Hiệu suất: 0,59 exaFLOPS
+Công bố hoạt động: tháng 6/2023
+Đây là một trong những siêu máy tính trẻ nhất và có thể một ngày nào đó sẽ trở thành siêu máy tính mạnh nhất. Nó là siêu máy tính thứ hai có cấp độ exa và có khả năng đạt đến cấp độ 2 exaFLOPS, tức là gấp đôi Frontier. Tổng hợp phản ứng hạt nhân quy mô lớn là mục tiêu chính các nhà khoa học dự kiến sẽ tập trung sử dụng Aurora.
+3. Eagle
+Địa điểm: Microsoft Azure — The Cloud / Distributed
+Hiệu suất: 0,56 exaFLOPS
+Công bố hoạt động: tháng 8/2023
+Siêu máy tính Eagle của Microsoft không được đặt trong một phòng thí nghiệm, mà nó được lưu trữ dưới dạng đám mây và bất kỳ ai cũng tiếp cận được nó thông qua nền tảng đám mây Microsoft Azure.
+Nó là một mạng lưới các hệ thống phân tán có đủ sức mạnh để trở thành siêu máy tính nhanh thứ ba trên thế giới. Về lý thuyết, bất kỳ ai trả phí đều có thể truy cập sử dụng nó.
+4. Fugaku
+Địa điểm: Trung tâm Khoa học máy tính Riken, Kobe, Nhật Bản
+Hiệu suất: 0,44 exaFLOPS
+Công bố hoạt động: tháng 6/2020
+Fugaku từng là siêu máy tính mạnh nhất thế giới trong thời gian từ tháng 6/2020 đến tháng 6/2022. Các nhà khoa học đã sử dụng nó để giải quyết một số nghiên cứu quan trọng trong những năm qua.
+Trong giai đoạn đại dịch Covid-19, nó được dùng để xác nhận rằng khẩu trang làm bằng vải không dệt có thể ngăn chặn các giọt rơi trong không khí tốt hơn khẩu trang bằng vải thông thường. Hiện nay Fugaku đào tạo các mô hình ngôn ngữ lớn AI Nhật Bản theo khuôn mẫu của ChatGPT.
+5. Lumi
+Địa điểm: Trung tâm Dữ liệu CSC, Kajaani, Phần Lan
+Hiệu suất: 0,38 exaFLOPS
+Công bố hoạt động: tháng 6/2021
+Lumi là siêu máy tính mạnh nhất ở châu Âu và nhanh thứ 5 trên thế giới. Nó sử dụng 100% năng lượng thủy điện và nhiệt thừa của nó được dùng để sưởi ấm các tòa nhà xung quanh.
+Lumi bắt đầu chạy thử vào tháng 6/2021 và hoạt động hết công suất từ tháng 2/2023. Nó được các nhà nghiên cứu ở khắp châu Âu cùng sử dụng vì mục đích hợp tác nghiên cứu và được tối ưu hóa để thực hiện công việc dựa trên AI. Nó cũng là "đối tác" của 2 máy tính lượng tử QAL 9000 và Helmi ở Phần Lan. Sự hợp tác điện toán lượng tử - cổ điển này giúp các nhà khoa học có những chiếc máy tính lượng tử kết hợp siêu máy tính tốt nhất hiện nay.
+6. Leonardo
+Địa điểm: Trung tâm Dữ liệu CINECA, Bologna, Ý
+Hiệu suất: 0,23 exaFLOPS
+Công bố hoạt động: tháng 11/2022
+Leonardo gồm 3 module kết hợp với nhau và trở thành cỗ máy nhanh thứ hai của châu Âu.
+Trung tâm Dữ liệu CINECA nơi đặt siêu máy tính này, là một tổ chức liên kết các trường đại học Ý, các trung tâm nghiên cứu công và các cơ quan của chính phủ. Leonardo bước vào giai đoạn tiền sản xuất vào tháng 5/2023, khi đó đã có 80 dự án được gửi đến và 13 dự án được chọn để thực hiện bằng siêu máy tính này. Từ tháng 8/2023, nó chính thức đi vào giai đoạn sản xuất.
+7. Summit
+Địa điểm: Phòng thí nghiệm quốc gia Oak Ridge, Tennessee, Mỹ
+Hiệu suất: 0,15 exaFLOPS
+Công bố hoạt động: tháng 6/2018
+Được phát triển để sử dụng riêng cho Phòng thí nghiệm quốc gia Oak Ridge, siêu máy tính Summit mạnh gấp 8 lần so với siêu máy tính trước đó tên là Titan của phòng thí nghiệm này, và nó là siêu máy tính mạnh nhất thế giới trong 2 năm cho đến khi bị Fugaku "soán ngôi".
+Ngoài việc chạy các mô hình khoa học, Summit còn được tối ưu hóa để đảm nhận công việc AI bao gồm học máy, học sâu trong các lĩnh vực sức khỏe con người và khám phá vật liệu. Nó đã giúp các nhà khoa học sàng lọc hàng triệu loại thuốc trong đại dịch Covid-19 để xác định xem loại thuốc nào có thể ngăn chặn virus xâm nhập hoặc sinh sôi trong tế bào cơ thể người.
+Theo LiveScience

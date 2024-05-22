@@ -1,0 +1,8 @@
+Nguồn tin từ Economic Daily News cho biết bộ xử lý A18 dành cho iPhone 16 và M4 cho máy tính Mac sẽ sở hữu nhiều nâng cấp quan trọng. Trong đó, nhân xử lý Neural Engine sẽ có nhiều lõi hơn nhằm đáp ứng các tác vụ liên quan đến trí tuệ nhân tạo.
+Trải nghiệm AI trên iPhone 16 sẽ được Apple tối ưu cả phần cứng lẫn phần mềm (Ảnh: PhoneArena).
+Chip A18 sẽ xuất hiện trên dòng sản phẩm iPhone 16, dự kiến ra mắt vào tháng 9. Trong khi đó, những chiếc máy tính Mac đầu tiên sử dụng chip M4 có thể sẽ được phát hành vào cuối năm 2024 hoặc đầu năm 2025.
+AI đang trở thành trọng tâm trong cuộc đua giữa các hãng smartphone. Trong một cuộc họp gần đây, CEO Tim Cook đã tiết lộ rằng công ty đang nghiên cứu các tính năng liên quan đến AI tạo sinh.
+"Đối với AI tạo sinh, chúng tôi có rất nhiều công việc đang được xử lý nội bộ. Chúng tôi luôn nỗ lực làm việc trước khi công bố bất cứ điều gì ra bên ngoài. Có một điều mà chúng tôi muốn tiết lộ là những thay đổi sẽ đến vào cuối năm nay", Cook cho biết.
+Trước đó, nguồn tin từ MacRumors cho biết hệ điều hành iOS 18 sẽ mang các mô hình ngôn ngữ lớn lên hàng triệu thiết bị của Apple thông qua đám mây. Trong khi đó, dòng sản phẩm iPhone 16 sẽ được trang bị một số tính năng độc quyền liên quan đến trí thông minh nhân tạo.
+Tính năng mới sẽ có sự tương tác giữa ‌Siri‌ và ứng dụng tin nhắn. AI sẽ giúp người dùng có thể phản hồi các đoạn hội thoại một cách nhanh chóng và hiệu quả hơn. Bên cạnh đó, đội ngũ cũng đang xem xét tích hợp AI vào Xcode để giúp các nhà phát triển ứng dụng lập trình nhanh hơn.
+Ngoài ra, AI còn có thể được tích hợp vào nhiều ứng dụng của Apple, chẳng hạn như tạo danh sách nhạc tự động trong Apple Music, viết báo cáo hay tạo bản thuyết trình trong Pages và Keynote.

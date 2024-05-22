@@ -1,0 +1,14 @@
+"Bẻ cong ánh sáng" có thể là chìa khóa cho mạng di động 6G (Ảnh: Shutterstock).
+Tương lai của việc truyền dẫn dữ liệu di động có thể nằm ở việc "uốn cong" các chùm ánh sáng trong không trung để cung cấp mạng không dây 6G với tốc độ cực nhanh.
+Đây là kết quả của một nghiên cứu được công bố gần đây trên tạp chí Nature's Communications Engineering về công nghệ 6G.
+Theo cơ quan thương mại GSMA, mạng 6G sẽ bắt đầu được triển khai vào năm 2030, và có thể đạt tốc độ nhanh hơn hàng nghìn lần so với 5G.
+Không giống như 5G, vốn chủ yếu hoạt động ở các băng tần dưới 6 gigahertz (GHz) trong phổ điện từ, mạng 6G dự kiến sẽ hoạt động ở phổ tần số terahertz (THz) có tần số từ 100 GHz đến 300 GHz.
+Một thách thức lớn với 5G tần số cao và 6G trong tương lai là tín hiệu cần đường truyền trực tiếp giữa máy phát và máy thu. Đó là bởi bức xạ càng gần ánh sáng khả kiến thì tín hiệu càng dễ bị chặn bởi các chướng ngại vật lý, chẳng hạn như tòa nhà, bức tường...
+Trong nghiên cứu mới, các nhà khoa học cho rằng mạng 6G trong tương lai có thể vượt qua thách thức này dựa vào cách "uốn cong" các tín hiệu tần số cao một cách hiệu quả.
+Để làm điều đó, nhóm nghiên cứu đã thiết kế ra các máy phát có khả năng điều khiển cường độ và thời gian của tín hiệu mang dữ liệu. Máy phát cho phép tín hiệu vẫn giữ được sự nguyên vẹn ngay cả khi đường truyền đến máy thu bị chặn một phần.
+Đó là bởi trong khi các photon vẫn truyền theo đường thẳng, thì tín hiệu từ phổ tần THz có thể bị bẻ cong xung quanh vật thể, và biến dữ liệu thành một dạng mới, với đặc tính "không bị chặn".
+Theo GSMA, mạng 6G sẽ bắt đầu được triển khai vào năm 2030 (Ảnh: Weibo).
+"Chúng tôi đã tìm ra liên kết dữ liệu cong đầu tiên trên thế giới", Edward Knightly, đồng tác giả nghiên cứu và là giáo sư kỹ thuật điện, máy tính tại Đại học Rice, cho biết.
+"Nó là cột mốc quan trọng trong việc hiện thực hóa tầm nhìn 6G về tốc độ dữ liệu cao và độ tin cậy cao".
+Được biết, băng tần milimet 5G (mmWave) hiện cung cấp băng thông mạng nhanh nhất, với tốc độ theo lý thuyết có thể lên tới từ 10 đến 50 gigabit (hàng tỷ bit) mỗi giây. Tuy nhiên, phổ tần THz nằm trên mmWave ở tần số từ 100 GHz đến 10.000 GHz (10 THz) có thể cung cấp tốc độ truyền dữ liệu 1 terabit/giây - nhanh hơn gần 5.000 lần.
+Mặc dù việc bẻ cong ánh sáng mà không cần sức mạnh của lỗ đen không phải là một khám phá mới, nhưng điều quan trọng ở nghiên cứu này là nó có thể giúp công nghệ mạng 6G trở nên thực tế hơn, cũng như tiến một bước gần hơn tới việc hiện thực hóa mạng không dây di động với tốc độ "vô song".

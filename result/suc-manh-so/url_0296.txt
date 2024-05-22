@@ -1,0 +1,19 @@
+Các hình thức lừa đảo trực tuyến nhằm vào người dùng internet và điện thoại di động tại Việt Nam đang ngày càng trở nên phổ biến, với nhiều chiêu trò hết sức tinh vi, gây ra thiệt hại lớn về tài sản cho người dân.
+Trong bối cảnh này, Hiệp hội An ninh mạng Quốc gia phối hợp với Ban Nghiên cứu, Tư vấn, Phát triển công nghệ và Hợp tác Quốc tế đã phát triển công cụ phòng chống lừa đảo trực tuyến.
+Công cụ này sẽ hoạt động dưới dạng ứng dụng dành cho smartphone, hỗ trợ 2 nền tảng phổ biến nhất hiện nay là Android và iOS, cung cấp chức năng kiểm tra số điện thoại giúp người dùng ngăn chặn các số lừa đảo có trong cơ sở dữ liệu, cảnh báo các số quảng cáo làm phiền.
+Người dùng có thể chủ động chặn các số không muốn liên lạc (Danh sách đen) hay tạo ngoại lệ cho các số thường xuyên trao đổi (Danh sách trắng).
+5 điểm chốt chặn quan trọng được tích hợp vào ứng dụng để ngăn chặn các hình thức lừa đảo phổ biến nhất hiện nay (Ảnh: NCA).
+Ứng dụng cũng cung cấp chức năng kiểm tra địa chỉ web, giúp phát hiện các trang web lừa đảo, chứa mã độc hoặc trang web giả mạo. Người dùng sẽ nhận được khuyến cáo không nên truy cập các trang web này để phòng tránh bị mất các tài khoản trực tuyến hoặc tài khoản ngân hàng.
+Ứng dụng cũng hỗ trợ người dùng quét các mã QR trước khi giao dịch, giúp phát hiện ra các mã QR có dấu hiệu lừa đảo.
+Công cụ này cũng tích hợp chức năng quét mã độc, giúp cảnh báo người dùng khi họ cài đặt các ứng dụng giả mạo hoặc ứng dụng chứa mã độc.
+Tính năng này sẽ giúp phòng ngừa trường hợp những kẻ lừa đảo mạo danh cơ quan chức năng để lừa người dùng cài ứng dụng giả mạo nhằm chiếm quyền điều khiển điện thoại, sau đó lấy cắp tiền trong tài khoản ngân hàng. Đây là chiêu lừa rất nhiều người mắc phải trong thời gian qua.
+Các chuyên gia bảo mật cho biết, hầu hết các tình huống lừa đảo có đích nhắm cuối cùng chính là số tiền trong tài khoản của nạn nhân. Ứng dụng phòng chống lừa đảo này sẽ tạo ra chốt chặn quan trọng, kiểm tra số tài khoản trước khi giao dịch.
+Với chức năng này, người dùng có thể biết số tài khoản mình định giao dịch có nằm trong danh sách lừa đảo hay không. Nếu có, người dùng được khuyến cáo không nên thực hiện giao dịch với các tài khoản đó.
+Hiệp hội an ninh mạng quốc gia kỳ vọng ứng dụng chống lừa đảo sẽ trở thành công cụ hữu hiệu giúp phát hiện các dấu hiệu lừa đảo trên mạng, đồng thời góp phần nâng cao kỹ năng an toàn cho người dùng.
+Ứng dụng sẽ cảnh báo người dùng nếu họ có dự định giao dịch với số tài khoản của những kẻ lừa đảo (Ảnh: NCA).
+Công cụ phòng chống lừa đảo trực tuyến cho người dân Việt Nam là một dự án mang tính cộng đồng, phi lợi nhuận, không sử dụng ngân sách nhà nước, kinh phí được huy động từ nguồn tài trợ xã hội.
+"Nghiên cứu kỹ 24 hình thức lừa đảo mà các đối tượng đã sử dụng, chúng tôi xác định 5 điểm chốt chặn quan trọng có thể giúp người dân phòng chống lừa đảo. Phần mềm sẽ phát hiện các dấu hiệu không an toàn thông qua kiểm tra số điện thoại, địa chỉ trang web, kiểm tra số tài khoản, quét mã độc và kiểm tra mã QR", ông Vũ Ngọc Sơn, Trưởng ban Nghiên cứu công nghệ Hiệp hội An ninh mạng quốc gia, Giám đốc công nghệ Công ty An ninh mạng NCS, kiến trúc sư trưởng của phần mềm, cho biết.
+Đội ngũ phát triển ứng dụng cho biết, cơ sở dữ liệu về thông tin những kẻ lừa đảo sẽ được kết nối, cập nhật từ các bộ, ngành trong nước như Bộ Công an, Bộ Thông tin và Truyền thông, Ngân hàng Nhà nước và các bên liên quan khác.
+Hệ thống cũng sẽ kết nối với cơ sở dữ liệu các công ty an ninh mạng, là thành viên của Hiệp hội An ninh mạng quốc gia, cũng như các tổ chức chống lừa đảo quốc tế để phát huy sức mạnh tổng hợp.
+Dự kiến, ứng dụng phòng, chống lừa đảo trực tuyến sẽ được phát hành phiên bản thử nghiệm vào tháng 6 tới, trước khi chính thức ra mắt và cung cấp miễn phí cho người dùng toàn quốc vào tháng 7.
+Ứng dụng sẽ được cung cấp trên 2 kho ứng dụng chính thức là Google Play và App Store.

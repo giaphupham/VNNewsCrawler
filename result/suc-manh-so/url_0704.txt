@@ -1,0 +1,12 @@
+Trong một cuộc phỏng vấn với Wall Street Journal, Tom Boger, giám đốc cấp cao mảng tiếp thị của Apple, cho biết iPad và máy tính Mac sẽ bổ sung cho nhau, thay vì cạnh tranh với nhau.
+Hệ điều hành macOS được xem là yếu tố chính khiến cho MacBook không phù hợp với màn hình cảm ứng (Ảnh: ZDNet).
+"Chúng tôi không xem đây là những sản phẩm cạnh tranh với nhau. iPad luôn là thiết bị cảm ứng. Trong khi đó, máy tính Mac sẽ phù hợp hơn với việc sử dụng cùng bàn phím và chuột", Boger chia sẻ.
+Khi được hỏi về việc liệu rằng Apple có phát hành một mẫu máy tính Mac tích hợp màn hình cảm ứng hay không, vị giám đốc cấp cao của Apple không đưa ra câu trả lời cụ thể. Thay vào đó, ông cho biết hệ điều hành macOS là "một nền tảng điện toán rất khác".
+"Nhiều khách hàng sở hữu cả hai loại thiết bị này. Và iPad được xem như một phương tiện giúp mở rộng khả năng làm việc từ máy tính Mac. Apple cũng đã phát triển tính năng Continuity để hỗ trợ người dùng làm điều này", Boger nói thêm.
+Dù vậy, Boger cũng không phủ nhận về khả năng MacBook sẽ được trang bị màn hình cảm ứng trong tương lai.
+"Tôi không thể nói rằng chúng tôi sẽ không bao giờ thay đổi những quyết định của mình", Boger chia sẻ.
+Đầu năm 2023, nguồn tin từ Bloomberg cho biết một nhóm của Apple đang tích cực phát triển một mẫu MacBook Pro mới hỗ trợ màn hình cảm ứng.
+Trong quá khứ, Apple từng nhiều lần bác bỏ ý tưởng về một chiếc máy tính Mac hỗ trợ màn hình cảm ứng (Ảnh: Tom's Guide).
+Sản phẩm này được cho là vẫn sẽ giữ nguyên thiết kế truyền thống của những chiếc MacBook Pro hiện nay với bàn phím và phần di chuột. Tuy nhiên, máy sẽ tích hợp thêm màn hình cảm ứng sử dụng công nghệ OLED. 
+Các báo cáo cho rằng mẫu máy này vẫn sẽ được trang bị hệ điều hành macOS. Người dùng vẫn có thể cài đặt các ứng dụng của iPhone và iPad, bởi chúng hiện đều có sẵn với máy tính Mac chạy chip silicon của Apple.
+MacBook tích hợp màn hình cảm ứng sẽ yêu cầu một số thay đổi quan trọng về phần mềm, để thiết bị có thể nhận các điều khiển chạm ngón tay một cách chính xác. Bên cạnh đó, các tùy chọn cũng cần được thiết kế lại để phù hợp với thao tác cảm ứng.

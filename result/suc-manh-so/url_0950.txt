@@ -1,0 +1,18 @@
+Nghệ sĩ người Đức Mathias Vef và nhà thiết kế đồ họa Benedikt Groß đã hợp tác cùng nhau để phát triển một chiếc máy ảnh kỹ thuật số với tên gọi Nuca.
+Điểm đặc biệt của chiếc máy ảnh này là được tích hợp AI, nhưng không nhằm mục đích tối ưu hình ảnh giúp tăng chất lượng ảnh chụp, mà mục tiêu là biến những bức ảnh chụp bình thường của bất kỳ ai trở thành ảnh khỏa thân.
+Theo đó, Nuca được tích hợp deepfake, một công nghệ AI có khả năng nhận diện gương mặt và ghép ảnh của bất kỳ người nào vào mọi khung cảnh theo ý muốn của tác giả.
+Về vẻ bề ngoài, Nuca trông giống như một chiếc máy ảnh kỹ thuật số du lịch, với thiết kế nhỏ gọn. Tuy nhiên, máy có khả năng kết nối internet để xử lý các tác vụ trí tuệ nhân tạo.
+Chiếc máy ảnh Nuca có khả năng "lột đồ" bất kỳ ai chỉ bằng một lần bấm nút (Ảnh: Nuca).
+Sau khi chụp ảnh một người nào đó, Nuca sẽ nhận diện gương mặt của người được chụp, sau đó sử dụng công nghệ deepfake để ghép gương mặt của người này vào một hình ảnh khỏa thân, với gương mặt, làn da, kiểu dáng được tối ưu để tương tự như người vừa được chụp.
+Mọi quá trình xử lý hình ảnh đều được thực hiện trực tiếp trên máy ảnh và chỉ mất vài giây để xử lý xong. Người dùng Nuca chỉ việc hướng chiếc máy ảnh này về phía đối tượng cần chụp, nhấn nút chụp ảnh và chờ trong giây lát, kết quả cuối cùng sẽ khiến người xem phải "đỏ mặt".
+2 đồng tác giả của Nuca khẳng định họ tạo ra chiếc máy ảnh này không nhằm mục đích bệnh hoạn hay biến thái, mà mục đích của họ cao cả hơn rất nhiều, đó là cảnh báo cho mọi người thấy rằng trí tuệ nhân tạo đang hủy hoại thực tế và có thể tạo ra những nội dung, hình ảnh giả mạo chỉ bằng một lần bấm nút.
+Mathias Vef cho biết anh và Benedikt Groß đã cùng theo học về ngành thiết kế phỏng đoán tại Đại học Nghệ thuật Hoàng gia ở London (Anh), nơi họ nghiên cứu về tương lai của công nghệ và những tác động của nó.
+"Khi chúng tôi gặp nhau vào mùa hè năm ngoái, chúng tôi đã có một cuộc trò chuyện khá dài và thú vị về trí tuệ nhân tạo tổng hợp và sau đó là công nghệ deepfake", Mathias Vef chia sẻ. "Đó là lúc cả 2 nghĩ đến những hậu quả tồi tệ nhất có thể xảy ra của AI và nảy ra ý tưởng về chiếc máy ảnh Nuca".
+Mathias Vef cho biết AI trên máy ảnh có thể phân tích gương mặt, các đặc điểm nhận dạng của đối tượng được chụp như giới tính, tuổi tác, biểu cảm, hình dạng cơ thể… để tạo ra bức ảnh ghép khỏa thân sao cho chuẩn xác nhất.
+"Nuca chỉ mất chừng 10 giây để xử lý xong hình ảnh và kết quả có thể khiến nhiều người phải bất ngờ", Mathias Vef chia sẻ.
+Hiện tại Nuca chỉ là một chiếc máy ảnh nguyên mẫu thử nghiệm được tạo ra, không phải là sản phẩm được thương mại.
+Dù 2 tác giả của chiếc máy ảnh này khẳng định Nuca được tạo ra nhằm cảnh báo mọi người về những tác hại của AI, nhưng chiếc máy ảnh cũng đã gây ra những tranh cãi khi không ít ý kiến cho rằng Mathias Vef và Benedikt Groß đã đưa ra một ý tưởng đầy biến thái và những kẻ xấu có thể thực hiện theo.
+Bất chấp những sự chỉ trích, Vef và Groß vẫn tự hào về ý tưởng và chiếc máy ảnh do họ tạo ra.
+"Cả 2 chúng tôi đều nghĩ rằng cuộc tranh luận mới chỉ bắt đầu vì những khả năng của AI vẫn là vô tận. Chúng ta mới chỉ ở giai đoạn bắt đầu của hành trình này", Vef chia sẻ. "Đối với chúng tôi, điều quan trọng là vừa phải phê phán vừa phải khám phá, vì chúng ta cần phải thảo luận về những khả năng và tác động của AI".
+Bạn đọc Dân trí nghĩ sao về chiếc máy ảnh Nuca và điều gì sẽ xảy ra nếu chiếc máy ảnh này được thương mại hóa? Hãy chia sẻ cảm nghĩ của mình ở phần bình luận bên dưới.
+Theo Fcompany/404Media

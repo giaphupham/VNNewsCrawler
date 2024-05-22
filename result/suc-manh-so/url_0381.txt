@@ -1,0 +1,16 @@
+Theo số liệu thống kê mới nhất tính đến tháng 3/2024 của Trung tâm internet Việt Nam (VNNIC, trực thuộc Bộ TT&TT), tốc độ trung bình của mạng băng rộng cố định tại Việt Nam đạt 95,57 Mb/s khi download và 95,45 Mb/s khi upload.
+Trong đó, Điện Biên là tỉnh có tốc độ mạng internet trung bình nhanh nhất cả nước, với tốc độ download trung bình đạt 231,89 Mb/s và tốc độ upload trung bình đạt 165,49 Mb/s.
+Xếp thứ 2 là Ninh Thuận, với tốc độ download/upload trung bình đạt 130,86 Mb/s và 133,66 Mb/s.
+Biểu đồ thống kê tốc độ mạng internet cố định trên khắp cả nước (Ảnh: VNNIC).
+Các tỉnh, thành nằm trong top 5 địa phương có tốc độ internet trung bình cao nhất ở các vị trí tiếp theo bao gồm Hòa Bình, Tuyên Quang và Sơn La.
+Trong khi đó, tốc độ internet trung bình tại Hà Nội chỉ đạt 94,08 Mb/s khi download và 96,01 Mb/s khi upload, nghĩa là thấp hơn tốc độ download trung bình của cả nước. Tại TPHCM, tốc độ download và upload trung bình đạt 98,98 Mb/s và 99,1 Mb/s.
+Tốc độ download và upload tại một thành phố lớn khác cũng dưới mức tốc độ trung bình của cả nước đó là Đà Nẵng. Tốc độ mạng trung bình tại thành phố này đạt 93,03 Mb/s khi download và 90,91 Mb/s khi upload.
+Ở chiều hướng ngược lại, Yên Bái đang là tỉnh có tốc độ mạng internet thấp nhất tại Việt Nam, khi chỉ đạt tốc độ download trung bình 51,17 Mb/s và upload trung bình 57,11 Mb/s.
+VNNIC cũng thống kê tốc độ trung bình của mạng băng rộng di động. Theo đó, trong tháng 3/2024, Việt Nam đạt tốc độ mạng di động trung bình 38,69 Mb/s khi download và 17,65 Mb/s khi upload.
+Trong đó, Hậu Giang là tỉnh có tốc độ mạng di động nhanh nhất hiện nay, đạt 68,18 Mb/s khi download và 26,67 Mb/s khi upload. Xếp ngay sau Hậu Giang là Cà Mau, với tốc độ mạng di động trung bình đạt 63,04 Mb/s khi download và 27,75 Mb/s khi upload.
+Các vị trí còn lại trong top 5 tỉnh, thành có tốc độ mạng di động nhanh nhất bao gồm Bến Tre, Kiên Giang, Kon Tum và Bình Thuận.
+Ở chiều hướng ngược lại, Hà Tĩnh là tỉnh có tốc độ mạng di động chậm nhất cả nước, khi chỉ đạt tốc độ download trung bình 30,73 Mb/s và upload trung bình 11,24 Mb/s.
+Tại Hà Nội, tốc độ download trung bình khi sử dụng mạng di động băng rộng là 35,2 Mb/s và tốc độ upload trung bình là 15,39 Mb/s. Tốc độ này tại TPHCM lần lượt đạt 40,44 Mb/s và 21,93 Mb/s; Đà Nẵng là 37,01 Mb/s và 20,26 Mb/s.
+Bạn đọc có thể xem thông tin chi tiết về tốc độ mạng cố định và di động tại khu vực mình đang sinh sống dựa theo kết quả thống kê của VNNIC tại đây.
+VNNIC lần đầu tiên thống kê tốc độ mạng internet các tỉnh, thành trên khắp cả nước từ tháng 4/2021. Đây là hệ thống đo kiểm tốc độ mạng internet chính thức của Bộ TT&TT, giúp phản ánh tình trạng tốc độ mạng internet trên khắp cả nước, bao gồm cả mạng cố định và di động.
+Hệ thống này hiện được đo kiểm và thống kê, báo cáo kết quả hàng tháng.

@@ -1,0 +1,13 @@
+Tại Hội nghị đối thoại với Bảo hiểm xã hội TPHCM vào đầu tháng 4, các doanh nghiệp có đông lao động phổ thông phản ánh nhiều lao động lớn tuổi, ít tiếp cận công nghệ gặp khó khăn khi không được dùng thẻ bảo hiểm y tế giấy như ngày xưa.
+Đại diện công ty Lê Thành (phường 16, quận 8) đặt vấn đề: "Hiện tại người lao động là lao động phổ thông, họ không có điện thoại thông minh, nhưng khi đăng ký ban đầu lại không cấp thẻ bảo hiểm y tế giấy thì phải làm sao?".
+Tình trạng này xảy ra khá phổ biến ở các doanh nghiệp có sử dụng nhiều lao động phổ thông, lao động lớn tuổi. Do đó, công ty Lê Thành đề nghị ngành bảo hiểm cấp lại thẻ bảo hiểm y tế giấy khi đăng ký lần đầu như trước đây.
+Đại diện Chi nhánh công ty 4 ORANGES CO.LTD tại TPHCM (phường Bình Hưng Hòa A, quận Bình Tân) cũng cho biết nhiều lao động của họ gặp vấn đề này.
+Vị này nhận định việc không sử dụng thẻ bảo hiểm y tế giấy gây ra nhiều bất tiện cho người lao động. Đại diện công ty hỏi: "Người lao động bị mất điện thoại hay hư điện thoại đúng lúc đau bệnh thì làm như thế nào?".
+Người lao động lớn tuổi quen dùng thẻ bảo hiểm y tế giấy (Ảnh minh họa: Hoàng Lê).
+Theo Bảo hiểm xã hội TPHCM, hiện thẻ bảo hiểm y tế đã được đồng bộ dữ liệu với số định danh cá nhân, căn cước công dân. Trường hợp người lao động không sử dụng ứng dụng sổ bảo hiểm xã hội số - VssID trên điện thoại di động thì có thể dùng căn cước công dân để đi khám chữa bệnh bảo hiểm y tế.
+Bảo hiểm xã hội TPHCM hướng dẫn cụ thể 3 cách thay thế thẻ bảo hiểm y tế giấy hiện đang được áp dụng để người dân đi khám, chữa bệnh bảo hiểm y tế.
+Thứ nhất, người dân xuất trình thẻ căn cước công dân gắn chip tại cơ sở khám, chữa bệnh. Khi quét mã QR đã có thông tin hợp lệ về tham gia bảo hiểm y tế, cơ sở khám, chữa bệnh thực hiện kiểm tra, đối chiếu thông tin về bảo hiểm y tế và tiếp đón người bệnh theo quy trình.
+Thứ hai, người dân có thể sử dụng thẻ bảo hiểm y tế đã được xác thực trên ứng dụng VNeID (ứng dụng định danh điện tử mức 2) bằng cách mở cài đặt VNeID trên điện thoại di động, sau đó đăng nhập tài khoản VneID.
+Tiếp đó, người dân chọn mục "Ví giấy tờ", sau đó chọn "Thẻ bảo hiểm y tế"; nhập mã để xác minh người dùng và xuất trình hình ảnh thẻ bảo hiểm y tế trên ứng dụng VNeID cho nhân viên y tế.
+Thứ ba, người dân có thể sử dụng ứng dụng VssID trên điện thoại để thay thế thẻ bảo hiểm y tế giấy khi đi khám chữa bệnh.
+Sau khi đăng nhập thành công, trên giao diện chính của ứng dụng VssID, người dân cần chọn mục "Quản lý cá nhân", tiếp đó chọn mục "Thẻ bảo hiểm y tế" và sau đó chọn "Sử dụng thẻ" hoặc "Hình ảnh thẻ".

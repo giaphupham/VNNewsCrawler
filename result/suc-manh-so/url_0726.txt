@@ -1,0 +1,11 @@
+Một nhược điểm của ứng dụng nhắn tin Facebook Messenger đó là sẽ tự động nén file ảnh, video khi người dùng gửi qua ứng dụng này. Điều này sẽ làm giảm dung lượng file ảnh và video, giúp quá trình chia sẻ file diễn ra nhanh chóng hơn, nhưng kéo theo đó chất lượng của file gửi đến người nhận cũng bị giảm sút đáng kể.
+Tháng 11/2017, Facebook đã khắc phục nhược điểm trên ứng dụng Messenger khi cập nhật tính năng cho phép người dùng gửi ảnh, video chất lượng gốc và độ phân giải cao thông qua Messenger.
+Messenger là một trong những ứng dụng nhắn tin được sử dụng phổ biến nhất tại Việt Nam (Ảnh minh họa: Getty).
+Với tính năng mới này, người dùng có thể gửi những hình ảnh với độ phân giải lên đến 4K (tương đương 4096 x 4096) thông qua Messenger và người nhận sẽ nhận được hình ảnh với độ phân giải gốc.
+Tuy nhiên, khi tính năng này mới ra mắt, Facebook chỉ trang bị cho người dùng tại một số quốc gia như Mỹ, Canada, Úc, Anh, Singapore, Nhật Bản…
+Sau một thời gian khá dài kể từ lần đầu ra mắt, gần đây Facebook mới cho phép người dùng tại Việt Nam gửi ảnh chất lượng cao thông qua ứng dụng nhắn tin Messenger.
+Để sử dụng tính năng này, mỗi khi sử dụng tính năng gửi file trên ứng dụng Messenger, bạn đánh dấu vào biểu tượng "HD" tại hộp thoại chọn file ảnh. Lúc này, các hình ảnh sẽ gửi qua Messenger sẽ được giữ nguyên chất lượng và độ phân giải.
+Về phía người nhận, những hình ảnh nào được gửi ở chế độ chất lượng cao sẽ có kèm theo biểu tượng "HD" để họ được rõ.
+Người nhận có thể xem và tải ảnh chất lượng cao, với độ phân giải gốc, được gửi đến khi dùng ứng dụng Messenger trên smartphone cũng như dùng Facebook Messenger trên trình duyệt web máy tính.
+Đáng tiếc, tính năng mới trên Messenger chỉ hỗ trợ gửi ảnh chất lượng cao, trong khi đó file video khi gửi qua ứng dụng này vẫn bị nén dung lượng và làm giảm chất lượng.
+Hiện tính năng gửi file video chất lượng cao qua Messenger mới chỉ hỗ trợ người dùng tại một số quốc gia như Mỹ, Anh, Pháp, Đan Mạch, Singapore, Hàn Quốc, Canada… Chưa rõ thời điểm Facebook sẽ mang tính năng này đến với người dùng tại Việt Nam.

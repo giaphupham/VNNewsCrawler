@@ -1,0 +1,18 @@
+Windows là hệ điều hành máy tính phổ biến nhất hiện nay, trong khi đó Android là nền tảng di động được sử dụng nhiều nhất trên thế giới. Tuy nhiên, vì những sự khác biệt về hỗ trợ phần cứng, việc tích hợp cả hệ điều hành Windows và Android vào chung một thiết bị gặp nhiều trở ngại, buộc người dùng phải mua 2 thiết bị khác nhau nếu muốn sử dụng cả 2 hệ điều hành này.
+Mới đây, tại triển lãm công nghệ CES 2024 đang diễn ra, Lenovo đã trình làng một chiếc laptop được tích hợp chung cả hệ điều hành Windows lẫn Android để người dùng lựa chọn và sử dụng.
+ThinkBook Plus Gen 5 Hybrid sử dụng hệ điều hành Windows ở chế độ laptop (Ảnh: TheVerge).
+Theo đó, sản phẩm có tên gọi ThinkBook Plus Gen 5 Hybrid. Cơ bản, sản phẩm được thiết kế như một chiếc laptop thông thường với bàn phím có thể tháo rời. Khi sử dụng ở chế độ laptop (kết nối màn hình với bàn phím), ThinkBook Plus Gen 5 Hybrid sẽ sử dụng hệ điều hành Windows, nhưng khi tách rời bàn phím, sản phẩm sẽ trở thành một chiếc máy tính bảng chạy Android.
+Để thực hiện được điều này, Lenovo trang bị cho sản phẩm của mình 2 bộ xử lý và cấu hình khác nhau. Nếu sử dụng ở chế độ laptop chạy Windows, ThinkBook Plus Gen 5 Hybrid sẽ có cấu hình gồm bộ xử lý Intel Core Ultra 7, bộ nhớ RAM 32GB, đi kèm ổ cứng lưu trữ SSD 1TB, thỏi pin 75Whr.
+ThinkBook Plus Gen 5 Hybrid chuyển sang nền tảng Android khi tách rời màn hình và bàn phím (Ảnh: Cnet).
+Còn khi chuyển sang chế độ máy tính bảng, sản phẩm sẽ sử dụng cấu hình bao gồm chip xử lý Snapdragon 8+ Gen 1 của Qualcomm, 12GB bộ nhớ RAM và bộ nhớ lưu trữ 256GB, thỏi pin 38Whr. Cả 2 thiết bị sử dụng chung màn hình cảm ứng 14-inch, độ phân giải 2,8K sử dụng công nghệ OLED.
+Lenovo cho biết đây là một sự kết hợp hoàn hảo, khi Windows là hệ điều hành được tối ưu cho laptop, trong khi Android là nền tảng phù hợp cho một chiếc máy tính bảng. Các dữ liệu giữa 2 hệ điều hành trên sản phẩm cũng có thể chia sẻ cho nhau.
+ThinkBook Plus Gen 5 Hybrid dự định sẽ được bán ra thị trường vào quý II/2024, với mức giá 1.999 USD.
+Giới thiệu chiếc laptop "2 trong 1" ThinkBook Plus Gen 5 Hybrid (Video: Lenovo).
+Ngoài mẫu laptop "2 trong 1" kể trên, Lenovo cũng mang tới triển lãm CES mẫu laptop siêu mỏng, nhẹ mới của hãng ThinkBook 13x Gen 4. Sản phẩm cân nặng chỉ 0,99kg, là một trong những laptop 13-inch nhẹ nhất thị trường hiện nay.
+Sản phẩm được trang bị chip xử lý Meteor Lake của Intel, thỏi pin 74Whr. Chiếc laptop này dự định sẽ được bán ra thị trường ngay trong quý này, với mức giá khởi điểm 1.399 USD.
+Hãng công nghệ Trung Quốc cũng trình diễn tại CES 2024 2 mẫu laptop chơi game thế hệ mới của mình là Legion 7i và Legion 5i. Cả 2 đều được trang bị màn hình 16,9-inch, chip xử lý Intel Core i9 14900HX, tùy chọn card đồ họa GeForce RTX 4070, bộ nhớ RAM tối đa 32GB và ổ cứng tối đa 1TB.
+Laptop chơi game Legion 7i thế hệ mới được Lenovo trình làng tại CES 2024 (Ảnh: Lenovo).
+Điểm khác biệt lớn nhất giữa 2 sản phẩm đó là Legion 7i hỗ trợ mạng WiFi 7 và đèn nền theo từng phím, trong khi Legion 5i chỉ hỗ trợ mạng WiFi 6E2 và đèn nền bàn phím theo từng khu vực.
+Lenovo Legion 7i sẽ được bán ra vào tháng 3 tới đây với giá khởi điểm 2.099 USD, trong khi Legion 5i sẽ được bán ra vào tháng 4 với giá khởi điểm 1.399 USD.
+Giới thiệu laptop chơi game Lenovo Legion 7i mới được ra mắt (Video: Lenovo).
+Theo DTrends/TV

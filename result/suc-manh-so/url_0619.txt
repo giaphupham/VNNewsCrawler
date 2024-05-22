@@ -1,0 +1,15 @@
+Theo phản ánh của nhiều người dùng mạng xã hội Reddit, chiếc smartphone mang thương hiệu Pixel của họ sẽ bị gặp lỗi và khởi động lại ngay lập tức khi xem một đoạn video trên ứng dụng Youtube.
+Đoạn video là một trích đoạn của bộ phim Alien (Người ngoài hành tinh) của đạo diễn Ridley Scott, được trình chiếu từ năm 1979. Lỗi chỉ xảy ra khi người dùng xem đoạn video này thông qua ứng dụng Youtube trên smartphone Pixel, còn nếu xem đoạn video bằng trình duyệt web thì không gặp phải vấn đề gì.
+Smartphone Pixel tự khởi động lại khi xem đoạn video trên ứng dụng Youtube (Video: 9to5Google).
+Nhiều người dùng smartphone Pixel 7, 7 Pro, 6, 6 Pro và 6a cho biết họ đều gặp lỗi kỳ lạ này. Một số người thậm chí còn gặp tình trạng không thể kết nối được mạng di động sau khi smartphone bị khởi động lại vì xem đoạn video kể trên. Tuy nhiên, một số ít người dùng smartphone Pixel cho biết họ không gặp vấn đề gì khi xem đoạn video.
+Đáng chú ý, đoạn video được đề cập kể trên đã được đăng tải lên Youtube từ tháng 1/2021, nhưng đến nay nhiều người mới nhận ra video này có thể gây lỗi cho loạt smartphone Pixel 6 và 7.
+Hiện vẫn chưa rõ nguyên do vì sao đoạn video này có thể gây lỗi cho smartphone Pixel.
+Một số người dùng suy đoán rằng lỗi này bắt nguồn từ cách con chip Tensor trên smartphone Pixel xử lý các nội dung màu sắc HDR có trong đoạn video. Nhiều khả năng đoạn video này có chứa một chi tiết màu sắc nào đó khiến chip Tensor không thể xử lý và dẫn đến khởi động lại thiết bị.
+Loạt Pixel 6 được trang bị chip Tensor và loạt Pixel 7 sử dụng chip Tensor G2 do Google tự phát triển.
+Google vẫn chưa đưa ra bình luận gì về lỗi kỳ lạ này.
+Đáng chú ý, đây không phải là lần đầu tiên smartphone Pixel của Google gặp lỗi lạ mà không rõ nguyên do.
+Trước đó vào năm 2020, một bức ảnh phong cảnh đẹp mắt và tưởng chừng như rất bình thường nhưng cũng sẽ khiến smartphone Pixel gặp lỗi và không thể hoạt động được nếu người dùng thiết lập bức ảnh để làm hình nền trên điện thoại.
+Lỗi kỳ lạ này chỉ gặp phải với những mẫu smartphone Pixel sử dụng nền tảng Android 10 trở về trước.
+Điện thoại của bạn có gặp lỗi tương tự không? Nếu có, hãy chia sẻ với chúng tôi ở ô Bình luận bên dưới.
+Hình ảnh khiến smartphone Pixel bị lỗi sau khi thiết lập làm hình nền (Video: 9to5Google).
+Theo Reddit

@@ -1,0 +1,7 @@
+Trong một thông báo mới nhất, Apple cho biết công ty sẽ bổ sung các tính năng trợ năng mới trên hệ điều hành iOS 18. Theo đó, tính năng Eye Tracking (theo dõi mắt) sẽ cho phép người dùng iPhone và iPad có thể điều khiển thiết bị của họ bằng mắt.
+Tính năng trợ năng Eye Tracking sẽ xuất hiện trên iOS 18 (Ảnh: Apple).
+Hệ thống camera trước sẽ theo dõi mắt của người dùng, từ đó hỗ trợ điều hướng thiết bị thông qua ánh mắt mà không cần chạm. Tính năng trợ năng trên nhằm mục đích hỗ trợ những người dùng bị khiếm khuyết có thể sử dụng thiết bị một cách dễ dàng hơn.
+iOS 18 được kỳ vọng sẽ sở hữu nhiều thay đổi, trở thành bản cập nhật quan trọng nhất từ trước đến nay.
+Nguồn tin từ Bloomberg cho biết Apple đã đạt được thỏa thuận với OpenAI về việc sử dụng ChatGPT để hỗ trợ các tính năng mới trong hệ điều hành tiếp theo trên iPhone. Thỏa thuận này sẽ giúp Apple có thể bổ sung hàng loạt tính năng AI lên các sản phẩm của hãng.
+Theo Apple Insider, AI trên hệ điều hành iOS 18 có thể hỗ trợ người dùng một số tính năng như chuyển đổi tệp tin âm thanh thành văn bản, hỗ trợ dịch sang một ngôn ngữ khác hoặc tóm tắt văn bản.
+Hiện tại, Apple vẫn đang phát triển các tính năng mới của phiên bản hệ điều hành iOS 18 dựa trên mô hình AI do công ty tự nghiên cứu. Tuy nhiên, những cải tiến này sẽ tập trung vào các tính năng hoạt động trên thiết bị, thay vì được cung cấp thông qua đám mây.

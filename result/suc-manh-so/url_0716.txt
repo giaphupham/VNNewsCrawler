@@ -1,0 +1,20 @@
+Các chuyên gia của công ty bảo mật Group-IB (Singapore) đã phát hiện một loại mã độc nhắm đến người dùng di động, bao gồm cả iPhone, iPad lẫn smartphone, máy tính bảng chạy Android, với mục đích xâm nhập ứng dụng tài khoản ngân hàng trên thiết bị của nạn nhân.
+Vào tháng 10 năm ngoái, Group-IB đã phát hiện một loại mã độc có tên gọi GoldDigger nhắm đến smartphone chạy Android. Mới đây, các tin tặc đã tùy chỉnh lại GoldDigger để tạo nên một loại mã độc mới, mang tên gọi GoldPickaxe, nhắm đến cả smartphone và máy tính bảng sử dụng Android lẫn iOS và iPadOS (iPhone, iPad).
+Mã độc GoldPickaxe sẽ lấy các dữ liệu về gương mặt lưu trên smartphone và sử dụng công nghệ AI để tạo ra video mạo danh người dùng (Ảnh minh họa: Getty).
+Một khi người dùng cài đặt GoldPickaxe lên thiết bị của mình, loại mã độc này sẽ thu thập các dữ liệu về nhận diện gương mặt của người dùng lưu trữ trên thiết bị, các tài liệu về thông tin cá nhân của người dùng hay các tin nhắn trên thiết bị…
+Thông qua các dữ liệu về nhận diện gương mặt do mã độc thu thập, tin tặc có thể sử dụng công nghệ trí tuệ nhân tạo deepfake để tạo ra các hình ảnh, video mạo danh người dùng nhằm thực hiện các hành vi lừa đảo hoặc truy cập trái phép vào ứng dụng ngân hàng trên thiết bị của nạn nhân (đối với các ứng dụng ngân hàng cho phép đăng nhập hoặc xác nhận giao dịch bằng gương mặt).
+Quá trình thu thập và xâm nhập vào ứng dụng ngân hàng trên smartphone của người dùng đều được mã độc thực hiện một cách âm thầm, mà khi nạn nhân nhận ra smartphone và ứng dụng ngân hàng của mình đã bị xâm nhập thì đã muộn.
+Điều đáng chú ý, Group-IB cho biết hiện mã độc GoldPickaxe được sử dụng để nhắm đến người dùng tại Việt Nam và Thái Lan. Tuy nhiên, không loại trừ khả năng các tin tặc sẽ tiếp tục phát tán mã độc và nhắm đến người dùng tại nhiều quốc gia khác trong thời gian tới.
+Tin tặc đã đưa mã độc lên iPhone và iPad như thế nào?
+Group-IB tin rằng GoldPickaxe là loại mã độc ngân hàng đầu tiên trên iOS và iPadOS, là 2 nền tảng được đánh giá cao về mức độ bảo mật so với Android.
+Do hệ sinh thái của Apple khép kín, người dùng chỉ có thể cài đặt các ứng dụng thông qua App Store, thay vì thông qua kho ứng dụng bên ngoài hoặc tải ứng dụng về từ internet như Android, nên việc phát tán mã độc trên iPhone và iPad là điều không dễ dàng. Tuy nhiên, các tin tặc đã tìm ra cách để thực hiện điều này.
+Theo đó, các tin tặc đã lợi dụng chương trình TestFlight của Apple để phát tán mã độc. TestFlight là dịch vụ cho phép các nhà phát triển ứng dụng có thể phân phối bản thử nghiệm của các ứng dụng trên iOS, iPadOS… đến người dùng trước khi phát hành chính thức trên App Store.
+Bằng cách này, tin tặc đã lừa người dùng cài đặt các ứng dụng giả mạo có chứa mã độc GoldPickaxe mà họ không hay biết.
+Người dùng di động cần làm gì để bảo vệ smartphone của mình được an toàn?
+Với người dùng iPhone và iPad, một trong những con đường dễ bị lây nhiễm mã độc nhất đó là cài đặt các ứng dụng thử nghiệm được phát hành thông qua chương trình TestFlight. Do vậy, cách đề phòng tốt nhất đó là người dùng chỉ nên cài đặt các ứng dụng được phát hành chính thức trên App Store, thay vì cài các ứng dụng thử nghiệm trên Test Flight.
+Đối với người dùng Android, việc download và cài đặt ứng dụng từ bên ngoài, không thông qua kho ứng dụng chính thức Google Play, được thực hiện khá dễ dàng và đây là con đường dễ bị lây nhiễm mã độc nhất.
+Ngoài ra, nhiều tin tặc cũng đã qua mặt Google để phát tán ứng dụng chứa mã độc ngay trên Google Play.
+Do vậy, để hạn chế nguy cơ bị nhiễm mã độc, người dùng Android chỉ nên cài các ứng dụng trực tiếp từ Google Play hoặc download file cài đặt ứng dụng từ những nguồn uy tín.
+Ngoài ra, trước khi cài đặt một ứng dụng vào smartphone, bạn cần đọc rõ các quyền mà ứng dụng đòi hỏi, đề phòng trường hợp ứng dụng chứa mã độc sẽ đòi hỏi những quyền hạn truy cập vào dữ liệu riêng tư trên thiết bị.
+Group-IB cho biết công ty đã gửi thông báo đến Apple và Google về loại mã độc GoldPickaxe, do vậy nhiều khả năng các hãng công nghệ sẽ sớm có giải pháp để ngăn chặn loại mã độc này trên iOS và Android.
+Theo THW/Bcomputer

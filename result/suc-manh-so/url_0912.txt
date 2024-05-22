@@ -1,0 +1,25 @@
+Google công bố AI tạo video
+Tại sự kiện Google I/O 2024, Google đã công bố mô hình AI mới nhất của công ty có tên Veo. Theo đó, người dùng có thể sử dụng Veo để tạo ra video với độ phân giải cao 1080p và nhiều góc nhìn khác nhau.
+Veo hỗ trợ tạo ra video với độ phân giải cao 1080p (Video: Google).
+Đây được xem là đối thủ cạnh tranh trực tiếp với mô hình AI Sora của OpenAI. Đại diện Google cho biết Veo có khả năng "hiểu biết nâng cao về ngôn ngữ và bối cảnh tự nhiên", giúp tạo ra các video bám sát nhất với tầm nhìn của người dùng.
+Chưa dừng lại, AI của Google còn có thể hiểu được các kỹ thuật về hình ảnh và điện ảnh, chẳng hạn như khái niệm video "timelapse" (tua nhanh thời gian) hoặc "phong cảnh từ trên không".
+ChatGPT phiên bản mới
+OpenAI vừa cho ra mắt mô hình ngôn ngữ lớn (Large language model - LLM, nền tảng để phát triển các phần mềm chatbot AI) mới nhất của công ty, mang tên gọi GPT-4o. Đây là bản cập nhật của mô hình GPT-4 được ra mắt cách đây hơn một năm.
+Phiên bản miễn phí của ChatGPT sẽ trở nên thông minh và dễ sử dụng hơn nhờ LLM mới được ra mắt (Ảnh: Bloomberg).
+Với việc sử dụng LLM GPT-4o mới nhất, ChatGPT phiên bản miễn phí sẽ được cập nhật cơ sở dữ liệu mới hơn, giúp trả lời người dùng với những thông tin và dữ liệu mới nhất.
+OpenAI cho biết nhờ vào GPT-4o, ChatGPT sẽ trở thành một trợ lý ảo kỹ thuật số có thể tương tác và trò chuyện với người dùng bằng giọng nói theo thời gian thực, nghĩa là người dùng có thể nói chuyện trực tiếp với ChatGPT để đặt câu hỏi, yêu cầu công việc… thay vì bằng cách gõ văn bản như trước.
+Công cụ chống lừa đảo trực tuyến cho người Việt
+Các hình thức lừa đảo trực tuyến nhằm vào người dùng Internet và điện thoại di động tại Việt Nam đang ngày càng trở nên phổ biến, với nhiều chiêu trò hết sức tinh vi, gây ra thiệt hại lớn về tài sản cho người dân.
+Ứng dụng sẽ cảnh báo người dùng nếu họ có dự định giao dịch với số tài khoản của những kẻ lừa đảo (Ảnh: NCA).
+Trong bối cảnh này, Hiệp hội An ninh mạng Quốc gia phối hợp với Ban Nghiên cứu, Tư vấn, Phát triển công nghệ và Hợp tác Quốc tế đã phát triển công cụ phòng chống lừa đảo trực tuyến.
+Công cụ này sẽ hoạt động dưới dạng ứng dụng dành cho smartphone, hỗ trợ 2 nền tảng phổ biến nhất hiện nay là Android và iOS, cung cấp chức năng kiểm tra số điện thoại giúp người dùng ngăn chặn các số lừa đảo có trong cơ sở dữ liệu, cảnh báo các số quảng cáo làm phiền.
+Nhiều iPhone gặp lỗi kỳ lạ sau khi cập nhật iOS 17.5
+Trên diễn đàn Reddit, nhiều người dùng iPhone cho biết thiết bị của họ đã gặp lỗi sau khi cập nhật phiên bản hệ điều hành iOS 17.5 . Sự cố này khiến cho nhiều bức ảnh đã bị xóa trước đây đột nhiên xuất hiện trở lại trong thư viện.
+Nhiều iPhone gặp sự cố kỳ lạ sau khi cập nhật iOS 17.5 (Ảnh: Apple Insider).
+ "Tôi đã xóa 6 bức ảnh vào những thời điểm khác nhau. Có một số bức ảnh được xóa từ năm 2023. Tuy vậy, chúng đột ngột xuất hiện trong thư viện ảnh giống như vừa được chụp từ hôm qua", một tài khoản khác bình luận.
+Hiện tại, nguyên nhân của sự việc này vẫn chưa được xác định. Apple cũng chưa đưa ra bất cứ phản hồi nào về sự cố trên.
+iPhone 17 sẽ có thay đổi lớn
+Nguồn tin từ The Information cho biết Apple đang lên kế hoạch giới thiệu một mẫu iPhone 17 hoàn toàn mới. Sản phẩm này sẽ có giá bán cao hơn so với phiên bản Pro Max, đồng thời trở thành chiếc iPhone cao cấp nhất từ trước đến nay.
+Nhiều khả năng, Apple sẽ giới thiệu một mẫu iPhone 17 cao cấp hơn bản Pro Max (Ảnh: Digital Trends).
+Nhiều khả năng, thiết kế của máy sẽ có những thay đổi khác biệt so với các sản phẩm hiện tại. Đây là điều mà Apple đã từng thực hiện khi ra mắt chiếc iPhone X vào năm 2017.
+Theo MacRumors, hệ thống camera chính của máy sẽ được đưa về giữa, thay vì đặt ở góc trên bên trái. Khu vực Dynamic Island cũng sẽ được thiết kế lại gọn gàng hơn, giúp tối ưu diện tích hiển thị ở mặt trước.

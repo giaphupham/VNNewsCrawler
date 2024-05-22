@@ -1,0 +1,18 @@
+Sau một thời gian dài sử dụng, các phần mềm trên máy tính và bản thân hệ điều hành Windows sẽ sinh ra những file rác, file tạm… là những file không còn được dùng đến, nhưng lại chiếm một lượng lớn dung lượng trên ổ cứng, gây lãng phí. Ngoài ra, những file rác này cũng sẽ khiến dữ liệu trên ổ cứng bị sắp xếp lộn xộn, dẫn đến hiệu suất hệ thống bị ảnh hưởng, máy tính hoạt động chậm chạp hơn.
+Một phần mềm dọn dẹp file rác trên máy tính sẽ rất hữu ích, giúp người dùng có thể giải quyết vấn đề này.
+DiskMax là phần mềm miễn phí và nhỏ gọn, cho phép người dùng dọn dẹp file rác hệ thống, giúp tiết kiệm dung lượng ổ cứng và giúp máy tính hoạt động nhẹ nhàng hơn. Sử dụng DiskMax thường xuyên là cách tốt nhất để giữ cho hệ thống của bạn sạch sẽ.
+Ưu điểm lớn nhất của DiskMax đó là rất nhỏ, nhẹ, không tiêu tốn nhiều tài nguyên trên máy tính. Download phần mềm miễn phí tại đây.
+Các bước thiết lập ban đầu
+Sau khi download và tiến hành cài đặt, trong lần đầu tiên sử dụng, một hộp thoại hiện ra yêu cầu người dùng chọn đối tượng người dùng DiskMax. Tại đây, bạn đánh dấu vào tùy chọn "Use my saved preferences for this scan" để lưu lại thiết lập cho những lần sau, rồi nhấn vào biểu tượng "System+" để có thể sử dụng hết đầy đủ các tính năng của phần mềm DiskMax.
+Nhấn "Next" tại hộp thoại tiếp theo. Phần mềm sẽ cho phép người dùng lựa chọn những loại dữ liệu và file rác mà DiskMax có thể quét và xóa trên máy tính của người dùng. Bạn để nguyên như mặc định và nhấn "Next".
+Bước tiếp theo, DiskMax sẽ cho phép người dùng chọn các thông tin sẽ xóa trên trình duyệt web, bao gồm lịch sử duyệt web, cache, cookies, các form đã lưu… nếu bạn thường xuyên sử dụng trình duyệt web nào đó (chẳng hạn Firefox hoặc Chrome), bạn nên bỏ qua việc xóa các dữ liệu này vì có thể ảnh hưởng đến quá trình duyệt web của mình.
+Nhấn "Select None" để bỏ qua tất cả các tùy chọn, sau đó nhấn "Next" để tiếp tục.
+DiskMax sẽ cho người dùng chọn các phân vùng ổ đĩa trên máy tính để tìm và quét file rác chứa trên đó. Bạn đánh dấu chọn toàn bộ các phân vùng rồi nhấn "Next".
+Các bước tiếp theo, bạn để nguyên như các tùy chọn mặc định rồi nhấn "Next" để tiếp tục. Nhấn nút "Start" tại hộp thoại hiện ra cuối cùng để lưu lại các thiết lập và để DiskMax bắt đầu quá trình dọn dẹp.
+Lưu ý: bạn chỉ cần thực hiện các bước thiết lập này trong lần đầu tiên khởi chạy và sử dụng phần mềm. Những thiết lập sẽ tự động được lưu và không cần phải thực hiện lại ở những lần sử dụng tiếp theo.
+Hướng dẫn sử dụng phần mềm
+Sau khi nhấn nút "Start" ở bước thiết lập cuối cùng, một hộp thoại hiện ra xin cấp quyền để kiểm tra bản cập nhật của DiskMax, bạn nhấn nút "Có" để cho phép phần mềm có thể kiểm tra các phiên bản cập nhật nếu có.
+Khi đã kết thúc kiểm tra phiên bản cập nhật, DiskMax sẽ bắt đầu quá trình quét để tìm file rác trên hệ thống.
+Đặc biệt, không chỉ xóa file, DiskMax còn có chức năng tối ưu các thư mục và ổ cứng để giúp cho quá trình truy cập các file trên máy tính trở nên nhanh và nhẹ nhàng hơn.
+Sau khi quá trình quét và dọn dẹp file hoàn tất, DiskMax sẽ hiển thị bảng báo cáo kết quả dọn dẹp, cho biết bao nhiêu file rác và tổng dung lượng các file rác đã được phần mềm xử lý. Bây giờ, bạn chỉ việc bấm nút "Close" để thoát khỏi chương trình.
+Nhìn chung, DiskMax là phần mềm nhỏ gọn và rất hữu ích, nên có trên máy tính của mọi người dùng, giúp dọn dẹp ổ cứng máy tính và cải thiện tốc độ của hệ thống.

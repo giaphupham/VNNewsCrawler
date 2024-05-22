@@ -1,0 +1,9 @@
+Báo cáo từ Financial Times cho biết công ty đang tìm giải pháp cung cấp các tính năng nâng cao, được hỗ trợ bởi AI trong sản phẩm tìm kiếm của mình với một khoản phí.
+Google sẽ sớm cho phép người dùng đăng ký dịch vụ tìm kiếm nâng cao được hỗ trợ bởi AI (Ảnh: Business Insider).
+Nguồn tin này tiết lộ tính năng tìm kiếm nâng cao được hỗ trợ bởi AI có thể trở thành một phần của các dịch vụ đăng ký hiện có từ Google như Gemini Advanced hoặc Google One. Trong khi đó, phiên bản tìm kiếm truyền thống vẫn sẽ được cung cấp miễn phí cùng với quảng cáo đi kèm.
+Thay đổi trên của Google nhằm mục đích tích hợp AI vào trải nghiệm tìm kiếm, trong khi vẫn đảm bảo doanh thu từ hoạt động quảng cáo.
+Năm 2023, doanh thu quảng cáo từ dịch vụ tìm kiếm của Google đạt mức 175 tỷ USD, chiếm hơn một nửa tổng doanh thu của công ty. Đồng thời, nó cũng đặt ra thách thức đối với Google trong việc tích hợp AI vào các sản phẩm của mình mà không làm ảnh hưởng đến doanh thu.
+Từ tháng 5/2023, Google đã bắt đầu thử nghiệm dịch vụ tìm kiếm hỗ trợ bởi AI (Search Generative Experience). Theo đó, kết quả truy vấn sẽ được trả về với thông tin chi tiết hơn, song song với việc cung cấp liên kết đến thông tin và quảng cáo.
+Google đang nỗ lực tích hợp AI vào các dịch vụ của hãng (Ảnh: Engadget).
+Search Generative Experience được đánh giá là mang lại nhiều lợi ích cho người dùng. Tuy nhiên, công cụ này lại đặt ra không ít thách thức với mô hình kinh doanh hiện tại của Google.
+AI có khả năng cung cấp câu trả lời toàn diện hơn, dẫn đến sự sụt giảm về số lần nhấp vào các liên kết trang web khác. Điều này khiến cho số lượt hiển thị quảng cáo trở nên ít hơn và có nguy cơ gây nguy hiểm cho nguồn doanh thu chính của Google.

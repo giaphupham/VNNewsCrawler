@@ -1,0 +1,16 @@
+Theo đó, Cristiano Amon, CEO của hãng chip Qualcomm, đã tiết lộ về thời điểm hãng sẽ cho ra mắt Snapdragon X Elite, chip xây dựng dựa trên kiến trúc ARM thế hệ mới dành cho máy tính cá nhân chạy Windows.
+Amon cho biết chip Snapdragon X Elite sẽ được ra mắt cùng thời điểm với Windows 12 để "đón đầu mùa tựu trường", điều này cho thấy Windows 12 nhiều khả năng sẽ được xuất hiện vào giữa năm nay.
+"Thời điểm ra mắt của chipset này liên quan đến phiên bản Windows tiếp theo của Microsoft, với nhiều tính năng trí tuệ nhân tạo được tích hợp. Chúng tôi cùng Microsoft thống nhất ấn định thời điểm ra mắt sản phẩm vào giữa năm 2024, sẵn sàng cho mùa tựu trường", CEO Cristiano Amon chia sẻ.
+Windows 12 sẽ sẵn sàng ra mắt ngay trong năm 2024? (Ảnh minh họa: Pinterest).
+CEO của Qualcomm cũng tiết lộ rằng Windows 12 sẽ được tích hợp nhiều tính năng trí tuệ nhân tạo (AI) do OpenAI phát triển.
+Microsoft là nhà đầu tư lớn nhất vào OpenAI (công ty phát triển ChatGPT) nên sẽ được ưu tiên tận dụng các tính năng AI của công ty này, bao gồm phần mềm chat ChatGPT hay công cụ AI chuyển đổi văn bản thành hình ảnh...
+Thời điểm ra mắt của Windows 12 theo tiết lộ của CEO Qualcomm trùng với các thông tin và tin đồn bị rò rỉ trước đây.
+Năm ngoái, một giám đốc điều hành của hãng chip Intel cũng tiết lộ rằng Windows 12 sẽ được ra mắt ngay trong năm 2024.
+Vào tháng 12/2023, tờ báo The Commercial Times (Đài Loan) dẫn lời các nguồn tin thân cận của Microsoft và các đối tác sản xuất máy tính chạy Windows tại Đài Loan cho biết hệ điều hành Windows 12 sẽ được Microsoft trình làng vào tháng 6/2024.
+Nguồn tin của The Commercial Times cũng cho biết Windows 12 sẽ là phiên bản Windows đầu tiên tập trung các tính năng trí tuệ nhân tạo (A.I), giúp hỗ trợ người dùng tốt hơn. Đây là điều khá dễ hiểu khi A.I đã trở thành một xu thế trong làng công nghệ hiện tại.
+Các hãng sản xuất chip như Intel, AMD hay Qualcomm cũng đã sẵn sàng cho ra mắt các thế hệ vi xử lý mới được tích hợp NPU (Neural Processing Unit), bộ vi xử lý chuyên dụng cho các tác vụ liên quan đến trí tuệ nhân tạo. NPU được thiết kế để tối ưu hóa việc xử lý các thuật toán AI, chẳng hạn như mạng thần kinh nhân tạo, máy học, thị giác máy tính…
+Nếu những thông tin bị rò rỉ là chính xác, Windows 12 sẽ được Microsoft giới thiệu chỉ chưa đầy 3 năm sau khi Windows 11 được ra mắt vào ngày 5/10/2021.
+Tuy nhiên, cho dù Windows 12 được phát hành sớm, Microsoft vẫn sẽ khá vất vả để thuyết phục người dùng nâng cấp lên phiên bản hệ điều hành mới, khi mà ngay cả Windows 11 hiện vẫn chưa được người dùng thực sự đón nhận.
+Theo số liệu thống kê của hãng nghiên cứu thị trường StatCounter, Windows 10 vẫn là phiên bản Windows được người dùng yêu thích và sử dụng nhiều nhất, chiếm 67,42% thị phần máy tính chạy Windows. Windows 11 xếp thứ 2 với chỉ 26,54% thị phần.
+Đáng chú ý, các phiên bản Windows đã bị Microsoft "khai tử" từ lâu như Windows 7, XP vẫn còn lượng người dùng đáng kể, với lần lượt 3,5% và 0,64% thị phần. Điều này cho thấy nhiều người vẫn rất yêu thích các phiên bản Windows cũ, thay vì muốn nâng cấp lên phiên bản Windows mới hơn.
+Theo RT/PCMag

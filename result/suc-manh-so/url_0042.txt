@@ -1,0 +1,30 @@
+Laptop không màn hình chính thức lên kệ
+Chiếc laptop có tên gọi Spacetop, nổi bật với kiểu thiết kế độc đáo không kèm theo màn hình hiển thị, mà chỉ có bàn phím và bàn rê chuột touchpad. Để sử dụng chiếc laptop này, người dùng sẽ phải mang lên mắt một chiếc kính thực tế ảo.
+Các nội dung của Spacetop sẽ hiển thị ngay trước mắt người dùng mà không cần màn hình, giúp đảm bảo sự riêng tư khi sử dụng máy tính (Ảnh: Sightful).
+Spacetop được trang bị chip xử lý Snapdragon XR2 được Qualcomm phát triển cho máy tính cá nhân, với 8 lõi xử lý xung nhịp tối đa 3,1GHz.
+Nhờ việc tích hợp chip của Qualcomm, chiếc laptop này có thể kết nối cả WiFi lẫn mạng 5G. Bên cạnh đó, máy có thời lượng pin sử dụng khoảng 5 giờ cho các tác vụ tổng hợp như văn phòng, gọi điện video, livestream hay chơi game trực tuyến…
+Công cụ AI tạo video từ OpenAI
+Ngày 16/2, OpenAI, nhà phát triển của ChatGPT, đã giới thiệu Sora. Đây là công cụ tích hợp trí tuệ nhân tạo (AI) cho phép người dùng có thể dễ dàng tạo nên những đoạn video từ văn bản mô tả.
+Đoạn video ngắn do Sora tạo ra, với mô tả về một cô gái bước đi trên đường phố Tokyo ngập tràn ánh đèn neon… (Video: OpenAI).
+OpenAI cho biết công cụ mới của hãng có thể tạo ra những đoạn video với nội dung thực tế và giàu trí tưởng tượng dựa vào các văn bản hướng dẫn của người dùng.
+Các video do Sora tạo ra có thể bao gồm những khung cảnh phức tạp với sự góp mặt của nhiều nhân vật hoặc những khung cảnh giàu chi tiết, chính xác về bối cảnh xung quanh.
+Nhiều người trả lại kính Apple Vision Pro
+Apple đã chính thức bán ra chiếc kính thực tế ảo Vision Pro vào ngày 2/2 vừa qua, với mức giá khởi điểm lên đến 3.499 USD. 
+Công ty có chính sách cho phép người dùng trả lại bất kỳ sản phẩm nào trong vòng 14 ngày sau khi mua, với bất kỳ lý do gì. Đến thời điểm hiện tại, nhiều người sau khi sở hữu Vision Pro đã bắt đầu trả lại chiếc kính này cho Apple để hoàn lại tiền, thay vì tiếp tục sử dụng.
+Nhiều người cảm thấy chóng mặt, đau đầu, mỏi mắt khi sử dụng Vision Pro (Ảnh: CNet).
+Trên các nền tảng mạng xã hội cũng như trên trang web hỗ trợ của Apple, người dùng đã đưa ra nhiều lý do giải thích cho quyết định trả lại kính Vision Pro. Những lý do phổ biến nhất đó là sử dụng Vision Pro khiến họ cảm thấy chóng mặt, đau đầu, mỏi mắt hoặc thậm chí say tàu xe.
+Giá Bitcoin tăng cao
+Dữ liệu từ CoinMarketCap cho thấy giá Bitcoin đã liên tục tăng mạnh trong hơn một tuần vừa qua và vượt mức 52.000 USD. Tính đến sáng 18/2, đồng tiền điện tử lớn nhất thế giới được giao dịch quanh mức 51.600 USD.
+Giá Bitcoin liên tục tăng trong tuần qua (Ảnh: CNBC).
+Điều này đã đẩy mức vốn hóa thị trường của Bitcoin vượt qua 1.000 tỷ USD. Lần gần nhất đồng tiền điện tử này đạt được giá trị vốn hóa trên 1.000 tỷ USD là vào cuối năm 2021.
+Trong năm 2023, Bitcoin đã tăng 150% giá trị. Tính từ đầu năm 2024, đồng tiền điện tử lớn nhất thế giới tiếp tục tăng 21% giá trị. Theo CNBC, động lực chính cho sự tăng trưởng này đến từ việc quỹ ETF Bitcoin được phê duyệt.
+Apple tiếp tục dẫn đầu thị trường máy tính bảng toàn cầu
+Báo cáo mới nhất từ công ty nghiên cứu thị trường Canalys cho biết số lượng máy tính bảng xuất xưởng trên toàn cầu trong giai đoạn quý IV/2023 đã giảm 11% so với cùng kỳ năm trước, xuống mức 37,8 triệu thiết bị.
+Apple tiếp tục dẫn đầu thị trường máy tính bảng toàn cầu (Ảnh: CNet).
+Apple tiếp tục dẫn đầu thị trường khi chiếm tới 39,2% thị phần máy tính bảng toàn cầu. Các vị trí tiếp theo lần lượt thuộc về Samsung (18%), Huawei (7,5%), Lenovo (7,1%) và Amazon (5,3%).
+Theo đó, tổng lượng máy tính bảng xuất xưởng trong cả năm 2023 đạt mức 135,3 triệu thiết bị. Con số này thấp hơn khoảng 10% so với năm 2022.
+Mã độc lấy cắp tài khoản ngân hàng tấn công người dùng smartphone Việt
+Vào tháng 10/2023, Group-IB đã phát hiện một loại mã độc có tên gọi GoldDigger nhắm đến smartphone chạy Android. Mới đây, các tin tặc đã tùy chỉnh lại GoldDigger để tạo nên một loại mã độc mới, mang tên gọi GoldPickaxe, nhắm đến cả smartphone và máy tính bảng sử dụng Android lẫn iOS và iPadOS (iPhone, iPad).
+Mã độc GoldPickaxe sẽ lấy các dữ liệu về gương mặt lưu trên smartphone và sử dụng công nghệ AI để tạo ra video mạo danh người dùng (Ảnh: The Guardian).
+Một khi người dùng cài đặt GoldPickaxe lên thiết bị của mình, loại mã độc này sẽ thu thập các dữ liệu về nhận diện gương mặt của người dùng lưu trữ trên thiết bị, các tài liệu về thông tin cá nhân của người dùng hay các tin nhắn trên thiết bị.
+Đáng nói, Group-IB cho biết hiện mã độc GoldPickaxe được sử dụng để nhắm đến người dùng tại Việt Nam và Thái Lan. Tuy nhiên, không loại trừ khả năng các tin tặc sẽ tiếp tục phát tán mã độc và nhắm đến người dùng tại nhiều quốc gia khác trong thời gian tới.

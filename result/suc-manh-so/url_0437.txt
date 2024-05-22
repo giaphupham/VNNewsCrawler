@@ -1,0 +1,17 @@
+Bộ xử lý M3 Series
+Apple vừa trình làng dòng chip mới của hãng bao gồm M3, M3 Pro và M3 Max. Công ty cho biết những con chip này được sản xuất trên tiến trình 3nm, sở hữu nhiều cải tiến về cả CPU và GPU giúp gia tăng hiệu suất chơi game và xử lý các ứng dụng chuyên nghiệp.
+Bộ xử lý M3 được sản xuất trên tiến trình 3nm (Ảnh: Apple).
+Chip M3 phiên bản tiêu chuẩn sở hữu CPU 8 nhân, với 4 nhân hiệu suất cao và 4 nhân tiết kiệm năng lượng. Apple cho biết bộ xử lý này có CPU nhanh hơn 35% so với chip M1. Trong khi đó, hiệu suất GPU của chip M3 cũng nhanh hơn 65% so với M1.
+Phiên bản M3 Pro có CPU 12 nhân và tùy chọn tối đa 18 nhân GPU. Theo Apple, con chip này sẽ cho hiệu suất CPU nhanh hơn 30% và GPU nhanh hơn 40% so với chip M1 Pro.
+Phiên bản cao cấp nhất là chip M3 Max với CPU 16 nhân, cùng GPU tối đa 40 nhân. Con chip này có hiệu suất CPU nhanh hơn 50% và GPU hơn 80% so với M1 Max.
+Apple cũng giới thiệu tính năng Dynamic Caching mới, giúp tối ưu phần cứng cần thiết cho từng tác vụ sử dụng GPU. Tính năng này được kỳ vọng sẽ tăng hiệu suất của các ứng dụng và trò chơi, cải thiện mức sử dụng GPU trung bình.
+iMac 24 inch với chip M3
+Ngoại hình tổng thể của iMac thế hệ mới vẫn được giữ nguyên so với phiên bản tiền nhiệm. Màn hình của máy có kích thước 24 inch, độ phân giải 4,5K cùng tiêu chuẩn Retina. Thiết bị có 7 tùy chọn màu sắc khác nhau gồm xanh lá cây, vàng, cam, hồng, tím, xanh lam và bạc.
+iMac M3 vẫn giữ nguyên thiết kế so với phiên bản tiền nhiệm (Ảnh: Apple).
+iMac mới được trang bị bộ xử lý M3 với CPU 8 nhân cùng tùy chọn GPU tối đa 10 nhân và RAM tối đa 24GB. Apple cho biết hiệu suất của máy sẽ tăng 30% trong các tác vụ làm việc văn phòng.
+Trong khi đó, với nhu cầu xử lý đồ họa, con chip mới sẽ giúp tăng hiệu suất làm việc lên gấp đôi. Phiên bản tiêu chuẩn với GPU 8 nhân sẽ được bán ra với mức giá từ 1.299 USD.
+MacBook Pro 14 inch và 16 inch
+Ngoại hình của bộ đôi MacBook Pro 14 inch và 16 inch không có nhiều thay đổi so với thế hệ tiền nhiệm. Apple chỉ bổ sung một tùy chọn màu đen không gian để thay thế cho màu xám không gian.
+MacBook Pro mới có nhiều tùy chọn khác nhau về phần cứng với bộ xử lý M3 Pro hoặc M3 Max (Ảnh: Apple).
+Hai mẫu máy tính này có nhiều tùy chọn khác nhau về phần cứng với bộ xử lý M3 Pro hoặc M3 Max. Máy cũng được trang bị màn hình miniLED, hệ thống âm thanh 6 loa cùng dung lượng RAM tùy chọn cao nhất tới 128GB.
+Phiên bản tiêu chuẩn của MacBook Pro 14 inch và 16 inch có giá bán lần lượt từ 1.999 USD và 2.499 USD. Hiện tại, người dùng đã có thể đặt trước sản phẩm và thời gian nhận máy dự kiến từ ngày 7/11.

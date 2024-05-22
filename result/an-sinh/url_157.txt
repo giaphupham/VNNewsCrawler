@@ -1,0 +1,14 @@
+Theo quy định, người lao động tham gia bảo hiểm xã hội tự nguyện hưởng chế độ hưu trí năm 2023 khi: Đóng  bảo hiểm xã hội đủ 20 năm trở lên; đủ 60 tuổi 9 tháng đối với nam và lao động nữ là từ đủ 56 tuổi (mỗi năm tăng thêm 3 tháng đối với lao động nam và 4 tháng đối với lao động nữ).
+Mức lương hưu của người tham gia bảo hiểm xã hội tự nguyện bắt đầu hưởng lương năm 2023 = Tỷ lệ (%) hưởng lương hưu hàng tháng x Mức bình quân thu nhập tháng đóng bảo hiểm xã hội.
+Tỷ lệ (%) hưởng lương hưu hằng tháng được xác định đối với lao động nam là đóng đủ 20 năm bảo hiểm xã hội được 45% (người lao động nghỉ hưu năm 2023, đóng đủ 20 năm bảo hiểm xã hội thì được 45%). Sau đó, cứ thêm mỗi năm đóng bảo hiểm xã hội, được tính thêm 2%.
+Đối với lao động nữ, đóng đủ 15 năm bảo hiểm xã hội được 45%. Sau đó, cứ thêm mỗi năm đóng bảo hiểm xã hội, được tính thêm 2%. Mức hưởng tối đa là 75%.
+Giả sử lao động nam đến tháng 11 đủ tuổi nghỉ hưu theo quy định tại Bộ luật Lao động 2019. Người này tham gia đóng bảo hiểm xã hội tự nguyện với mức đóng bình quân là 5 triệu đồng/tháng, tính đến thời điểm đủ tuổi về hưu là 24 năm. Lương hưu của lao động nam được tính như sau:
+20 năm đầu tham gia sẽ được hưởng 45% mức bình quân thu nhập tháng đóng bảo hiểm xã hội.
+Từ năm thứ 21 đến năm thứ 24 là 4 năm được hưởng thêm: 4 x 2% = 8%. Tổng 2 tỉ lệ là: 45% + 8% = 53%.
+Mức bình quân tiền lương tháng đóng bảo hiểm xã hội được tính bằng mức bình quân tiền lương của toàn bộ thời gian đóng bảo hiểm xã hội. Người lao động đóng với mức 5 triệu đồng/tháng.
+Như vậy, mức hưởng lương hưu của lao động nam là: 53% x 5 triệu đồng = 2,650 triệu đồng/tháng.
+Giả sử lao động nữ đóng bảo hiểm xã hội tự nguyện 24 năm và nghỉ hưu vào tháng 11/2023 ở tuổi 56 tuổi. Tỷ lệ hưởng lương hưu lao động nữ này được xác định như sau:
+15 năm đóng bảo hiểm xã hội tự nguyện sẽ hưởng 45%.
+9 năm đóng bảo hiểm xã hội còn lại hưởng 9 x 2% = 18%.
+Tổng tỷ lệ hưởng lương hưu của lao động nữ = 45% + 18% = 63%.
+Giả sử mức bình quân tiền lương tháng đóng bảo hiểm xã hội của bà là 5 triệu đồng/tháng thì mức hưởng lương hưu của bà = 63% x 5 triệu đồng = 3,150 triệu đồng/tháng.

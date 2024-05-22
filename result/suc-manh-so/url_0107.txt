@@ -1,0 +1,19 @@
+Ngoài thông số về cấu hình, thiết kế và tính năng thì một vấn đề được nhiều người dùng quan tâm ở các mẫu smartphone cao cấp đó là hiệu suất và tốc độ xử lý thực tế của sản phẩm đó với các ứng dụng chạy trên thiết bị.
+Khi so sánh giữa các smartphone "bom tấn", nhiều người sẽ đặt ra câu hỏi sản phẩm nào mạnh hơn và hoạt động nhanh hơn?
+Galaxy S23 Ultra và iPhone 15 Pro Max là hai trong số những smartphone cao cấp nhất thị trường hiện nay. Cả 2 sản phẩm đều sở hữu cấu hình mạnh mẽ và nhiều tính năng.
+iPhone 15 Pro Max và Galaxy S23 Ultra là những mẫu smartphone cao cấp với cấu hình mạnh nhất thị trường hiện nay (Ảnh: Karl Conrad).
+Trong khi Galaxy S23 Ultra được trang bị chip Snapdragon 8 Gen 2 for Galaxy cao cấp nhất của Qualcomm và được thiết kế, tối ưu riêng cho dòng sản phẩm Galaxy S23; thì iPhone 15 Pro Max được trang bị chip A17 Pro, mà theo Apple là chip di động mạnh nhất thị trường hiện nay.
+iPhone 15 Pro Max được đánh giá nhỉnh hơn về chip xử lý, nhưng chiếc smartphone của Apple chỉ được trang bị bộ nhớ RAM 8GB, trong khi Galaxy S23 Ultra có tùy chọn bộ nhớ RAM 8GB hoặc 12GB, điều này về lý thuyết sẽ giúp Galaxy S23 Ultra vượt trội hơn về khả năng xử lý đa nhiệm.
+Tuy nhiên, iPhone 15 Pro Max được trang bị bộ nhớ lưu trữ chuẩn NVMe, trên lý thuyết sẽ cho tốc độ truy xuất dữ liệu nhanh hơn so với chuẩn bộ nhớ UFS 4.0 sử dụng trên Galaxy S23 Ultra.
+iPhone 15 Pro Max cũng có đôi chút lợi thế về tốc độ xử lý khi sử dụng nền tảng iOS được Apple tối ưu dành cho iPhone. Màn hình của iPhone 15 Pro Max cũng có độ phân giải thấp hơn Galaxy S23 Ultra, nghĩa là sẽ tốn ít thời gian hơn để xử lý đồ họa.
+Vậy khi so sánh tốc độ xử lý thực tế giữa iPhone 15 Pro Max và Galaxy S23 Ultra, sản phẩm nào sẽ giành được chiến thắng? Để đi tìm câu trả lời, kênh Youtube PhoneBuff đã thực hiện một video để so sánh về tốc độ xử lý của 2 sản phẩm khi cùng chạy chung các tác vụ giống nhau.
+Phiên bản Galaxy S23 Ultra được PhoneBuff sử dụng cho bài so sánh này được trang bị bộ nhớ RAM 12GB, lớn hơn bộ nhớ RAM 8GB được trang bị trên iPhone 15 Pro Max.
+So sánh cấu hình iPhone 15 Pro Max và Galaxy S23 Ultra.
+Để đảm bảo tính công bằng cho bài kiểm tra của mình, PhoneBuff đã sử dụng một cánh tay robot chuyên dụng để mở đồng thời các ứng dụng giống nhau trên Galaxy S23 Ultra và iPhone 15 Pro Max.
+Khi một ứng dụng được khởi chạy xong, cánh tay robot sẽ tự động quay trở về màn hình chính của smartphone để kích hoạt ứng dụng tiếp theo và cứ tiếp tục như thế cho đến khi chạy hết lần lượt 16 ứng dụng khác nhau, bao gồm các ứng dụng mạng xã hội, game, ứng dụng thương mại điện tử hay xử lý văn phòng…
+Sau khi kích hoạt hết toàn bộ 16 ứng dụng được chuẩn bị sẵn, PhoneBuff sẽ tính tổng thời gian mà cả 2 smartphone cần để chạy xong hết các ứng dụng. Sau đó, cánh tay robot sẽ bắt đầu kích hoạt ngược trở lại các ứng dụng đã khởi chạy trước đó để kiểm tra tốc độ xử lý đa nhiệm trên từng sản phẩm.
+iPhone 15 Pro Max đọ tốc độ xử lý với Galaxy S23 Ultra, sản phẩm nào thắng? (Video: PhoneBuff).
+Kết quả cuối cùng cho thấy Galaxy S23 Ultra cần hơn 2 phút để khởi chạy toàn bộ 16 ứng dụng lần đầu tiên, trong khi iPhone 15 Pro Max chỉ cần hơn 1 phút 58 giây để thực hiện điều này. Ở vòng 2, iPhone 15 Pro Max chỉ mất 46 giây 90 sao để mở lại tất cả các ứng dụng, trong khi Galaxy S23 Ultra mất 49 giây để làm điều tương tự.
+Kết quả cuối cùng, iPhone 15 Pro Max đã đánh bại đối thủ khi chỉ cần tổng cộng 2 phút 45 giây và 40 sao để hoàn tất bài kiểm tra, trong khi Galaxy S23 Ultra cần 2 phút 49 giây và 50 sao để hoàn thành.
+Dù chênh lệch về thời gian xử lý là không quá lớn, kết quả này cũng cho thấy Apple không nói quá về hiệu suất xử lý của chip A17 Pro trên iPhone 15 Pro Max.
+Theo PhoneBuff

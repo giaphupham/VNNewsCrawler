@@ -1,0 +1,7 @@
+Apple vừa gửi thông báo khẩn cấp về một mối đe dọa nguy hiểm đối với người dùng iPhone tại 92 quốc gia trên thế giới. Cảnh báo này nói rằng người dùng iPhone có thể trở thành mục tiêu của các cuộc tấn công phần mềm gián điệp đánh thuê.
+Apple cho biết người dùng iPhone tại 92 quốc gia có thể trở thành mục tiêu của các cuộc tấn công phần mềm gián điệp đánh thuê (Ảnh: Digital Trends).
+Theo TechCrunch, Apple đã gửi cảnh báo này thông qua email và iMessage được liên kết với Apple ID của người dùng. Ngoài ra, thông báo cũng xuất hiện khi người dùng truy cập vào trang web đăng nhập tài khoản Apple.
+"Apple phát hiện ra bạn đang là mục tiêu của một cuộc tấn công phần mềm gián điệp đánh thuê. Chúng đang cố gắng xâm nhập từ xa vào chiếc iPhone được liên kết với Apple ID -xxx- của bạn", công ty chia sẻ trong một cảnh báo gửi tới những khách hàng bị ảnh hưởng.
+Tuy vậy, Apple nói rằng họ không thể cung cấp thêm bất cứ thông tin nào về nguyên nhân của cuộc tấn công này "vì điều đó có thể khiến những kẻ tấn công thay đổi hành vi để tránh bị phát hiện trong tương lai".
+Theo công bố trên trang web hỗ trợ người dùng của Apple, công ty từng gửi thông báo dạng này nhiều lần, đến người dùng ở hơn 150 quốc gia kể từ năm 2021. Tháng 10/2023, Apple đã gửi cảnh báo tương tự tới một số nhà báo và chính trị gia ở Ấn Độ.
+Apple cũng khuyến cáo tới những người dùng nhận được thông báo trên rằng họ nên liên hệ đến bộ phận kỹ thuật của công ty để được hỗ trợ. Trong khi đó, những người dùng iPhone chưa nhận được cảnh báo cũng cần hết sức cảnh giác với các rủi ro bảo mật.

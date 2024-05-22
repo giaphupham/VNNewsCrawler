@@ -1,0 +1,8 @@
+"Bản cập nhật này cung cấp các phần sửa lỗi quan trọng và giải quyết một sự cố hiếm gặp khiến các ảnh đã từng gặp phải tình trạng hỏng cơ sở dữ liệu có thể xuất hiện lại trong thư viện ảnh ngay cả khi ảnh đó đã được xóa", Apple cho biết trong phần mô tả về bản cập nhật.
+Sau khi cập nhật iOS 17.5, nhiều người dùng cho biết iPhone của họ đột ngột xuất hiện những bức ảnh cũ đã bị xóa từ trước (Ảnh: Apple Insider).
+Đối với nền tảng iOS, khi người dùng xóa một bức ảnh hoặc video, chúng sẽ mặc định chuyển đến thư mục "Đã xóa gần đây". Sau 30 ngày, những bức hình này sẽ bị xóa vĩnh viễn khỏi thiết bị của người dùng.
+Tuy nhiên, sau khi cập nhật lên phiên bản iOS 17.5 mà Apple phát hành mới đây, không ít người dùng iPhone nhận thấy những bức ảnh đã bị xóa trước đây đột nhiên xuất hiện trở lại trong thư viện của họ.
+Điều này đặt ra một câu hỏi lớn cho Apple về quyền riêng tư của người dùng. Không ít ý kiến bày tỏ quan ngại về cách mà Apple đang lưu trữ dữ liệu hình ảnh và chủ sở hữu iPhone thực sự có thể xóa hình ảnh trên điện thoại của họ hay không.
+Trong bản cập nhật mới nhất iOS 17.5.1 và iPadOS 17.5.1, Apple chỉ đưa ra thông báo về việc khắc phục sự cố. Hãng không có bất cứ phản hồi nào làm sáng tỏ nguyên nhân gây ra lỗi hay cách khắc phục chúng ra sao.
+"Apple luôn quảng cáo họ là một công ty quan tâm đến quyền riêng tư của người dùng. Trong các sự kiện, Apple cũng khẳng định dữ liệu của người dùng luôn được mã hóa đến mức ngay cả Apple cũng không thể biết chuyện gì đang xảy ra trên điện thoại của bạn.
+Apple cần đưa ra thông tin một cách minh bạch để người dùng có thể tin rằng công ty đang thực sự bảo vệ quyền riêng tư của họ", trang The Verge bình luận.

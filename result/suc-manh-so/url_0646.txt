@@ -1,0 +1,11 @@
+Dẫn nguồn tin từ nhà phân tích Jeff Pu, trang 9to5mac cho biết bộ đôi iPhone 16 Pro và iPhone 16 Pro Max sẽ được trang bị modem di động mới nhất từ Qualcomm có tên Snapdragon X75.
+Hai phiên bản iPhone 16 Pro sẽ sử dụng modem 5G thế hệ mới, cho hiệu suất cao hơn và tiết kiệm năng lượng hơn (Ảnh: PhoneArena).
+Trong khi đó, hai phiên bản iPhone 16 và iPhone 16 Plus tiêu chuẩn vẫn sẽ sử dụng modem Snapdragon X70 tương tự các mẫu iPhone 15. Động thái này nằm trong chiến lược phân cấp sản phẩm mà Apple đã triển khai từ vài năm qua.
+Snapdragon X75 được nâng cấp với nhiều công nghệ mới, cho khả năng tải xuống và tải lên thông qua kết nối 5G nhanh hơn so với X70. Theo TheVerge, bộ thu phát sóng thế hệ mới chiếm ít không gian bảng mạch hơn 25% và sử dụng ít năng lượng hơn 20%.
+Bên cạnh đó, Snapdragon X75 cũng hỗ trợ tiêu chuẩn 5G Advanced mới nhất. Đây được mô tả là giai đoạn tiếp theo của 5G và tiệm cận sự phát triển đến 6G. 5G Advanced bao gồm các cải tiến về trí tuệ nhân tạo và học máy để cải thiện hiệu suất 5G.
+Theo MacRumors, hai phiên bản iPhone 16 và iPhone 16 Plus tiêu chuẩn sẽ được nâng cấp lên dung lượng RAM 8GB, tương đương với bộ đôi Pro và Pro Max. Đây được xem là một cải tiến quan trọng, hứa hẹn sẽ cải thiện hiệu suất đa nhiệm của máy.
+Trước đó, nhà phân tích Ross Young từ Display Supply Chain Consultants từng tiết lộ bộ đôi iPhone 16 Pro và iPhone 16 Pro Max sẽ được gia tăng màn hình lên kích thước lần lượt 6,3 inch và 6,9 inch. Nhiều khả năng, hai phiên bản tiêu chuẩn cũng sẽ có kích thước tương tự.
+Toàn bộ dòng sản phẩm iPhone 16 sẽ được trang bị bộ xử lý A18 thế hệ mới (Ảnh: MacRumors).
+Dự kiến, toàn bộ dòng sản phẩm iPhone 16 sẽ được trang bị bộ xử lý A18 thế hệ mới. Cụ thể, hai mẫu iPhone 16 và iPhone 16 Plus dự kiến sẽ được tích hợp bộ xử lý A18. Trong khi đó, bộ đôi iPhone 16 Pro và iPhone 16 Pro Max sẽ sử dụng con chip A18 Pro.
+Nhiều tin đồn cho biết dòng sản phẩm iPhone 16 sẽ được tích hợp phím Action tương tự bộ đôi iPhone 15 Pro. Ngoài ra, máy cũng sẽ có thêm một phím bấm mới với tên gọi Capture Button.
+Khi truy cập camera thông qua phím Capture Button, máy sẽ lập tức chuyển đến chế độ quay video. Tính năng mới được kỳ vọng sẽ thúc đẩy người dùng sử dụng chế độ quay nhiều hơn, đặc biệt là tính năng quay video không gian trên iPhone, từ đó mở rộng kho nội dung cho Apple Vision Pro.

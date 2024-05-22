@@ -1,0 +1,23 @@
+Đôi khi, bạn chụp được một bức ảnh đẹp, nhưng vô tình lọt vào những chi tiết thừa không đáng có khiến bức ảnh mất đi sự hoàn hảo, hoặc bạn muốn xóa đi một chi tiết nào đó cảm thấy không phù hợp trên bức ảnh.
+Thông thường, để xóa đi những chi tiết không mong muốn xuất hiện trên hình ảnh, bạn sẽ phải nhờ đến phần mềm đồ họa chuyên nghiệp Photoshop. Tuy nhiên, Photoshop là một phần mềm phức tạp và không phải ai cũng có đủ thời gian để tìm hiểu và khai thác hết sức mạnh của phần mềm này.
+Để dễ dàng xóa các chi tiết thừa không mong muốn trên ảnh, bạn có thể nhờ đến chính công cụ Photos trên Windows.
+Photos là phần mềm mặc định để mở và xem các file ảnh trên Windows. Tuy nhiên, mới đây Microsoft vừa tích hợp cho công cụ xem ảnh của mình thêm nhiều tính năng mới, bao gồm cả tính năng xóa các chi tiết thừa không mong muốn trên hình ảnh.
+Một hình ảnh trước và sau khi xóa chi tiết thừa (sợi dây xích) bằng phần mềm Photos (Ảnh: Microsoft).
+Chức năng xóa chi tiết thừa trên ảnh của Photos được tích hợp tính năng trí tuệ nhân tạo (AI), cho phép phần mềm này nhận diện các đối tượng, chi tiết trong ảnh để thực hiện quá trình xóa và tái tạo hình ảnh một cách phù hợp, giúp bức ảnh trở nên tự nhiên và người xem khó có thể nhận ra ảnh đã qua chỉnh sửa.
+Hướng dẫn cài đặt phần mềm Microsoft Photos phiên bản mới nhất
+Hiện tại, tính năng xóa chi tiết trên ảnh chỉ mới được trang bị trên phiên bản thử nghiệm của phần mềm Photos.
+Để sử dụng tính năng này, bạn có thể chờ đợi cho đến khi Microsoft chính thức phát hành và cập nhật phiên bản mới của ứng dụng Photo sẵn có trên máy tính (phiên bản 2024.11030.15001.0) hoặc có thể download bản cài đặt phiên bản mới nhất của phần mềm tại đây (dung lượng hơn 600MB, do vậy quá trình tải file có thể mất đôi chút thời gian).
+Sau khi download file cài đặt, bạn giải nén hoặc kích hoạt trực tiếp file đã download được (đối với Windows 11), sau đó kích hoạt file "PhotosPackage_2024.11020.23002.0_x64" có bên trong để cài đặt phần mềm Photos phiên bản mới.
+Tại hộp thoại hiện ra, bạn nhấn nút "Cập nhật" để tiến hành cài đặt phiên bản mới cho ứng dụng Photo trên Windows.
+Sau khi quá trình cập nhật kết thúc, ứng dụng xem hình ảnh trên Windows 10 và 11 của bạn đã được cập nhật lên phiên bản mới nhất.
+Hướng dẫn dùng ứng dụng Photos để xóa các chi tiết thừa trên hình ảnh
+Sau khi cài đặt bản nâng cấp của phần mềm Photos, bạn kích đôi vào hình ảnh bất kỳ mình muốn xóa chi tiết, hình ảnh này sẽ được mở bằng phiên bản mới của phần mềm Photos trên Windows.
+Tại giao diện xem ảnh, bạn nhấn vào nút "Chỉnh sửa hình ảnh" ở menu phía trên.
+Tại giao diện hiện ra tiếp theo, bạn nhấn vào nút "Tẩy xóa" (biểu tượng chiếc tẩy) trên menu.
+Bây giờ, bạn sử dụng chuột để đánh dấu và khoanh vùng những chi tiết, đối tượng mình muốn xóa khỏi hình ảnh. Sau khi khoanh vùng, chờ trong giây lát, hệ thống AI của ứng dụng Photos sẽ tự động xử lý và xóa các đối tượng người dùng đã chọn ra khỏi hình ảnh.
+Sau khi quá trình xử lý hoàn tất, chi tiết và đối tượng bạn đã chọn sẽ được phần mềm xóa khỏi hình ảnh. Trong trường hợp vẫn còn dấu vết của các chi tiết này và bức ảnh chưa được ưng ý, bạn có thể khoanh vùng các dấu vết còn sót lại để ứng dụng Photos tiếp tục xóa các chi tiết này.
+Hình ảnh trước và sau khi đã được xóa các chi tiết không ưng ý (Ảnh chụp màn hình).
+Khi đã cảm thấy ưng ý với các hình ảnh đã được xử lý, bạn nhấn vào nút "Lưu tùy chọn" ở góc trên bên phải giao diện phần mềm, chọn "dưới dạng bản sao" để lưu thành một file ảnh mới và vẫn giữ lại file ảnh gốc, hoặc chọn "Lưu" để lưu file ảnh mới chèn lên file gốc sẵn có.
+Minh họa quá trình xóa chi tiết thừa trên ảnh bằng phần mềm Photos (Video: Q.H).
+Khả năng xử lý của phần mềm Photos có thể sẽ khiến bạn phải ngạc nhiên về kết quả, tạo cảm giác như các đối tượng đã bị xóa không hề tồn tại trên hình ảnh.
+Tuy nhiên, nếu đối tượng cần xóa nằm trên một khung cảnh rối rắm với nhiều màu sắc và chi tiết, chất lượng ảnh sau khi xử lý đôi khi không được như ý. Lúc này, người dùng sẽ cần phải xử lý nhiều lần mới có được kết quả ưng ý nhất.

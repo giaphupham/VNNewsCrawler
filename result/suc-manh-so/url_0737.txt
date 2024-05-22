@@ -1,0 +1,20 @@
+WWDC 2023 diễn ra từ ngày 5- 9/6 tại Mỹ, với bài phát biểu quan trọng bắt đầu vào lúc 10 giờ sáng 5.6 theo giờ địa phương. Dưới đây là những thứ đáng chờ đợi tại hội nghị này.
+iOS 17
+Nhiều nguồn tin rò rỉ cho biết iOS 17 sẽ không có nhiều thay đổi về giao diện sử dụng. Thay vào đó, phiên bản này sẽ tập trung vào cải thiện hiệu suất thiết bị, sửa lỗi bảo mật và nâng cấp các tính năng khác của máy.
+iOS 17 sẽ tập trung cải thiện hiệu suất thiết bị và các tính năng bên trong hệ điều hành (Ảnh: MacRumors).
+Theo Mark Gurman từ Bloomberg, bản cập nhật iOS 17 chuẩn bị ra mắt sẽ bao gồm nhiều cải tiến trong các ứng dụng như Wallet, Find My, SharePlay và AirPlay. Gurman nói rằng ứng dụng Wallet sẽ có "những thay đổi đáng kể", nhưng không tiết lộ gì thêm.
+Apple được cho là sẽ nâng cấp tính năng SharePlay, giúp người dùng có thể xem nhiều nội dung với bạn bè và gia đình qua cuộc gọi FaceTime. Ngoài ra, công ty cũng sẽ cải tiến dịch vụ định vị cho ứng dụng Find My. 
+Chưa dừng lại ở đó, nguồn tin này còn tiết lộ rằng iOS 17 sẽ biến giao diện màn hình khóa của iPhone thành "màn hình hiển thị thông minh". Cụ thể, khi không sử dụng và được đặt theo hướng ngang, iPhone sẽ hiển thị các thông tin bao gồm cuộc hẹn trên lịch, dữ liệu thời tiết.
+Theo thông lệ hàng năm, phiên bản thử nghiệm sẽ được phát hành cho các lập trình viên ngay sau sự kiện. Trong khi đó, bản cập nhật chính thức sẽ được giới thiệu cùng với thế hệ iPhone 15. Bên cạnh iOS 17, công ty cũng sẽ ra mắt hàng loạt bản cập nhật mới bao gồm iPadOS 17, tvOS 17, watchOS 10 và macOS 14.
+MacBook Air 15 inch
+Các thông tin rò rỉ cho biết MacBook Air 15 inch vẫn sẽ giữ nguyên thiết kế màn hình "tai thỏ" tương tự MacBook Air M2 hiện tại. Ngoài ra, máy cũng được cho là sẽ có độ phân giải màn hình tương đương với phiên bản MacBook Pro 14 inch.
+MacBook Air 15 inch vẫn sẽ giữ nguyên thiết kế màn hình "tai thỏ" tương tự MacBook Air M2 hiện tại (Ảnh: 9to5mac).
+Trước đây, đối với dòng sản phẩm MacBook Air, Apple từng cung cấp cho người dùng hai tùy chọn về kích thước màn hình, bao gồm phiên bản 11 inch và 13 inch. Đến hiện tại, mẫu máy này chỉ có duy nhất một lựa chọn 13 inch.
+Việc bổ sung thêm một tùy chọn kích thước màn hình sẽ mang đến cho người dùng nhiều lựa chọn hơn khi mua máy, tùy thuộc vào nhu cầu và mục đích sử dụng thiết bị.
+Trong một bài đăng gần đây, nhà phân tích Ming-Chi Kuo nói rằng MacBook Air 15 inch sẽ được trang bị con chip M2, với 2 tùy chọn khác nhau về số nhân xử lý. Nhiều khả năng, khác biệt này sẽ chỉ đến từ số lượng nhân xử lý đồ họa. 
+Kính thực tế ảo Apple Reality Pro và xrOS
+Theo Bloomberg, chiếc kính thực tế ảo đầu tiên của Apple sẽ được trang bị khả năng "gõ phím trong không khí". Bên cạnh đó, thiết bị sẽ không yêu cầu người dùng phải kết nối với iPhone, trái ngược với cách thiết lập ban đầu của Apple Watch.
+Bản dựng kính thực tế ảo của Apple (Ảnh: MacRumors).
+Sản phẩm này được cho là sẽ có cấu tạo từ 3 màn hình, trong đó có 2 màn hình Micro OLED và một màn hình AMOLED. Thiết kế của sản phẩm này cũng được kỳ vọng sẽ cao cấp hơn nhiều so với các đối thủ. 
+Thiết bị sẽ tích hợp 15 mô-đun quang học theo dõi mắt, hỗ trợ kết nối WiFi 6E và nhiều tính năng thú vị khác. Chiếc kính thực tế ảo của Apple cũng được kỳ vọng sẽ sử dụng bộ xử lý M1 Pro hoặc một con chip mới có sức mạnh tương đương.
+Sản phẩm có thể sẽ chạy trên nền tảng hệ điều hành "xrOS" do Apple tự phát triển. Một số nhà phân tích dự đoán rằng mức giá của sản phẩm này có thể lên tới 3.000 USD.

@@ -1,0 +1,11 @@
+Công cụ Imagen 3 cho phép chuyển đổi văn bản thành hình ảnh chất lượng cao, trong khi Veo hỗ trợ tạo ra video với độ phân giải cao 1080p. Theo đó, người dùng có thể sử dụng Veo để tạo ra video từ nhiều góc nhìn khác nhau.
+Veo hỗ trợ tạo ra video với độ phân giải cao 1080p (Video: Google).
+Đây được xem là đối thủ cạnh tranh trực tiếp với mô hình AI Sora của OpenAI. Đại diện Google cho biết Veo có khả năng "hiểu biết nâng cao về ngôn ngữ và bối cảnh tự nhiên", giúp tạo ra các video bám sát nhất với tầm nhìn của người dùng.
+Chưa dừng lại, AI của Google còn có thể hiểu được các kỹ thuật về hình ảnh và điện ảnh, chẳng hạn như khái niệm video "timelapse" (tua nhanh thời gian) hoặc "phong cảnh từ trên không".
+Theo Google, Veo có thể tạo ra các cảnh quay nhất quán và mạch lạc, giúp mô tả chuyển động thực tế của con người, động vật và đồ vật trong suốt các cảnh quay.
+"Video thu được có thể được tinh chỉnh bằng các lời nhắc bổ sung. Google cũng đang khám phá thêm các tính năng mới cho Veo để tạo ra các góc quay và phân cảnh dài hơn", Demis Hassabis, Giám đốc điều hành Google DeepMind, cho biết.
+Các video minh họa về khả năng của Veo có thời lượng khoảng 8 giây. Tuy vậy, Google cho biết người dùng có thể đưa ra yêu cầu về kéo dài thời lượng của video lên hơn 1 phút.
+Google cho biết người dùng có thể đưa ra yêu cầu về kéo dài thời lượng của video lên hơn 1 phút (Video: Google).
+Hiện tại, mô hình AI này chưa cho phép người dùng có thể thử nghiệm rộng rãi. Google cho biết công ty đang mời một số nhà làm phim và nhà sáng tạo thử nghiệm mô hình này để xác định cách mà nó có thể hỗ trợ tốt nhất cho họ.
+Vài tháng trở lại đây, cuộc đua trong lĩnh vực AI ngày càng trở nên gay gắt. Ngày 14/5, OpenAI đã ra mắt mô hình ngôn ngữ GPT-4o với các tính năng thông minh hơn và cho phép người dùng sử dụng hoàn toàn miễn phí. Giữa tháng 2, công ty này cũng ra mắt bộ công cụ Sora, cho phép tạo video từ các đoạn văn bản mô tả.
+Không nằm ngoài cuộc đua, vào cuối tháng 4, Microsoft cũng giới thiệu công cụ VASA-1. Mô hình này có khả năng sử dụng hình ảnh hoặc tranh vẽ chân dung của một người bất kỳ để biến thành một đoạn video sinh động và giống như thật.

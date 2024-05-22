@@ -1,0 +1,27 @@
+Đôi khi bạn không hài lòng với những bức ảnh mà mình đã chụp, như màu sắc trên ảnh quá nhợt nhạt, hình ảnh xuất hiện quá nhiều nhiễu do chụp thiếu sáng hay độ tương phản không ưng ý... Nếu gặp một trong các trường hợp này, bạn có thể nhờ đến những phần mềm xử lý đồ họa như Photoshop để tối ưu và tăng cường chất lượng ảnh chụp.
+Tuy nhiên, Photoshop là một phần mềm có cách sử dụng phức tạp và không phải ai cũng biết khai thác hết tính năng của phần mềm này.
+Nếu bạn là "tay ngang" và muốn tối ưu để nâng cao chất lượng hình ảnh một cách nhanh chóng, dễ dàng thì phần mềm với tên gọi Leawo PhotoIns sẽ rất hữu ích cho bạn.
+Leawo PhotoIns là phần mềm được ra đời với mục đích duy nhất tối ưu và nâng cao chất lượng hình ảnh. Nếu hình ảnh của bạn bị quá sáng, quá tối, mờ, nhiễu hay độ tương phản quá thấp… phần mềm này sẽ giúp xử lý các vấn đề để bức ảnh trở nên hoàn thiện và đẹp mắt hơn.
+Leawo PhotoIns được tích hợp trí tuệ nhân tạo, giúp nhận diện tình trạng ảnh một cách chuẩn xác, từ đó giúp tối ưu màu sắc trên ảnh một cách phù hợp.
+Ưu điểm lớn nhất của phần mềm đó là có thể tự động tối ưu hình ảnh mà không cần có sự can thiệp của người dùng, do vậy rất dễ dàng khi sử dụng.
+Hướng dẫn nhận mã bản quyền của phần mềm
+Mặc định, Leawo PhotoIns có giá bản quyền 29,95 USD cho một năm sử dụng. Hiện tại, hãng phần mềm Leawo đang có chương trình khuyến mãi, cho phép người dùng nhận mã bản quyền của phần mềm hoàn toàn miễn phí.
+Bạn đọc có thể thực hiện theo hướng dẫn dưới đây của Dân trí để tham gia chương trình khuyến mãi này:
+- Đầu tiên, bạn download bản dùng thử của phần mềm tại đây (bao gồm cả phiên bản dành cho Windows hoặc Mac).
+- Tiếp theo, truy cập vào trang web của chương trình khuyến mãi tại đây, nhấn vào nút "Like us on Facebook".
+Một cửa sổ trình duyệt mới sẽ được mở ra, bạn nhấn vào nút "Thích" để thích trang Facebook của hãng phần mềm Leawo. Trong trường hợp bạn chưa đăng nhập vào Facebook, tiến hành đăng nhập vào tài khoản Facebook của mình trên trình duyệt rồi nhấn nút "Thích".
+Tuy nhiên, bạn có thể bỏ qua bước nhấn "Thích" trang Facebook của hãng phần mềm Leawo. Quay trở lại trang web khuyến mãi, bây giờ giao diện trang web sẽ cho bạn chọn phiên bản phần mềm muốn sử dụng (Windows hoặc Mac), điền họ, tên và địa chỉ email vào các khung tương ứng rồi nhấn nút "Get it Now".
+Mã bản quyền để kích hoạt bản quyền sẽ được hiện ra tại trang web tiếp theo. Mã bản quyền này cũng sẽ được gửi về email của bạn để có thể sử dụng ở những lần sau.
+Tiến hành cài đặt phần mềm. Trong lần đầu tiên sử dụng phần mềm, một hộp thoại hiện ra yêu cầu người dùng điền mã bản quyền để kích hoạt phần mềm. Bạn sử dụng mã bản quyền có được ở trên, dán vào khung "Registration Code" và nhấn nút để kích hoạt bản quyền.
+Lưu ý: trong trường hợp kích hoạt bản quyền mà bạn nhấn thông báo lỗi "Time out", bạn hãy khởi động lại phần mềm rồi điền mã bản quyền để kích hoạt lại một lần nữa.
+Như vậy, bạn đã có thể sử dụng Leawo PhotoIns với đầy đủ bản quyền và tính năng mà không còn gặp phải hạn chế nào.
+Hướng dẫn sử dụng phần mềm
+Leawo PhotoIns sẽ cung cấp cho người dùng 2 tính năng chính, bao gồm tối ưu, tăng cường chất lượng hình ảnh và tính năng tự động xóa phông nền cho hình ảnh. Bản quyền kể trên chỉ dành cho tính năng tối ưu hình ảnh.
+Tại hộp thoại hiện ra khi chạy phần mềm, bạn nhấn nút "Photo Enhancer" để kích hoạt tính năng tối ưu và tăng cường chất lượng ảnh.
+Nhấn nút "Open Example" để phần mềm mở một hình ảnh ví dụ minh họa cho tính năng tối ưu hình ảnh, hoặc nhấn nút "Add Photo" để chọn hình ảnh mà bạn muốn xử lý.
+Lưu ý: file ảnh cần xử lý phải có kích cỡ tối thiểu 800x600, nếu nhỏ hơn kích cỡ này, phần mềm sẽ không hỗ trợ.
+Bạn có thể chọn đồng thời nhiều file để xử lý cùng lúc trên phần mềm. Danh sách các file ảnh đã được chọn sẽ hiển thị trên giao diện chính của phần mềm.
+Nhấn đúp vào từng file ảnh có trong danh sách, phần mềm sẽ tự động thực hiện quá trình tối ưu để nâng cao chất lượng ảnh mà không cần sự can thiệp của người dùng. Sau khi quá trình tối ưu kết thúc, bạn có thể xem lại để so sánh chất lượng ảnh trước và sau khi được xử lý bởi phần mềm.
+Nếu muốn xử lý gương mặt của người có trong ảnh, bạn nhấn vào nút "Eyes Enlarge" ở menu bên dưới giúp mắt của người trong ảnh trở nên to hơn. Nhấn nút "Face Enhance" để giúp gương mặt người trong ảnh trở nên sáng và rõ nét hơn.
+Nếu cảm thấy ưng ý với hình ảnh sau khi được xử lý, bạn nhấn vào nút mũi tên ở góc dưới bên phải, chọn vị trí lưu file tại mục "Save to" để chứa file ảnh sau khi xử lý rồi nhấn nút "Output 1 photo".
+Như vậy, bạn đã có thể tối ưu để tăng cường chất lượng hình ảnh một cách dễ dàng chỉ bằng một vài cú kích chuột. Bạn có thể so sánh hình ảnh trước và sau khi được tối ưu để thấy được sự khác biệt về màu sắc, độ tương phản hay chất lượng ảnh…

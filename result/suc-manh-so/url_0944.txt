@@ -1,0 +1,33 @@
+26 tỷ tài khoản lộ thông tin
+Chuyên gia an ninh mạng người Ukraine Bob Diachenko và nhóm nghiên cứu bảo mật của Cybernews đã phát hiện một vụ rò rỉ dữ liệu người dùng lớn nhất từ trước đến nay.
+Danh sách các nền tảng trực tuyến và số tài khoản bị ảnh hưởng bởi vụ rò rỉ thông tin (Ảnh: Cybernews).
+Theo đó, một cơ sở dữ liệu với dung lượng lên đến 12TB, chứa thông tin 26 tỷ tài khoản của các dịch vụ trực tuyến và nền tảng mạng xã hội như Twitter, Weibo, Tencent, LinkedIn, Zing… vừa được chia sẻ lên Internet.
+Cybernews cho biết cơ sở dữ liệu này chủ yếu được tổng hợp từ các thông tin người dùng từng bị rò rỉ từ những vụ tấn công mạng trước đây, nhưng có thể cũng chứa cả những dữ liệu mới bị khai thác. Tin tặc có thể dựa vào những thông tin cá nhân này để thực hiện các vụ tấn công lừa đảo quy mô lớn hoặc truy cập trái phép vào tài khoản mạng xã hội của người dùng.
+Giá trị vốn hóa của Microsoft vượt mốc 3.000 tỷ USD
+Giá cổ phiếu của Microsoft đã liên tục tăng mạnh trong phiên giao dịch ngày 24/1 (theo giờ Mỹ), lên mốc 405 USD/cổ phiếu, giúp giá trị vốn hóa của hãng công nghệ này vượt qua mốc 3.000 tỷ USD.
+Microsoft là công ty thứ 2 trong lịch sử, sau Apple, có giá trị vốn hóa thị trường vượt mốc 3.000 tỷ USD (Ảnh: CNN).
+Tính từ đầu năm đến nay, giá cổ phiếu của Microsoft đã tăng thêm 7% và nếu so với cùng kỳ năm ngoái, giá cổ phiếu của Microsoft đã tăng thêm 40%.
+Nguyên nhân khiến giá trị cổ phiếu của Microsoft tăng mạnh là vì công ty đã có những đầu tư sớm vào phát triển trí tuệ nhân tạo (AI), lĩnh vực công nghệ đang trở thành xu thế hiện nay.
+Bẫy "quà tặng 0 đồng" dịp cận Tết
+Báo cáo từ Cục An toàn thông tin (ATTT), Bộ Thông tin và Truyền thông (TT&TT), cho biết chiêu trò lừa đảo gọi điện thông báo trúng thưởng, được nhận quà tặng "tri ân khách hàng" 0 đồng đang nở rộ trong thời gian gần đây. Nhiều người đã mắc bẫy của kẻ gian và bị chiếm đoạt tài sản.
+Nhiều người đã mắc bẫy của kẻ gian và bị chiếm đoạt tài sản (Ảnh: Cục ATTT).
+Trước thực trạng trên, Cục ATTT cho biết một trong những nguyên nhân dẫn đến việc mất an toàn thông tin cá nhân của người dùng Internet là sự bất cẩn và dễ dàng cung cấp thông tin cá nhân qua mạng xã hội, mua sắm trực tuyến hoặc qua hình thức trực tiếp.
+"Người dân cần phải đề cao cảnh giác trước những cuộc gọi dịch vụ, tuyệt đối không chia sẻ, cung cấp thông tin cá nhân như CCCD, CMND, số thẻ, tài khoản ngân hàng, mã OTP,... để tránh bị đối tượng lừa đảo đánh cắp thông tin sử dụng vào mục đích phạm pháp hoặc bị chiếm đoạt tài sản", Cục ATTT khuyến cáo.
+Tủ lạnh Aqua cao cấp về Việt Nam
+Tủ lạnh ViewFresh sở hữu thiết kế hài hòa giữa vân đá xám tự nhiên và mặt gương. Thiết bị tích hợp màn hình cảm ứng Color AI và kết nối WiFi để người dùng quản lý thực phẩm, kiểm soát chế độ và điều chỉnh nhiệt độ từ xa thông qua ứng dụng.
+Tủ lạnh ViewFresh tích hợp hệ thống đèn chiếu sáng Day Light (Ảnh: Thế Anh).
+Sản phẩm được trang bị công nghệ Fresher Shield, giúp giảm 40% sự dao động nhiệt độ, tránh sốc nhiệt độ cho thực phẩm. Trong khi đó, hệ thống ABT Pro sẽ giúp khử mùi và diệt khuẩn cho tủ lạnh. Aqua ViewFresh được bán ra tại thị trường Việt Nam với mức giá từ 29,99 triệu đồng.
+Apple sẽ làm điều chưa từng có trong lịch sử iPhone
+Sau nhiều thông tin bị rò rỉ, Apple đã chính thức xác nhận sẽ cho phép người dùng iPhone cài đặt ứng dụng từ các kho ứng dụng bên thứ 3. Đây là sự thay đổi lớn nhất kể từ thời điểm Apple ra mắt iPhone phiên bản đầu tiên vào năm 2007 và kho ứng dụng App Store dành cho nền tảng iOS vào năm 2008.
+Lần đầu tiên trong lịch sử, người dùng iPhone sẽ được phép cài đặt ứng dụng từ bên ngoài mà không cần thông qua App Store (Ảnh: BGR).
+Tuy nhiên, sự thay đổi này hiện chỉ có hiệu lực với người dùng tại các quốc gia thuộc Liên minh châu Âu (EU). Sở dĩ Apple áp dụng sự thay đổi này nhằm tuân thủ Đạo luật Thị trường Kỹ thuật số (DMA) tại EU, sẽ chính thức có hiệu lực vào tháng 3 tới đây.
+Theo đó, đạo luật chống độc quyền trên thị trường kỹ thuật số buộc Apple phải cho phép người dùng tại EU cài đặt ứng dụng trên iPhone từ bên ngoài, thay vì độc quyền kho ứng dụng App Store.
+Thúc đẩy chuyển đổi số trong lĩnh vực đường sắt đô thị tại Việt Nam
+Ngày 24/1, Autodesk đã ký kết bản ghi nhớ hợp tác với Ban Quản lý Đường sắt đô thị nhằm nâng cao việc chuyển đổi số tại Việt Nam. Động thái này là bước đi chiến lược của Autodesk trong việc hỗ trợ chuyển đổi số và ứng dụng mô hình thông tin công trình (BIM) trong lĩnh vực đường sắt đô thị nói riêng và ngành giao thông vận tải nói chung.
+Autodesk và Ban Quản lý Đường sắt đô thị hợp tác thúc đẩy chuyển đổi số tại Việt Nam (Ảnh: Thế Anh).
+Trong lần ký kết hợp tác này, Autodesk và Ban Quản lý Đường sắt đô thị sẽ tăng cường hợp tác chiến lược để hỗ trợ các giải pháp chuyển đổi kỹ thuật số trên toàn hệ sinh thái.
+Giá Bitcoin biến động mạnh
+Tuần qua, giá Bitcoin đã có biến động mạnh khi liên tục giảm sâu. Dữ liệu từ CoinMarketCap cho thấy vào ngày 23/1, đồng tiền điện tử lớn nhất thế giới đã giảm xuống dưới 38.000 USD, mức thấp nhất trong hơn một tháng qua. Đến tối 27/1, giá Bitcoin đã hồi phục lên mức 41.700 USD.
+Giá Bitcoin liên tục sụt giảm trong vài ngày qua khiến tâm lý nhiều nhà đầu tư lo lắng (Ảnh: CNBC).
+"Chúng ta vẫn đang trong giai đoạn điều chỉnh sau khi quỹ ETF Bitcoin được chấp thuận", Julio Moreno, người đứng đầu bộ phận nghiên cứu tại CryptoQuant, chia sẻ với CNBC.
+Theo nhận định từ các chuyên gia, khoảng giá 36.000 USD sẽ là mức hỗ trợ quan trọng đối với Bitcoin trong thời gian tới. Dù vậy, các chuyên gia đều tin rằng thị trường sẽ tăng trưởng mạnh trong năm nay.

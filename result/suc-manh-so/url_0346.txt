@@ -1,0 +1,13 @@
+Các tính năng trí tuệ nhân tạo (AI) xuất hiện ngày càng nhiều trên smartphone, chẳng hạn tính năng AI giúp nhận diện và tối ưu khung cảnh khi chụp ảnh, xóa đối tượng trên ảnh bằng AI hay trợ lý ảo tích hợp AI…
+Tuy nhiên, để xử lý các tính năng AI trên smartphone đòi hỏi một bộ xử lý trung tâm đủ mạnh và được tích hợp thêm bộ xử lý các tác vụ AI. Do vậy, chỉ những smartphone cao cấp mới được trang bị những con chip đủ mạnh để thực hiện các tính năng và tác vụ AI.
+Các mẫu smartphone tầm trung sử dụng chip Snapdragon 7+ Gen 3 sẽ được trang bị nhiều tính năng AI tương tự sản phẩm cao cấp (Ảnh: Qualcomm).
+Mới đây, Qualcomm vừa ra mắt chip xử lý Snapdragon 7+ Gen 3, nhắm đến phân khúc tầm trung, với mục tiêu mang các tính năng AI đến những mẫu smartphone có mức giá "mềm" hơn.
+Snapdragon 7+ Gen 3 là biến thể nâng cấp của chip di động Snapdragon 7 Gen 3 được Qualcomm ra mắt vào năm ngoái, nhưng được cải thiện về hiệu suất và tập trung vào các tính năng AI.
+Snapdragon 7+ Gen 3 được trang bị bộ xử lý Kyro kiến trúc 64-bit, với lõi xử lý chính có xung nhịp tối đa 2,8GHz (nâng từ 2,63 GHz của Snapdragon 7 Gen 3), đi kèm với đó là 3 nhân xử lý hiệu suất cao có xung nhịp tối đa 2,6GHz và 3 nhân xử lý tiết kiệm năng lượng với xung nhịp 1,9GHz.
+Qualcomm cho biết chip Snapdragon 7+ Gen 3 cho hiệu suất mạnh hơn 15% và hiệu năng xử lý đồ họa tăng thêm 45%, tiết kiệm năng lượng 5% so với phiên bản chip Snapdragon 7 Gen 3 ra mắt vào năm ngoái.
+Chip Snapdragon 7+ Gen 3 cũng được trang bị bộ xử lý NPU Hexagon, chuyên xử lý các tác vụ liên quan đến trí tuệ nhân tạo, như các trợ lý ảo tích hợp AI, tính năng tối ưu hình ảnh khi chụp ảnh, khả năng xử lý hình ảnh, tối ưu âm thanh bằng AI…
+Chip mới của Qualcomm hỗ trợ camera với độ phân giải tối đa 200 megapixel, điều này đồng nghĩa với việc các mẫu smartphone tầm trung nếu sử dụng chip này sẽ có thể được trang bị camera 200 megapixel như các mẫu smartphone cao cấp.
+Chip cũng hỗ trợ tính năng nhận diện và theo dấu chuyển động gương mặt bằng AI, tối ưu hình ảnh khi chụp thiếu sáng… Tuy nhiên, Snapdragon 7+ Gen 3 không hỗ trợ quay video chuẩn 8K và chỉ cho phép quay video chuẩn 4K ở tốc độ 60 khung hình/giây.
+Snapdragon 7+ Gen 3 hỗ trợ chuẩn RAM LPDDR5x mới nhất, dung lượng tối đa 24GB, bộ nhớ lưu trữ chuẩn UFS 4.0 tốc độ cao. Ngoài ra, chip còn được tích hợp modem hỗ trợ kết nối 5G và chuẩn WiFi 7, Bluetooth 5.4 tiết kiệm năng lượng… là những tính năng chỉ có trên các mẫu smartphone cao cấp trước đây.
+Dự kiến, các mẫu smartphone sử dụng chip Snapdragon 7+ Gen 3 sẽ được ra mắt vào tháng tới.
+Theo PCMag

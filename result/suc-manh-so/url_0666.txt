@@ -1,0 +1,6 @@
+OpenAI cho biết GPT Store là nơi mà người dùng có thể khám phá và xây dựng GPT hoặc AI tùy chỉnh cho các tác vụ cụ thể như dạy toán hay thiết kế.
+GPT Store sẽ được triển khai cho những người dùng đang sử dụng gói dịch vụ ChatGPT trả phí (Ảnh: CNBC).
+Thời gian đầu, GPT Store sẽ được triển khai cho những người dùng đang sử dụng gói dịch vụ ChatGPT trả phí. Trong vài tháng tới, công ty sẽ bổ sung thêm các chức năng mới, để người dùng có thể kiếm tiền từ việc cá nhân hóa AI.
+GPT Store được công bố lần đầu tại hội nghị dành cho các nhà phát triển của hãng vào tháng 11/2023. Tuy nhiên, việc ra mắt đã bị trì hoãn trong hơn một tháng. Trong một bản ghi nhớ nội bộ, công ty cho biết nguyên nhân là do họ cần thời gian để cải tiến GPT dựa trên phản hồi của khách hàng.
+Động thái trên cho thấy nỗ lực của OpenAI trong việc liên tục thu hút sự quan tâm của người dùng. Theo The Verge, GPT Store có khả năng giúp công ty mở rộng hệ sinh thái trong thời gian tới.
+Bên cạnh GPT Store, OpenAI cũng giới thiệu ChatGPT Team, phiên bản trả phí dành cho doanh nghiệp. Phiên bản này cho phép các nhân viên có thể sử dụng ChatGPT tại nơi làm việc. Ứng dụng sẽ tách biệt với dữ liệu công ty, bởi vậy mọi thông tin nhập vào chatbot vẫn được bảo mật.

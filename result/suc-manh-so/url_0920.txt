@@ -1,0 +1,11 @@
+Thông báo này đề nghị người dùng "Xác minh ID Apple" bằng cách nhập mật khẩu trong phần cài đặt. Tuy nhiên, ID Apple hiển thị trên màn hình lại là một tài khoản email lạ, không phải tài khoản mà người dùng sử dụng trên iPhone. Điều này đã gây ra không ít hoang mang cho người dùng.
+Nhiều người dùng iPhone nhận được thông báo dạng cửa sổ đề nghị "Xác minh ID Apple" (Ảnh: Thế Anh).
+Trên các trang mạng xã hội như Facebook, nhiều người dùng chia sẻ thông tin rằng nếu nhận được thông báo "Xác minh ID Apple" thì điện thoại sẽ bị chiếm tài khoản.
+Trao đổi với phóng viên Dân trí, ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), cho biết đây là một thông tin giả và đang gây ra tình trạng hoang mang cho người dùng iPhone.
+"Thông tin giả này được đưa ra cùng lúc với thông tin từ Apple cảnh báo người dùng iPhone tại hơn 90 quốc gia về các cuộc tấn công phần mềm gián điệp có chủ đích nên khiến rất nhiều người tin đó là thật.
+Tuy nhiên, các cuộc tấn công mà Apple cảnh báo không liên quan gì đến thông báo "Xác minh ID Apple". Hình thức tấn công người dùng iPhone thông qua các lỗ hổng mà Apple đang cảnh báo đã được nhắc đến nhiều trước đây, nổi tiếng nhất là các mã độc Pegasus khai thác các lỗ hổng trong iMessage trên iPhone", ông Sơn chia sẻ.
+Đến thời điểm hiện tại, các chuyên gia đều chưa ghi nhận bất cứ cuộc tấn công nào thông qua việc hiện thông báo "Xác minh ID Apple". Do đó, người dùng cần hết sức cảnh giác, không nên chia sẻ những thông tin chưa được kiểm chứng.
+Thông tin giả trên được đưa ra cùng thời điểm với cảnh báo của Apple nên khiến nhiều người dùng hoang mang (Ảnh: HardwareZone).
+Trước đó, Apple đã gửi thông báo khẩn cấp về một mối đe dọa nguy hiểm đối với người dùng iPhone tại 92 quốc gia trên thế giới. Cảnh báo này nói rằng người dùng iPhone có thể trở thành mục tiêu của các cuộc tấn công phần mềm gián điệp đánh thuê.
+"Apple phát hiện ra bạn đang là mục tiêu của một cuộc tấn công phần mềm gián điệp đánh thuê. Chúng đang cố gắng xâm nhập từ xa vào chiếc iPhone được liên kết với Apple ID -xxx- của bạn", công ty chia sẻ trong một cảnh báo gửi tới những khách hàng bị ảnh hưởng.
+Tuy vậy, Apple nói rằng họ không thể cung cấp thêm bất cứ thông tin nào về nguyên nhân của cuộc tấn công này "vì điều đó có thể khiến những kẻ tấn công thay đổi hành vi để tránh bị phát hiện trong tương lai".

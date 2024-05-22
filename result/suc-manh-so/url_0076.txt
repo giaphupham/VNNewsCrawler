@@ -1,0 +1,7 @@
+Nguồn tin từ 9to5mac vừa đăng tải hình ảnh được cho là cổng USB-C trên dòng sản phẩm iPhone 15. Đến hiện tại, các thông tin rò rỉ đều khẳng định iPhone 15 sẽ sử dụng cổng sạc mới.
+Hình ảnh được cho là cổng sạc USB-C trên iPhone 15 (Ảnh: 9to5mac).
+Tuy vậy, nhà phân tích Ming-Chi Kuo cho biết cổng USB-C trên bộ đôi iPhone 15 Pro sẽ có tốc độ truyền tải dữ liệu nhanh hơn. Trong khi đó, phiên bản iPhone 15 tiêu chuẩn sẽ chỉ được tích hợp chuẩn USB 2.0, tương tự Lightning.
+Tốc độ truyền dữ liệu của USB 2.0 được giới hạn ở 480Mb/giây, trong khi USB 3.2 hỗ trợ tốc độ lên tới 20Gb/giây. Thunderbolt 3 hỗ trợ tốc độ truyền dữ liệu lên tới 40Gb/giây.
+Một số thông tin còn cho rằng cổng sạc USB-C trên iPhone 15 sẽ đi kèm với một chip xác thực tương tự Lightning. Con chip này được sử dụng để quản lý việc chia sẻ thông tin giữa các thiết bị.
+Hiện tại, rất nhiều thiết bị của Apple đã được trang bị cổng sạc USB-C. Tuy nhiên, chúng không chứa chip xác thực trên cổng sạc. Thế hệ iPhone 15 sẽ là những sản phẩm đầu tiên của Apple tích hợp con chip xác thực này.
+Đối với các bộ sạc và cáp kết nối không được tích hợp con chip xác thực trên, Apple cũng được cho là sẽ giới hạn một số tính năng liên quan như sạc nhanh hay truyền dữ liệu tốc độ cao.

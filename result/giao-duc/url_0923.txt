@@ -1,0 +1,28 @@
+Giải nhất thuộc về đội Neural of Things (Ảnh: Duy Thành).
+Ngày 23/3, tại Hà Nội diễn ra vòng chung kết "Sáng tạo trẻ 2023", với màn tranh tài của 5 đội thi đến từ các trường đại học trong cả nước.
+Với thiết bị giám sát và duy trì độ tỉnh táo của tài xế thông qua công nghệ sóng não, quán quân cuộc thi sáng tạo trẻ 2023 chính thức gọi tên đội Neural of Things của Đại học Bách khoa Hà Nội với đề án Awake drive.
+Giải Nhì là đội GDSC- PTIT- Học viện Bưu chính Viễn thông, với công trình: "SkyHelper- Hệ thống tìm kiếm định vị nạn nhân dựa trên thuật toán dò sóng wifi từ các thiết bị cá nhân. Ứng dụng hỗ trợ công tác cứu hộ nạn nhân trong thiên tai, thảm họa.
+Giải Ba thuộc về đội EmNetlab- Đại học Bách khoa Hà Nội, với công trình: "Xây dựng song sinh số vận hành robot bay".
+Đội Neural of Things gồm các sinh viên đến từ một số trường đại học gồm: Nguyễn Tuấn Đạt, Nguyễn Bình An, Trần Văn Lực (ĐH Bách khoa Hà Nội) Đồng Thị Diễm Quỳnh (ĐH TROY), và Võ Quỳnh Anh (Trường ĐH Kinh tế Quốc dân).
+Bằng thiết bị đeo tai để đo sóng não kết nối với phần mềm trên điện thoại, nhóm sinh viên này giúp phát hiện sớm cơn buồn ngủ của tài xế, khiến họ tỉnh táo trở lại.
+Cụ thể, khi người dùng đeo thiết bị, dữ liệu về sóng não được gửi đến điện thoại bằng Bluetooth.
+Phần mềm sử dụng thuật toán nhanh, nhẹ cùng một số thuật toán khác để phân tích, xác định độ tỉnh táo của người lái xe.
+Các thành viên đội Neural of Things đang nghiên cứu sản phẩm (Ảnh: NVCC).
+Nhóm đã áp dụng hiện tượng cuốn hút sóng não (brainwave entrainment), để phần mềm phát nhịp Isochronic với tần số của loại sóng não nhanh, thông qua hệ thống loa trên xe hoặc trên điện thoại, giúp cuốn hút não bộ hoạt động nhanh hơn, khiến người dùng tỉnh táo trở lại.
+Được biết trước đó, sản phẩm này giành giải Nhất cuộc thi ý tưởng sáng tạo sinh viên do Trường Công nghệ thông tin và Truyền thông, Đại học Bách khoa Hà Nội tổ chức năm 2023.
+Hướng dẫn nhóm là TS Trịnh Văn Chiến, giảng viên, Trưởng Phòng Thí nghiệm nghiên cứu mạng máy tính và công nghệ truyền thông thế hệ mới, Trường Công nghệ thông tin và Truyền thông, Đại học Bách khoa Hà Nội. Mới đây, TS Chiến đạt Giải thưởng Khoa học công nghệ Quả cầu vàng 2023.
+Đội GDSC- PTIT nhận giải Nhì cuộc thi (Ảnh: Duy Thành).
+Để có được Awake Drive thành hình hài hôm nay, các thành viên trong nhóm vẫn nhớ như in ngày đầu tiên trình bày ý tưởng với thầy giáo Trịnh Văn Chiến, nhận được sự động viên, khích lệ, hướng dẫn của thầy để tìm các tài liệu, các bài báo khoa học…, nhằm tự mình tìm tòi hướng đi mới.
+Sau khi phát triển, demo sản phẩm (tháng 6/2023), nhóm mang Awake Drive tham dự các cuộc thi.
+Trần Văn Lực, thành viên nhóm cho biết, thời gian đầu tham gia dự thi, nhiều người nghi ngờ và đặt nhiều câu hỏi như "Đeo cái này có nổ không?", "Liệu có ảnh hưởng đến sức khỏe thần kinh không?". Sau khi giải thích, nhóm đã họp nhau, phân tích cần phải nhấn mạnh đến độ an toàn của Awake Drive.
+Từ những câu hỏi nghi ngờ, và các góp ý, hướng dẫn của chuyên gia tư vấn, nhóm Neural of Things tìm cách cải thiện sản phẩm. 
+Thấy nhóm sinh viên say mê đi thi, có phần sao nhãng việc nghiên cứu chuyên sâu, TS Trịnh Văn Chiến đã "rung chuông cảnh báo" tới học trò: "Sản phẩm chưa đủ tốt mà cứ mang đi thi. Các em nên tập trung hơn vào nghiên cứu, phát triển sản phẩm".
+TS Chiến đã giúp các sinh viên liên hệ mạng lưới chuyên gia, củng cố cơ sở lý thuyết nền tảng, hướng dẫn làm các bản mạch nhỏ gọn hơn. Đặc biệt, thầy rất nhiệt tình kiểm chứng sản phẩm cùng sinh viên.  
+Tự trải nghiệm sản phẩm, nhóm sinh viên thay nhau đeo Awake Drive lên thư viện trong thời điểm ôn thi, các "khách hàng" kiểm thử sau này của nhóm là các bạn cùng học, các bác lái xe taxi gần nhà…
+Đội EmNetlab nhận giải Ba cuộc thi (Ảnh: Duy Thành).
+Chia sẻ từ các thành viên, nhóm Neural of Things đang cố gắng đẩy nhanh tiến độ và ấp ủ ý tưởng thành lập công ty để phát triển sản phẩm. Trước mắt, nhóm sẽ tìm hiểu các thủ tục để làm hồ sơ nhận bằng sáng chế.
+"Chúng em không chỉ có niềm tin nghiên cứu ra sản phẩm tốt mà còn tin mình sẽ đưa sản phẩm tốt ấy đưa đến tay người tiêu dùng. Khởi nghiệp ở tuổi 20-21, tại sao không?", các sinh viên nhóm Neural of Things tự tin khẳng định.
+Phát biểu tại lễ trao giải, PGS.TS Huỳnh Đăng Chính, Phó Giám đốc ĐH Bách khoa Hà Nội cho biết, từ năm 2017 đến nay, cuộc thi "Sáng tạo trẻ" đã đón nhận ngày càng nhiều dự án của sinh viên gửi về.
+Được tổ chức thường niên, cuộc thi "Sáng tạo trẻ" đã được nhiều bạn trẻ biết đến và lan tỏa rộng khắp tới sinh viên toàn quốc tham gia. Sau một thời gian phát động, cuộc thi năm nay đã thu hút 42 công trình dự thi đến từ 14 trường đại học trên cả nước, trên 300 lượt sinh viên tham dự chương trình đào tạo và huấn luyện.
+Trải qua 3 vòng thi cạnh tranh, ban tổ chức đã lựa chọn ra 5 dự án tốt nhất để tranh tài tại vòng chung kết hôm nay (23/3).
+"Chúng tôi rất trân trọng nỗ lực của các đồng nghiệp, các cấp lãnh đạo, các bạn sinh viên, đã đưa sân chơi này thêm một sức sống mới", PGS Chính nói.

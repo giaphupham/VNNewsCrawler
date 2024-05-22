@@ -1,0 +1,10 @@
+Theo Bloomberg, hệ điều hành iOS 18 sẽ được tích hợp một số tính năng AI tạo sinh. Dự kiến, đây sẽ là một trong những phiên bản cập nhật iOS lớn nhất mà Apple từng phát hành.
+iOS 18 sẽ được tích hợp một số tính năng AI tạo sinh (Ảnh: XA-Developers).
+Vài năm trở lại đây, trợ lý ảo Siri luôn bị đánh giá có phần tụt hậu hơn so với các đối thủ như Google Assistant hay Amazon Alexa. Đến nay, Siri vẫn tồn tại nhiều hạn chế dù đã ra mắt từ năm 2011.
+Trợ lý ảo của Apple không thể thực hiện được nhiều tính năng khi ngoại tuyến, ngoài việc hẹn giờ. Do đó, người dùng luôn mong đợi Apple sẽ ứng dụng AI tạo sinh để cải thiện trợ lý kỹ thuật số của hãng.
+Tháng 9/2023, trang Information từng tiết lộ rằng Apple sẽ kết hợp các mô hình ngôn ngữ lớn vào trợ lý ảo Siri. Động thái này nhằm hỗ trợ người dùng tự động hóa các tác vụ phức tạp thông qua điều khiển bằng giọng nói.
+Bên cạnh đó, AI tạo sinh cũng có thể được tích hợp vào tính năng nhắn tin iMessage. AI có thể sẽ hỗ trợ người dùng đưa ra các phản hồi phù hợp theo từng ngữ cảnh khác nhau, tương tự tính năng chatbot trên những chiếc Galaxy S24.
+Ngoài ra, AI còn có thể được tích hợp vào nhiều ứng dụng khác của Apple, chẳng hạn như tạo danh sách nhạc tự động trong Apple Music, viết báo cáo hay tạo bản thuyết trình trong Pages và Keynote.
+iOS 18 hứa hẹn sẽ thay đổi cách người dùng sử dụng iPhone (Ảnh: Tom's Guide).
+Các báo cáo trước đây cho biết Apple đã chi 1 tỷ USD cho việc nghiên cứu và phát triển AI. iOS 18 sẽ là cơ hội để công ty công bố những thành quả đạt được. Hệ điều hành này cũng được kỳ vọng sẽ trở thành động lực thúc đẩy người dùng nâng cấp iPhone trong năm tới.
+"Chúng tôi đã thực hiện nghiên cứu về AI trong nhiều năm. Chúng tôi sẽ tiếp cận nó một cách thận trọng và suy nghĩ sâu sắc về nó. Chúng tôi hoàn toàn nhận thức được những tác động không tốt mà nó có thể gây ra", Tim Cook, CEO của Apple, chia sẻ trong một cuộc phỏng vấn với Forbes.

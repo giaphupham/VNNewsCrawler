@@ -1,0 +1,27 @@
+Theo khảo sát của YouGov, trái ngược với sự bùng nổ của quảng cáo kỹ thuật số, có tới 43% người tiêu dùng Việt Nam cảm thấy khó chịu khi tiếp xúc các quảng cáo trực tuyến.
+Trải nghiệm lướt mạng "cuốn" hơn, thời gian trực tuyến cũng tăng lên đáng kể khi ta bước vào dòng chảy của một chuỗi nội dung móc nối với cú nhấp chuột đầu tiên trong ngày. Chỉ cần truy cập vào một đường dẫn mua sắm hay gõ vài từ khóa trên thanh tìm kiếm, người dùng Internet sẽ tiếp cận vô số quảng cáo chào hàng hay những tin bài liên quan đến chủ đề vừa tìm ở bất cứ trang web nào.
+Sự kết nối này có phải là biểu hiện cho sự thấu hiểu sâu sắc của thế giới ảo đối với người dùng hay là sự sắp đặt có chủ đích mà người dùng Internet chưa nhìn thấy?
+Những "vết chân" vô tình được tận dụng
+Khi mở trình duyệt (web browser), mỗi cú nhấp chuột, mỗi lượt truy cập có thể được lưu lại dưới dạng "cookie" nhằm mục đích lưu trữ, phân tích hành vi người dùng.  
+Gợi ý nội dung là một bài toán "supervised machine learning" (máy học có giám sát) dựa trên hành vi của người dùng trong quá khứ. Thuật toán sẽ dựa vào những "dấu chân" của người dùng để xác định nội dung phù hợp nhất với người đó.
+Quảng cáo là một trong những kết quả của thuật toán này. Mọi thứ có thể được cá nhân hóa sao cho mỗi người dùng nhìn thấy những sản phẩm khác nhau phù hợp với nhu cầu và lịch sử duyệt web của họ.
+Người làm quảng cáo cũng thấy "phiền" vì quảng cáo
+80% thời gian làm việc trong ngày của Tân Một Cú - nhà sáng tạo nội dung về công nghệ - là trên mạng với nhiều vòng dạo quanh các trang web để cập nhật thông tin. Dù là người trong nghề và thấu hiểu lợi ích kinh tế mang lại từ hình thức hiển thị quảng cáo trên nội dung số, Tân cũng có những trải nghiệm không mấy thoải mái với tư cách một người dùng Internet.
+Tân chia sẻ nhiều lúc cũng cảm thấy phiền khi thấy quảng cáo.
+"Tôi cảm thấy bị làm phiền vì các video quảng cáo chợt hiển thị", Tân Một Cú chia sẻ.
+Những quảng cáo ngắn (pop-up) chừng vài giây đến vài chục giây thì có thể chấp nhận nhưng nhiều khi nền tảng phân bổ video dài vài phút đến cả tiếng dưới hình thức quảng cáo chen ngang. Phiền nhất là nội dung đó không thực sự đúng với nhu cầu hoặc phải chờ để bấm nút bỏ qua và cảm xúc của nội dung chính đang trình chiếu đã bị gián đoạn.
+Lúc này, các phần mềm mở rộng hay tính năng chặn quảng cáo bắt đầu phát huy tác dụng.
+Nhà sáng tạo nội dung về công nghệ Tân Một Cú.
+Tuy nhiên, việc sử dụng các phần mềm hay tính năng này chỉ là phương pháp tạm thời để chặn quảng cáo xuất hiện trên màn hình. Để ngăn triệt để quảng cáo và vòng lặp nội dung, chúng ta cần ngăn chặn việc bị theo dõi, giám sát và sắp đặt của thuật toán dựa trên dấu vết để lại trên Internet.
+Tự chủ với dữ liệu cá nhân đưa ra và nội dung nhận lại trên Internet
+Là sản phẩm của Herond Labs - một startup công nghệ tại Việt Nam - trình duyệt Herond được xây dựng trên nền tảng công nghệ Web 3.0. Với Web 3.0, bước tiến tiếp theo của internet, sẽ không còn các máy chủ và người dùng được quyền kiểm soát dữ liệu, danh tính của chính mình.
+Herond là trình duyệt web mới ra đời bởi startup công nghệ Việt Nam (Ảnh: Tân Một Cú).
+Theo ông Nguyễn Thanh Nam - người sáng lập và giám đốc điều hành của Herond Labs - trình duyệt Herond ra đời với sứ mệnh trao lại quyền làm chủ thông tin cho người dùng, mở ra một kỷ nguyên mới cho thế giới mạng: đặt lợi ích của người dùng lên hàng đầu.
+Ông Nguyễn Thanh Nam, người sáng lập và điều hành Herond Labs.
+"Điều nổi bật nhất của Herond là một hệ sinh thái tích hợp nhiều tính năng, công cụ thiết yếu. Người dùng không phải tải và cài đặt thêm ứng dụng mở rộng khác", Tân Một Cú đánh giá.
+Trình duyệt Herond được xem như công cụ chặn quảng cáo và trình theo dõi cookies toàn diện để người dùng có thể tự do khám phá thế giới Internet mà không bị những thuật toán phân bổ nội dung, đặc biệt là quảng cáo tiếp cận.
+Với Herond, tính năng chặn quảng cáo sẽ được tích hợp sẵn ngay trong trình duyệt (Ảnh: Herond).
+Theo đó, tính năng chặn quảng cáo được tích hợp sẵn trong trình duyệt, tự động chặn quảng cáo, bảo vệ thiết bị khỏi phần mềm độc hại và việc bị theo dõi bởi các nhà quảng cáo. Cụ thể hơn, "tấm khiên" Herond Shield sử dụng AI phân tích nội dung trang web, các đường dẫn và tệp đính kèm để xác định mối đe dọa tiềm ẩn, ngăn chặn phần mềm độc hại, lừa đảo và mối đe dọa trực tuyến khác.
+Nhờ chặn quảng cáo và các trình chặn theo dõi ngầm, trình duyệt Herond giảm thiểu mức tiêu thụ RAM, giúp thời gian tải trang nhanh gấp 3 lần bình thường.
+Thay vì sử dụng nhiều ứng dụng mở rộng để có được trải nghiệm hoàn chỉnh, chỉ cần thay đổi nhỏ trong hành vi sử dụng trình duyệt web, người dùng đã có thể làm chủ thông tin cá nhân và "cắt đuôi" các tính năng theo dõi dữ liệu, hành vi trên không gian mạng. Từ đó, có thể có những cải tiến lớn về bảo mật thông tin và trải nghiệm web.
+Tìm hiểu chi tiết và trải nghiệm trình duyệt Herond tại https://herond.org/ 

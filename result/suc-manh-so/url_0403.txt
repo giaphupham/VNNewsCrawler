@@ -1,0 +1,15 @@
+Tuần trước, chiếc iPhone thuộc về nhân viên làm việc tại một tổ chức xã hội dân sự có trụ sở ở Washington D.C (Mỹ) đã bị hack và triển khai mã độc gián điệp từ xa. Đây là loại mã độc gián điệp được tạo ra bởi NSO Group Technology, công ty tình báo mạng của Israel.
+Chuyên gia John Scott-Railton, làm việc tại phòng nghiên cứu bảo mật Citizen Lab, là người đã phát hiện ra vụ tấn công này và lập tức báo cáo sự việc với Apple.
+Lỗi bảo mật nghiêm trọng cho phép tin tặc triển khai mã độc từ xa đối với iPhone và máy tính Mac (Ảnh: LifeHacker).
+Loại mã độc này khai thác lỗ hổng bảo mật trên nền tảng iOS, kể cả phiên bản iOS mới nhất, và nền tảng OS X trên máy tính Mac. Tin tặc có thể triển khai và cài mã độc theo dõi thiết bị từ xa mà không cần bất kỳ tương tác nào từ phía người dùng, chẳng hạn như lừa người dùng nhấn vào các đường link hoặc tải file chứa mã độc về thiết bị.
+Một khi tin tặc đã cài thành công mã độc lên thiết bị của nạn nhân, chúng có thể theo dõi mọi hoạt động trên thiết bị theo thời gian thực, đọc trộm tin nhắn hoặc thậm chí nghe lén và ghi âm nội dung các cuộc gọi…
+Sau khi nhận được báo cáo về lỗi bảo mật nghiêm trọng, Apple đã lập tức tiến hành điều tra và phát hành bản vá lỗi khẩn cấp, thông qua bản cập nhật iOS 15.7.9, cùng với bản vá cho hệ điều hành MacOS BigSur và Monterey.
+Apple cũng phát hành bản vá lỗi cho các thiết bị đời cũ, bao gồm iPhone 6S, iPhone 7, iPhone SE, iPad Air 2 và các mẫu máy tính Mac ra đời từ năm 2013.
+Citizen Lab khẳng định loại mã độc gián điệp tấn công iPhone và máy tính Mac được phát triển bởi NSO Group, nhưng không rõ thủ phạm đứng sau vụ tấn công và phát tán mã độc này là ai.
+Lỗ hổng bảo mật này nghiêm trọng đến mức các chuyên gia bảo mật trên khắp thế giới kêu gọi người dùng Apple cập nhật bản vá lỗi trên thiết bị của mình càng sớm càng tốt. Người dùng iPhone có thể cập nhật phần mềm mới nhất trên thiết bị của mình bằng cách truy cập vào mục "Cài đặt -> Chung -> Cập nhật phần mềm".
+NSO Group từ chối đưa ra bình luận về việc mã độc do công ty phát triển được sử dụng để tấn công người dùng Apple.
+NSO Group là hãng công nghệ Israel chuyên phát triển các phần mềm gián điệp, nổi bật nhất trong số đó là Pegasus. NSO Group chuyên bán sản phẩm của mình cho các cơ quan chính phủ và lực lượng thực thi pháp luật để theo dõi và giám sát tội phạm, những đối tượng khả nghi…
+Mã độc do NSO Group có khả năng theo dõi từ xa các thiết bị theo thời gian thực, thu thập dữ liệu trên thiết bị, đọc trộm tin nhắn, nghe lén các cuộc gọi…
+NSO Group là một công ty gây tranh cãi do hoạt động kinh doanh của mình. Năm 2021, NSO Group bị chính Mỹ trừng phạt và đưa vào "danh sách đen" với cáo buộc vi phạm quyền riêng tư và lạm dụng phần mềm gián điệp của mình. Apple cũng đã khởi kiện NSO Group vì khai thác các lỗ hổng bảo mật trên iPhone nhằm mục đích theo dõi người dùng.
+Dù vậy, đến nay NSO vẫn đang tiếp tục phát triển các loại mã độc gián điệp nhằm vào iPhone và các thiết bị của Apple.
+Theo Bloomberg/PCMag

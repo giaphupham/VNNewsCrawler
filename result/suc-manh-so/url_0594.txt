@@ -1,0 +1,8 @@
+Trên diễn đàn Reddit, nhiều người dùng iPhone cho biết thiết bị của họ đã gặp lỗi sau khi cập nhật phiên bản hệ điều hành iOS 17.5. Sự cố này khiến cho nhiều bức ảnh đã bị xóa trước đây đột nhiên xuất hiện trở lại trong thư viện.
+Nhiều iPhone gặp sự cố kỳ lạ sau khi cập nhật iOS 17.5 (Ảnh: Apple Insider).
+"Tôi thấy 4 bức ảnh từ năm 2010 xuất hiện trở lại và lần lượt được tải lên iCloud. Tôi đã xóa chúng nhiều lần", một tài khoản Reddit chia sẻ.
+"Tôi đã xóa 6 bức ảnh vào những thời điểm khác nhau. Có một số bức ảnh được xóa từ năm 2023. Tuy vậy, chúng đột ngột xuất hiện trong thư viện ảnh giống như vừa được chụp từ hôm qua", một tài khoản khác bình luận.
+Hiện tại, nguyên nhân của sự việc này vẫn chưa được xác định. Apple cũng chưa đưa ra bất cứ phản hồi nào về sự cố trên.
+Bản cập nhật iOS 17.5 được Apple phát hành vào ngày 14/5. Theo thông tin từ phần mô tả, phiên bản hệ điều hành này sẽ khắc phục các lỗ hổng nghiêm trọng trên iPhone, đồng thời cung cấp bản vá bảo mật cho thiết bị.
+Bên cạnh đó, bản cập nhật iOS 17.5 cũng bổ sung một số tính năng như đọc tin tức ngoại tuyến trên ứng dụng Apple News+, tích hợp trò chơi ô chữ hàng ngày có tên Quartiles hay hỗ trợ trình theo dõi vật phẩm của bên thứ ba.
+Bản cập nhật mới cũng cho phép người dùng iPhone có thể tải xuống ứng dụng từ các trang web của bên thứ ba. Tuy vậy, thay đổi này sẽ chỉ xuất hiện tại thị trường châu Âu.

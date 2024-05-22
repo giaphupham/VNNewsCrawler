@@ -1,0 +1,16 @@
+Thông thường, để huấn luyện một hệ thống trí tuệ nhân tạo (AI) cần phải có cơ sở dữ liệu đủ lớn và thời gian huấn luyện lâu để AI đó có thể học hỏi và đạt được mục đích của người dùng đề ra.
+Tuy nhiên, mới đây OpenAI đã phát triển một công nghệ sao chép giọng nói đầy ấn tượng, có tên gọi Voice Engine, cho phép giả giọng nói của bất kỳ ai chỉ bằng cách cho công cụ AI này nghe qua giọng nói đó bằng một đoạn ghi âm ngắn 15 giây.
+Công cụ AI của OpenAI có thể giả giọng nói của bất kỳ ai chỉ bằng một đoạn thu âm giọng nói gốc dài 15 giây (Ảnh minh họa: Pinterest).
+Điều này đồng nghĩa với việc công cụ của OpenAI không mất quá nhiều thời gian cũng như không cần một cơ sở dữ liệu quá lớn để có thể sao chép và tạo ra những bản sao giọng nói của bất kỳ ai.
+Từ khi có được bản sao giọng nói, người dùng có thể sử dụng Voice Engine để chuyển những đoạn văn bản thành giọng nói, với âm thanh từ chính giọng mẫu mà công cụ này vừa thu thập được.
+Đáng chú ý, Voice Engine không chỉ có thể giả giọng nói, mà còn có thể tạo ra những đoạn hội thoại với giọng nói đầy cảm xúc, nhịp điệu tự nhiên, khiến những đoạn hội thoại này rất chân thực và khó có thể nhận ra đó là sản phẩm của phần mềm AI.
+OpenAI đã chia sẻ một đoạn video ngắn lên mạng xã hội X (trước đây là Twitter), cho thấy khả năng nhái giọng đáng kinh ngạc của Voice Engine.
+Video cho thấy khả năng nhái giọng của Voice Engine từ đoạn thu âm giọng nói gốc (Video: OpenAI).
+Sự ra đời của Voice Engine đã khiến nhiều người lo ngại, khi cho rằng công cụ này có thể bị kẻ xấu lợi dụng để tạo ra những nội dung giả mạo hoặc phục vụ cho mục đích lừa đảo, chẳng hạn giả giọng của một ai đó để thực hiện các cuộc gọi lừa đảo…
+Chính vì gây ra những điều lo ngại như vậy, OpenAI cho biết sẽ không cung cấp Voice Engine rộng rãi cho người dùng, bởi lẽ công ty này tin rằng xã hội vẫn chưa sẵn sàng để đón nhận một công cụ AI với chức năng như vậy.
+"Chúng tôi đang thực hiện một cách tiếp cận cẩn thận và sáng suốt đối với việc phát hành công cụ này rộng rãi đến công chúng, bởi vì chúng tôi lường trước được những hậu quả mà nó có thể gây ra", đại diện của OpenAI cho biết.
+Bất chấp những lo ngại về tác hại của Voice Engine, OpenAI vẫn tự tin rằng công nghệ này sẽ mang lại nhiều lợi ích cho xã hội.
+Đại diện OpenAI cho biết bắt đầu từ cuối năm ngoái, công ty này đã thử nghiệm Voice Engine với một nhóm nhỏ các đối tác đáng tin cậy và nhận thấy rằng công nghệ này có thể được sử dụng để làm trợ lý đọc sách cho trẻ nhỏ hoặc hoạt động như một công cụ dịch thuật, sử dụng giọng nói do AI tạo ra để đọc nhiều ngôn ngữ khác nhau…
+OpenAI cho biết Voice Engine cũng có thể sử dụng để phục hồi giọng nói cho những người bị mất giọng vì một lý do nào đó hoặc để lồng tiếng cho các bộ phim.
+Dù OpenAI tự tin Voice Engine sẽ mang lại nhiều lợi ích cho cuộc sống, công ty này vẫn không đảm bảo sẽ phát hành rộng rãi Voice Engine ra cộng đồng. OpenAI cho biết công ty sẽ tiếp tục chờ đánh giá và phản ứng của xã hội về công nghệ mới của mình trước khi có những quyết định về tương lai của Voice Engine.
+Theo DTrends/SoMag

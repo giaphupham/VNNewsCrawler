@@ -1,0 +1,20 @@
+Như Dân trí đã đưa tin, tối 5/3, mạng xã hội Facebook đã gặp sự cố trên toàn cầu khiến tài khoản của người dùng bị đăng xuất ra trên tất cả các thiết bị, kể cả smartphone, máy tính bảng hoặc máy tính cá nhân.
+Nhiều người đã không thể đăng nhập trở lại tài khoản Facebook của mình do không nhớ mật khẩu. Nguyên do vì người dùng thường đăng nhập và sử dụng Facebook cố định trên các thiết bị cá nhân nên từ lâu không còn sử dụng mật khẩu Facebook để đăng nhập trở lại.
+Trong trường hợp bạn không nhớ mật khẩu Facebook, nhưng đã từng đăng nhập và lưu mật khẩu tài khoản Facebook trên trình duyệt web máy tính, bạn có thể thực hiện theo các bước sau để tìm lại mật khẩu tài khoản của mình.
+Lưu ý: cách thức này chỉ áp dụng đối với những ai đã sử dụng tính năng "Lưu mật khẩu" trên trình duyệt web, là tính năng tự động lưu thông tin đăng nhập các tài khoản trực tuyến trên trình duyệt web máy tính.
+Đối với trình duyệt web Firefox
+Nếu bạn từng đăng nhập tài khoản Facebook và lưu thông tin đăng nhập trên trình duyệt Firefox của máy tính, bạn có thể thực hiện theo các bước sau để tìm lại mật khẩu tài khoản Facebook của mình.
+- Đầu tiên, khởi chạy phần mềm Firefox trên máy tính, kích vào tùy chọn cài đặt của trình duyệt ở góc trên bên phải, chọn "Cài đặt" từ menu hiện ra.
+- Tại cửa sổ cài đặt trình duyệt, bạn gõ "Mật khẩu đã lưu" ở hộp thoại tìm kiếm, sau đó nhấn vào nút "Mật khẩu đã lưu" hiện ra phía dưới.
+- Danh sách các tài khoản trực tuyến đã được lưu trên trình duyệt web Firefox sẽ được liệt kê đầy đủ, bao gồm tên và mật khẩu đăng nhập.
+Tại đây, bạn tìm đến thông tin tài khoản Facebook ở danh sách bên trái, bạn sẽ thấy rõ thông tin đăng nhập, bao gồm tên và mật khẩu ở dạng mã hóa. Bạn có thể nhấn vào biểu tượng con mắt để xem mật khẩu tài khoản Facebook của mình.
+Bây giờ, bạn có thể sử dụng thông tin này để đăng nhập vào ứng dụng Facebook trên smartphone.
+Đối với người dùng trình duyệt Chrome
+Trong trường hợp bạn đã đăng nhập vào tài khoản Facebook trên Chrome và lưu thông tin đăng nhập trên trình duyệt này, bạn có thể thực hiện theo các bước sau để tìm lại mật khẩu tài khoản Facebook:
+- Kích hoạt Chrome trên máy tính. Từ giao diện phần mềm, nhấn vào nút cài đặt ở góc trên bên phải (biểu tượng dấu 3 chấm), chọn "Mật khẩu và tính năng tự động điền" từ menu hiện ra, sau đó chọn "Trình quản lý mật khẩu Google".
+- Tại giao diện hiện ra tiếp theo, bạn gõ "Facebook" vào khung "Tìm mật khẩu".
+- Nhấn vào tài khoản Facebook có trong danh sách, trình duyệt Chrome sẽ yêu cầu người dùng điền mật khẩu mã PIN đăng nhập Windows hoặc máy tính Mac để xác nhận. Đây là mã PIN khi người dùng truy cập vào Windows hoặc máy tính Mac. Nếu bạn không thiết lập mật khẩu đăng nhập máy tính, bạn có thể bỏ qua bước này.
+- Bây giờ, thông tin đăng nhập tài khoản Facebook sẽ được hiển thị, bao gồm tên và mật khẩu đăng nhập. Bạn có thể nhấn vào biểu tượng con mắt để xem mật khẩu đã lưu.
+Cuối cùng, bạn có thể sử dụng tên đăng nhập và mật khẩu này để đăng nhập vào tài khoản Facebook của mình trên ứng dụng smartphone hoặc máy tính bảng.
+Lời kết
+2 cách thức kể trên chỉ áp dụng đối với những ai đã lưu thông tin đăng nhập tài khoản Facebook trên trình duyệt web máy tính. Nếu không tìm thấy thông tin đăng nhập trên trình duyệt web và không nhớ mật khẩu Facebook, bạn có thể nhấn vào đây để yêu cầu Facebook cấp lại mật khẩu mới cho mình.

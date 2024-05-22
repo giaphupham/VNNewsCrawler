@@ -1,0 +1,8 @@
+Theo Android Authority, AI sẽ trở thành trọng tâm tiếp theo trong cuộc chiến giữa các hãng smartphone. Mới đây, Samsung đã kết hợp với Google để tích hợp AI lên dòng sản phẩm Galaxy S24.
+Bản dựng iPhone 16 (Ảnh: MacRumors).
+Dĩ nhiên, Apple cũng sẽ không thể bỏ qua cuộc đua này. Trong một cuộc họp gần đây, CEO Tim Cook đã tiết lộ rằng công ty đang nghiên cứu các tính năng liên quan đến AI tạo sinh.
+"Đối với AI tạo sinh, chúng tôi có rất nhiều công việc đang được xử lý nội bộ. Chúng tôi luôn nỗ lực làm việc trước khi công bố bất cứ điều gì ra bên ngoài. Có một điều mà chúng tôi muốn tiết lộ là những thay đổi sẽ đến vào cuối năm nay", Cook cho biết.
+Vị CEO không cung cấp thêm bất cứ thông tin chi tiết nào về những tính năng AI mới hay những thiết bị nào được hỗ trợ. Tuy vậy, nhiều nguồn tin khẳng định iPhone sẽ là trung tâm trong nỗ lực phát triển AI của công ty.
+Trước đó, nguồn tin từ MacRumors cho biết hệ điều hành iOS 18 sẽ mang các mô hình ngôn ngữ lớn lên hàng triệu thiết bị của Apple thông qua đám mây. Trong khi đó, dòng sản phẩm iPhone 16 sẽ được trang bị một số tính năng độc quyền liên quan đến trí thông minh nhân tạo.
+Tính năng mới sẽ có sự tương tác giữa ‌Siri‌ và ứng dụng tin nhắn. AI sẽ giúp người dùng có thể phản hồi các đoạn hội thoại một cách nhanh chóng và hiệu quả hơn. Bên cạnh đó, đội ngũ cũng đang xem xét tích hợp AI vào Xcode để giúp các nhà phát triển ứng dụng lập trình nhanh hơn.
+Ngoài ra, AI còn có thể được tích hợp vào nhiều ứng dụng của Apple, chẳng hạn như tạo danh sách nhạc tự động trong Apple Music, viết báo cáo hay tạo bản thuyết trình trong Pages và Keynote.

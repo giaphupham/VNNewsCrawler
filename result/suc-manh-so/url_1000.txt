@@ -1,0 +1,7 @@
+Loại mã độc nguy hiểm này đã tấn công người dùng tại 16 quốc gia và cố gắng đánh cắp thông tin đăng nhập tài khoản của hơn 400 ngân hàng cũng như nền tảng trao đổi tiền điện tử.
+Mã độc Godfather có thể đánh cắp tiền trong tài khoản ngân hàng và nền tảng trao đổi tiền điện tử (Ảnh: PhoneArena).
+Mã độc Godfather được phát hiện lần đầu bởi ThreatFabric vào tháng 3/2021. Tuy nhiên, sau một khoảng thời gian biến mất, chúng đã được cải tiến và trở nên nguy hiểm hơn đáng kể.
+Theo đó, mã độc này nhắm mục tiêu đến 215 ứng dụng ngân hàng, 110 nền tảng trao đổi tiền điện tử và 94 ứng dụng ví điện tử.
+Những ứng dụng độc hại chứa mã độc này sẽ giả mạo các phần mềm hợp pháp, từ đó yêu cầu người dùng cấp quyền truy cập vào dịch vụ trợ năng. Sau khi nạn nhân chấp thuận yêu cầu, phần mềm độc hại có thể tự cấp tất cả các quyền mà nó cần để thực hiện hành vi nguy hiểm.
+Cụ thể, những ứng dụng độc hại đó truy cập vào tin nhắn SMS và thông báo, ghi màn hình, danh bạ, thực hiện cuộc gọi, ghi vào bộ nhớ ngoài và đọc trạng thái thiết bị.
+Để tránh bị tấn công bởi loại mã độc nguy hiểm trên, các chuyên gia tại BleepingComputer khuyên rằng người dùng chỉ nên tải xuống ứng dụng từ cửa hàng CH Play. Đồng thời, người dùng hãy đảm bảo công cụ Play Protect luôn hoạt động để có thể sớm phát hiện ra những mối nguy hiểm.

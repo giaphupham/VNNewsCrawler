@@ -1,0 +1,11 @@
+Sở Giao dịch Chứng khoán TPHCM (HoSE) vừa gửi thông báo đến các công ty chứng khoán (CTCK) kế hoạch triển khai chính thức việc chuyển đổi hệ thống giao dịch mới KRX vào ngày 2/5.
+Theo lộ trình, ngày 24/4-25/4, các CTCK kiểm tra kết nối đến HoSE. Ngày 26/4, dữ liệu cuối ngày sẽ được chuyển đổi sang hệ thống giao dịch mới của Sở. Các CTCK chủ động chuẩn bị dữ liệu để thực hiện kiểm tra chuyển đổi (Cutover Test).
+Các ngày 27/4-28/4-29/4, HoSE thực hiện chuyển đổi hệ thống giao dịch. Các CTCK chủ động có kế hoạch và thực hiện các công việc chuẩn bị để đồng bộ triển khai.
+Ngày 30/4, các CTCK thực hiện kiểm tra chuyển đổi (Cutover Test). Ngày giao dịch trên hệ thống là 2/5. Dữ liệu giao dịch là dữ liệu cuối ngày 26/4. Các CTCK kiểm tra giao dịch thông suốt trên hệ thống của mình với hệ thống mới của Sở như ngày giao dịch bình thường (không dùng phần mềm nhập lệnh tự động và thử nghiệm tình huống bất thường, không thực tế).
+Cuối ngày 30/04, dựa vào kết quả kiểm thử Cutover Test, Sở sẽ thông báo triển khai chính thức hệ thống giao dịch mới. Trong trường hợp không triển khai chính thức, các CTCK chủ động chuẩn bị hệ thống để tiếp tục giao dịch trên hệ thống giao dịch hiện tại.
+HoSE đề nghị các CTCK nghiêm túc thực hiện chuyển đổi hệ thống của mình và báo cáo Sở ngay nếu có vấn đề phát sinh trong quá trình thực hiện.
+Hệ thống KRX được dự kiến vận hành chính thức từ ngày 2/5 (Ảnh minh họa: Đăng Đức).
+Trước đó trong nửa đầu tháng 3, HoSE cũng có đợt diễn tập chuyển đổi lần 1 của hệ thống KRX đối với các CTCK.
+KRX là hệ thống công nghệ thông tin quản lý và điều hành giao dịch trên thị trường chứng khoán, được HoSE ký kết chuyển giao công nghệ với Sở Giao dịch Chứng khoán Hàn Quốc (KRX) vào năm 2012.
+Hệ thống KRX đi vào vận hành được kỳ vọng mang đến những thay đổi trên thị trường, như giao dịch trong ngày (T+0), bán khống (short selling), rút ngắn thời gian thanh toán, hợp đồng quyền chọn (option contract)...
+Từ đó, hệ thống này tạo tiền đề giải quyết các nút thắt để tiến tới được nâng hạng thị trường từ cận biên lên mới nổi như: thanh toán bù trừ trung tâm (CCP), nâng cao chất lượng cơ sở hạ tầng.

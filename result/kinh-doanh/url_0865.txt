@@ -1,0 +1,25 @@
+Albert Einstein, nhà khoa học nổi tiếng thế giới từng nói: "Lãi suất kép là kỳ quan thứ 8 của thế giới. Ai hiểu được nó từ đó sẽ kiếm được tiền, còn những ai không hiểu… sẽ phải trả giá cho nó".
+Chia sẻ về lý do giúp bản thân có thể sở hữu khối tài sản khổng lồ hàng trăm tỷ USD, tỷ phú Warren Buffett trả lời rằng: "Có 3 yếu tố quan trọng với tôi. Thứ nhất là nước Mỹ có những cơ hội tuyệt vời. Thứ hai là tôi may mắn có giống gene tốt, tôi có thể sống lâu để gia tăng khối tài sản của mình. Thứ ba là lãi suất kép, điều tuyệt vời nhất trong công cuộc đầu tư và kinh doanh của tôi".
+Mới đây, câu chuyện lãi suất kép một lần nữa được bàn luận trong sự việc Eximbank công bố văn bản cho thấy khách vay thẻ tín dụng hơn 8,5 triệu đồng sau 11 năm thành hơn 8,83 tỷ đồng nợ gốc, lãi đang gây xôn xao. Một số người đã nhắc lại khái niệm lãi suất kép và đặt câu hỏi về cách tính của ngân hàng. Vậy lãi suất kép là gì, có "sức mạnh" ra sao? 
+Lãi kép (compound interest) hiểu đơn giản là tái đầu tư lãi, nghĩa là sau khi sinh lời, lãi đó được dồn vào tiền vốn để tiếp tục cho một chu kỳ đầu tư tiếp theo.
+Lãi kép sẽ được tính dựa trên số tiền gốc cộng dồn với số tiền lãi đã thu được ở các thời kỳ trước. Chính vì vậy, điểm mấu chốt của lãi kép nằm ở thời điểm đầu tư và lãi suất. 
+Dưới đây là công thức tính lãi kép:
+T = X x (1+r)n
+Trong đó:
+T: số tiền bạn nhận ở tương lai
+X: số vốn bạn bỏ ra đầu tư ban đầu
+r: lãi suất 
+n: kỳ hạn tính lãi
+Ví dụ: Với khoản tiền ban đầu là 100 triệu đồng. Bạn gửi tiết kiệm ngân hàng với lãi suất 6%/năm thì sau 10 năm số tiền bạn nhận được sẽ là: 
+T1 = 100.000.000 x (1 + 6%)10 =  179.084.769 (đồng) 
+Còn nếu chỉ gửi tiết kiệm hằng năm lấy lãi thì số tiền lãi bạn nhận được chỉ là:
+T2 =  100.000.000 x (1+ 10 x 6%) =  160.000.000 (đồng) 
+Có thế thấy cùng số vốn nhưng lãi kép đem tới lợi nhuận hơn hẳn 19 triệu đồng so với việc chỉ tính lãi đơn. Như vậy, lãi kép là sức mạnh giúp bạn tăng thu nhập trong tương lai một cách thụ động. Nhờ sức mạnh của lãi kép, nếu đầu tư càng sớm, tài sản sẽ lớn hơn gấp nhiều lần những người bắt đầu muộn.
+Ngược lại, nếu bạn vay số tiền ban đầu là 100 triệu đồng với lãi suất 10%/ năm thì sau 10 năm số tiền bạn phải trả sẽ lên đến:
+T = 100.000.000 x (1 + 10%)^10 = 259.374.246 (đồng).
+Tuy vậy, công thức và con số trên với khoản vay chỉ là lãi suất kép được tính đơn thuần, chưa bao gồm lãi suất phạt cho việc quá hạn khoản vay và phạt trả chậm. 
+Lãi suất kép giúp bạn tăng giá trị trong tương lai (Ảnh: Miss money).
+- Bắt đầu tiết kiệm và đầu tư từ sớm: Bạn nên bắt đầu tiết kiệm sớm ngay từ bây giờ. Chỉ cần một số tiền nhỏ và kiên trì đầu tư, thì lãi kép sẽ hiệu quả giúp nhân số tiền của bạn tăng lên nhiều lần theo thời gian.
+- Lựa chọn kênh đầu tư thông minh: Lãi suất càng cao thì tiền lãi sinh ra càng lớn và việc tái đầu tư gốc cộng lãi giúp lãi kép phát huy mạnh hơn. Nhờ vậy, số tiền nhận bạn được trong tương lai cũng lớn hơn.
+- Thực hiện kiên trì và kỷ luật: Bạn nên xây dựng một kế hoạch đầu tư hay tiết kiệm đều đặn, không ngắt quãng. Bởi lãi kép chỉ xuất hiện khi gốc và lãi được tái đầu tư liên tục. Thời gian càng dài, lợi nhuận do lãi kép mang lại càng lớn. 
+- Trả nợ khoản vay đúng hạn: Trong trường hợp đi vay và bị tính lãi suất kép, để không phát sinh nợ quá hạn, phí phạt, người đi vay nên tuân thủ quy định về thời hạn trả nợ của ngân hàng. Người vay cũng cần tìm hiểu quy định của các ngân hàng về lãi suất, yêu cầu được giải thích rõ ràng cùng bảng kê dự tính gốc, lãi trước khi quyết định vay. 

@@ -1,0 +1,6 @@
+Báo cáo từ công ty nghiên cứu Moor Insights and Strategy cho biết nhân xử lý Cortex-X mà Arm chuẩn bị giới thiệu sẽ là CPU mạnh nhất dành cho điện thoại thông minh. Hiện tại, CPU này được biết đến với tên mã Blackhawk.
+Những cải tiến mới từ Arm hứa hẹn sẽ mang đến nhiều thay đổi cho những chiếc smartphone Android (Ảnh: PhoneArena).
+"Mức gia tăng hiệu suất mà bộ xử lý này mang lại sẽ lớn nhất trong 5 năm qua. CPU này cũng tích hợp mô hình ngôn ngữ lớn (LLM), hỗ trợ thúc đẩy tác vụ AI tạo sinh", báo cáo tiết lộ.
+Trong vài năm trở lại đây, bộ xử lý trên những chiếc smartphone Android đã có nhiều nâng cấp. Tuy nhiên, tốc độ xử lý đơn nhân của những con chip Arm vẫn chưa đạt được hiệu suất tối ưu so với chip silicon do Apple phát triển.
+Những cải tiến mới từ Arm hứa hẹn sẽ mang đến nhiều thay đổi cho những chiếc smartphone Android, đặc biệt là đối với dòng sản phẩm cao cấp.
+Nhiều khả năng, những nhân xử lý Blackhawk thế hệ mới sẽ được trang bị trên hai con chip MediaTek Dimensity 9400 và Samsung Exynos 2500. Trong khi đó, bộ xử lý Snapdragon 8 Gen 4 sẽ sử dụng nhân CPU Oryon do Qualcomm tùy chỉnh.

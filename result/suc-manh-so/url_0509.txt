@@ -1,0 +1,38 @@
+Theo GizChina, những ứng dụng độc hại này có khả năng giúp tin tặc giành quyền kiểm soát thiết bị của nạn nhân từ xa và cho phép tải xuống một số tệp tin cụ thể. Hiện tại, các loại mã độc này đang tập trung tấn công vào nhiều ứng dụng ngân hàng.
+Người dùng cần nhanh chóng gỡ bỏ các ứng dụng độc hại khỏi smartphone (Ảnh: GizChina).
+Các chuyên gia bảo mật tại SecneurX vừa phát hiện ra 34 ứng dụng trên cửa hàng CH Play đã bị nhiễm loại mã độc này. Danh sách chi tiết các ứng dụng độc hại bao gồm:
+- Logo Design Maker
+- Funny Emoji Keyboard
+- Animal Doodle Drawing - Joker
+- Paper Paint - Autolycos
+- Dexterity QR Scanner
+- Heart Rate Monitor
+- Fun Paint & Coloring
+- Beauty Christmas Songs
+- Epica Gamebox & Hub
+- Magic Face AI
+- Love Sticker
+- HD Screen Mirroring
+- Phone to TV
+- Photo Voice Translator
+- Effect Voice Changer
+- Quick PDF Scanner
+- Easy Voice Change
+- Fast Language Translator
+- Perfect Face Swap
+- Effects Photo Editor
+- Super Emoji Editor & Sticker
+- Blue Voice Changer
+- Cool Screen Mirroring
+- Phone Cleaner Lite
+- Digital Clock - Always display
+- Live Wallpaper - HD 3D/4D
+- Grape Camera & Photo Editor
+- Blood Glucose Recorder
+- Clever Clean - Batter Saver
+- Album Live Wallpaper & Theme
+- Shortcut Screen Mirroring
+- Mind Message
+- Advanced Cast Screen
+- Coloring Painting
+Nếu đã cài đặt các ứng dụng trên, người dùng cần nhanh chóng gỡ bỏ chúng ra khỏi thiết bị. Đồng thời, người dùng cần đảm bảo rằng tính năng Google Play Protect được kích hoạt để smartphone có thể được bảo vệ.

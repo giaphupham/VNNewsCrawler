@@ -1,0 +1,7 @@
+Apple được cho là đang nỗ lực thay đổi thiết kế giao diện người dùng trên phiên bản iOS tiếp theo. Nhiều thông tin cho rằng iOS 18 sẽ có một số yếu tố thiết kế được lấy cảm hứng từ VisionOS.
+iOS 18 sẽ có một số yếu tố thiết kế được lấy cảm hứng từ VisionOS (Ảnh: Tom's Guide).
+Những năm gần đây, các phiên bản cập nhật iOS chủ yếu tập trung sửa lỗi hệ điều hành và bổ sung thêm tính năng mới, không thay đổi giao diện. Do đó, iOS 18 được kỳ vọng sẽ trở thành một phiên bản "hấp dẫn" với nhiều cải tiến về thiết kế lẫn tính năng.
+Trước đó, nhà phân tích Jeff Pu cho biết Apple đang trong quá trình phát triển một hệ thống AI tạo sinh (Generative AI). Dự kiến, công nghệ này sẽ được tích hợp lên iPhone và iPad từ cuối năm 2024.
+"Apple sẽ kết hợp việc xử lý dữ liệu trên hệ thống đám mây và cả thiết bị của người dùng. Công ty đã xem xét cách sử dụng và xử lý dữ liệu cá nhân để phù hợp với cam kết về quyền riêng tư của khách hàng", Pu nói thêm.
+Ngoài ra, Apple cũng sẽ kết hợp các mô hình ngôn ngữ lớn vào trợ lý ảo Siri. Động thái này nhằm hỗ trợ người dùng tự động hóa các tác vụ phức tạp thông qua điều khiển bằng giọng nói. Dự kiến, iOS 18 sẽ được Apple công bố tại sự kiện WWDC 2024 diễn ra vào tháng 6 sắp tới.
+Theo Bloomberg, Apple cũng sẽ thực hiện các thay đổi về thiết kế cho hệ điều hành macOS vào năm 2025 hoặc 2026. Lần cuối nền tảng này nhận được các thay đổi về giao diện sử dụng là vào năm 2020 với bản nâng cấp macOS Big Sur.

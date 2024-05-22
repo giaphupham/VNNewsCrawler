@@ -1,0 +1,19 @@
+Những ngày gần đây, trên các nền tảng mạng xã hội tại Việt Nam tràn ngập những bức tranh vẽ được tạo ra từ ảnh chụp chân dung của người dùng. Những bức tranh vẽ này là sản phẩm của Zalo AI, một công cụ xử lý ảnh tích hợp trí tuệ nhân tạo vừa được Zalo ra mắt.
+Hàng loạt tranh vẽ chân dung tạo ra bằng Zalo AI được người dùng mạng xã hội chia sẻ những ngày gần đây.
+Zalo AI là loạt ứng dụng tích hợp trí tuệ nhân tạo (A.I) do Zalo phát triển, trong đó có tính năng xử lý và biến đổi ảnh chụp chân dung thành tranh vẽ.
+Khác với những ứng dụng biến hình ảnh thành tranh vẽ bằng A.I "gây sốt" trong thời gian gần đây, khi những công cụ này chỉ đơn thuần biến ảnh chụp thành tranh vẽ mà không giữ được nét mặt của người dùng, thì những bức tranh vẽ do Zalo AI tạo ra vẫn giữ được gương mặt của người có trong ảnh, mà khi người khác nhìn vào vẫn có thể nhận biết đó là ai.
+Một vài tác phẩm được tạo ra bởi Zalo AI từ ảnh chụp chân dung.
+Hướng dẫn tạo tranh vẽ chân dung bằng Zalo AI
+Để có thể sử dụng Zalo AI biến những bức ảnh chân dung thành tranh vẽ, bạn có thể thực hiện theo các bước sau:
+Lưu ý: Cách thức thực hiện trên smartphone chạy Android và iOS là tương tự nhau. Bài viết sẽ hướng dẫn cách thực hiện trên smartphone sử dụng nền tảng Android, người dùng iPhone có thể thực hiện theo.
+- Đầu tiên, kích hoạt ứng dụng Zalo trên smartphone.
+- Truy cập vào trang Zalo cá nhân của bạn. Nhấn vào hình ảnh đại diện, chọn "Tạo ảnh bằng Zalo AI" từ menu hiện ra.
+- Bạn nhấn vào nút "Đồng ý và tiếp tục tạo ảnh" tại giao diện hiện ra tiếp theo để cấp quyền cho Zalo AI có thể xử lý và lưu ảnh trên smartphone của bạn.
+Chọn "Chụp ảnh mới" nếu muốn chụp mới một bức ảnh chân dung và xử lý hình ảnh đó, hoặc nhấn "Chọn ảnh trên máy" nếu muốn xử lý hình ảnh có sẵn trên smartphone.
+Bạn cần phải chọn hình ảnh chân dung chụp thẳng mặt, chỉ có một người trong ảnh và gương mặt không bị che khuất để Zalo AI có thể nhận diện hình ảnh được chính xác. Trong trường hợp hình ảnh bạn chọn không thể nhận diện gương mặt, Zalo AI sẽ yêu cầu người dùng chọn lại hình ảnh mới.
+- Sau khi chọn ảnh, bạn có thể cắt lại hình ảnh nếu muốn. Nhấn dấu tích để Zalo AI bắt đầu nhận diện và xử lý bức ảnh chân dung.
+Các bước tiếp theo, người dùng chọn giới tính, độ tuổi của hình ảnh sau khi được xử lý. Dựa vào thông tin này, Zalo AI có thể tạo ra bức tranh chân dung theo đúng lứa tuổi và giới tính mà người dùng mong muốn.
+Bạn cũng có thể chọn phong cách để tạo ra bức tranh vẽ chân dung, chẳng hạn phong cách hiện đại, trẻ trung hay phong cách lịch sự…
+- Dựa vào các thông tin và phong cách do người dùng lựa chọn, Zalo AI sẽ tạo ra bức tranh chân dung với gương mặt chính là hình ảnh của bạn. Nếu cảm thấy không ưng ý, bạn có thể nhấn nút "Tạo ảnh khác" để Zalo AI tiếp tục tạo ra những bức chân dung mới.
+Nếu cảm thấy ưng ý với bức tranh chân dung đã được tạo ra, bạn có thể nhấn nút "Lưu về máy" để lưu hình ảnh về smartphone của mình hoặc sử dụng hình ảnh này để làm ảnh đại diện cho tài khoản Zalo.
+Mỗi tài khoản Zalo sẽ được cấp 50 lượt tạo tranh chân dung từ hình ảnh mỗi ngày, do vậy bạn có thể sử dụng công cụ này để tạo ra bức tranh chân dung ấn tượng cho riêng mình để chia sẻ lên mạng xã hội, bắt kịp trào lưu đang "gây sốt".

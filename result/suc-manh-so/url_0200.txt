@@ -1,0 +1,7 @@
+Nguồn tin từ MacRumors cho biết hệ điều hành iOS 18 sẽ cung cấp cho người dùng iPhone nhiều tùy chỉnh và khả năng tùy biến hơn đối với việc sắp xếp các biểu tượng ứng dụng trên màn hình chính.
+iOS 18 sẽ cung cấp thêm nhiều tùy chỉnh ở màn hình chính (Ảnh: Tom's Guide).
+Từ phiên bản iOS 16, Apple đã bắt đầu bổ sung nhiều tùy chọn cho phép người dùng thay đổi màn hình khóa trên iPhone. Do đó, công ty hoàn toàn có thể tích hợp những cải tiến mới ở phiên bản cập nhật sắp tới.
+Trước đó, trang Tom's Guide tiết lộ rằng bản cập nhật iOS 18 sẽ không giống với bất cứ phiên bản hệ điều hành nào mà Apple từng ra mắt.
+iOS 18 có thể giới thiệu một chatbot do Apple thiết kế dành riêng cho iPhone. Đây sẽ là một phiên bản cải tiến của trợ lý ảo Siri, có khả năng thực hiện nhiều tác vụ phức tạp thông qua điều khiển bằng giọng nói.
+Apple sẽ kết hợp các mô hình ngôn ngữ lớn vào trợ lý ảo Siri. Động thái này nhằm hỗ trợ người dùng tự động hóa các tác vụ phức tạp. Đơn cử, AI sẽ giúp người dùng có thể phản hồi các đoạn hội thoại một cách nhanh chóng và hiệu quả hơn.
+Ngoài ra, AI còn có thể được tích hợp vào nhiều ứng dụng của Apple, chẳng hạn như tạo danh sách nhạc tự động trong Apple Music, viết báo cáo hay tạo bản thuyết trình trong Pages và Keynote.

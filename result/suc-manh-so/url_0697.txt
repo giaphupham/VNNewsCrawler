@@ -1,0 +1,11 @@
+Nguồn tin từ nhà phân tích Jeff Pu cho biết toàn bộ dòng sản phẩm iPhone 16 sẽ được trang bị bộ xử lý mang nhãn hiệu A18. Cụ thể, hai phiên bản iPhone 16 và iPhone 16 Plus sẽ sử dụng chip A18. Trong khi đó, bộ đôi iPhone 16 Pro và iPhone 16 Pro Max sẽ được trang bị con chip A18 Pro.
+Kích thước màn hình của bộ đôi iPhone 16 Pro có thể lớn hơn so với phiên bản tiền nhiệm (Ảnh: 9to5mac).
+Những con chip này sẽ được sản xuất trên tiến trình 3nm thế hệ thứ hai (N3E) của TSMC. Thay đổi trên được kỳ vọng sẽ giúp tiết kiệm chi phí sản xuất, trong khi vẫn đảm bảo hiệu suất so với quy trình chế tạo N3B hiện tại.
+Trước đó, nhà phân tích Ross Young từ Display Supply Chain Consultants từng tiết lộ bộ đôi iPhone 16 Pro và iPhone 16 Pro Max sẽ được gia tăng màn hình lên kích thước lần lượt 6,3 inch và 6,9 inch.
+Các nguồn tin rò rỉ cho biết kích thước tổng thể của iPhone 16 Pro Max sẽ không có nhiều khác biệt về chiều rộng so với phiên bản tiền nhiệm. Thay vào đó, máy sẽ được thiết kế dài hơn để tạo cảm giác thoải mái khi cầm nắm.
+Trong khi đó, hai phiên bản iPhone 16 và iPhone 16 Plus nhiều khả năng vẫn sẽ giữ nguyên kích thước 6,1 inch và 6,7 inch như hiện nay. Đây tiếp tục được xem là một động thái nhằm phân cấp sản phẩm từ Apple.
+Hiện tại, iPhone 15 Pro Max là mẫu iPhone duy nhất được trang bị ống kính tiềm vọng cho khả năng zoom quang học 5x. Dự kiến, Apple cũng sẽ trang bị công nghệ này lên phiên bản iPhone 16 Pro vào năm tới, thay vì chỉ tích hợp cho dòng Pro Max.
+Camera trên toàn bộ dòng iPhone 16 được kỳ vọng sẽ có nhiều cải tiến quan trọng (Ảnh: MacRumors).
+Từ thế hệ iPhone 13, Apple đã sử dụng thiết kế hai ống kính đặt chéo nhau trên cụm camera của máy. Theo MacRumors, hệ thống camera sau trên dòng sản phẩm iPhone 16 sẽ được bố trí theo chiều dọc, tương tự thế hệ iPhone 12. Thay đổi này sẽ áp dụng trên hai phiên bản iPhone 16 và iPhone 16 Plus.
+Nguồn tin từ The Elec cho biết iPhone 16 Pro sẽ được trang bị công nghệ Face ID dưới màn hình.
+Cụ thể, Apple được cho là sẽ di chuyển các thành phần cần thiết để xác thực ‌Face ID‌ trực tiếp dưới màn hình của ‌iPhone‌ vào năm 2024. Khi không sử dụng, hệ thống camera TrueDepth sẽ trở nên liền mạch với khu vực màn hình xung quanh.

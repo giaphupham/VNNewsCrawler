@@ -1,0 +1,33 @@
+Nguồn tin từ PhoneArena cho biết những thiết bị hỗ trợ cập nhật iOS 17 đều sẽ được nâng cấp lên phiên bản hệ điều hành iOS 18. Theo đó, danh sách chi tiết các mẫu iPhone hỗ trợ iOS 18 bao gồm:
+- iPhone 15
+- iPhone 15 Plus
+- iPhone 15 Pro
+- iPhone 15 Pro Max
+- iPhone 14
+- iPhone 14 Plus
+- iPhone 14 Pro
+- iPhone 14 Pro Max
+- iPhone 13
+- iPhone 13 mini
+- iPhone 13 Pro
+- iPhone 13 Pro Max
+- iPhone 12
+- iPhone 12 mini
+- iPhone 12 Pro
+- iPhone 12 Pro Max
+- iPhone 11
+- iPhone 11 Pro
+- iPhone 11 Pro Max
+- iPhone XS
+- iPhone XS Max
+- iPhone XR
+- iPhone SE 2020
+- iPhone SE 2022
+Ngoài ra, dòng sản phẩm iPhone thế hệ tiếp theo bao gồm iPhone 16, iPhone 16 Plus, iPhone 16 Pro và iPhone 16 Pro Max cũng sẽ được cài đặt sẵn hệ điều hành iOS 18 khi xuất xưởng.
+Nguồn tin từ MacRumors cho biết hệ điều hành iOS 18 sẽ cung cấp cho người dùng iPhone nhiều tùy chỉnh và khả năng tùy biến hơn đối với việc sắp xếp các biểu tượng ứng dụng trên màn hình chính.
+Dự kiến, bản cập nhật iOS 18 sẽ hỗ trợ tất cả những chiếc iPhone từng được nâng cấp lên phiên bản iOS 17 trước đó (Ảnh: PhoneArena).
+Trước đó, trang Tom's Guide tiết lộ rằng bản cập nhật iOS 18 sẽ không giống với bất cứ phiên bản hệ điều hành nào mà Apple từng ra mắt.
+iOS 18 có thể giới thiệu một chatbot do Apple thiết kế dành riêng cho iPhone. Đây sẽ là một phiên bản cải tiến của trợ lý ảo Siri, có khả năng thực hiện nhiều tác vụ phức tạp thông qua điều khiển bằng giọng nói.
+Apple sẽ kết hợp các mô hình ngôn ngữ lớn vào trợ lý ảo Siri. Động thái này nhằm hỗ trợ người dùng tự động hóa các tác vụ phức tạp. Đơn cử, AI sẽ giúp người dùng có thể phản hồi các đoạn hội thoại một cách nhanh chóng và hiệu quả hơn.
+Bên cạnh iOS 18, Apple cũng sẽ phát hành bản cập nhật iPadOS 18. Dự kiến, hệ điều hành này sẽ hỗ trợ các thiết bị gồm iPad Gen (2019 trở lên), iPad Mini (2019 trở lên), iPad Air (2019 trở lên) và iPad Pro (2018 trở lên).
+Dự kiến, hai phiên bản hệ điều hành iOS 18 và iPadOS 18 sẽ được Apple giới thiệu tại sự kiện WWDC 2024, diễn ra trong khoảng thời gian ngày 10-14/6.

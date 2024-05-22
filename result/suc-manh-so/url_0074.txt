@@ -1,0 +1,26 @@
+Ngày 5/4, Câu lạc bộ Nhà báo công nghệ thông tin Việt Nam (Vietnam ICT Press Club) đã phối hợp với Hiệp hội An ninh mạng Quốc gia tổ chức tọa đàm "Phòng chống tấn công mã hóa dữ liệu tống tiền".
+Tại đây, ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ an ninh mạng Quốc gia NCS, Trưởng ban Nghiên cứu công nghệ Hiệp hội An ninh mạng Quốc gia, đã mô tả cụ thể của một cuộc tấn công mã hóa dữ liệu tống tiền.
+Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS) dự báo những cuộc tấn công mã hóa sẽ còn tiếp diễn trong tương lai (Ảnh: Cương Quyết).
+Theo đó, một cuộc tấn công mã hóa dữ liệu sẽ bao gồm 8 bước:
+1. Dò tìm
+Trước tiên, tin tặc sẽ cố gắng tìm ra lỗ hổng trên hệ thống như quét lỗ hổng website, máy chủ mail server, các lỗ hổng phần mềm. Đây thường là các lỗ hổng zero-day (lỗ hổng chưa có bản vá hoặc chưa được công bố), do đó người sử dụng và nhà sản xuất chưa biết.
+Việc tấn công thông qua lỗ hổng zero-day gần như không thể ngăn chặn. Tin tặc dò tìm lỗ hổng này thường mất vài tháng chứ không phải ngày một ngày hai. Trong thời gian tin tặc dò tìm, nếu chúng ta giám sát tốt, biết đối tượng đang dò tìm thì có thể ngăn chặn từ sớm, tránh được nguy cơ bị tấn công mã hóa dữ liệu.
+2. Xâm nhập
+Tin tặc sẽ chiếm quyền điều khiển máy chủ hoặc máy quản trị, máy người dùng. Giai đoạn này thường xảy ra rất nhanh, đôi khi chỉ diễn ra trong vài phút, nhất là qua các lỗ hổng zero-day. Giai đoạn này thường rất khó để ngăn chặn. 
+3. Nằm vùng
+Đây là bước rất quan trọng với hacker cũng như đội ngũ quản trị hệ thống. Bước này thường kéo dài 3-6 tháng. Nếu có khả năng giám sát, phát hiện ra trong giai đoạn này thì cũng có thể ngăn chặn được.
+Việc nằm vùng giúp hacker thu thập thông tin, xác định mục tiêu quan trọng. Có 3 mục tiêu hacker nhắm tới, là dữ liệu quan trọng nằm ở đâu, hệ thống quản trị người dùng như thế nào, nhiệm vụ của các hệ thống CNTT trong tổ chức, doanh nghiệp đó là gì.
+4. Mã hóa
+Lúc này, hacker sẽ chạy các công cụ mã hóa. Người dùng mã hóa dữ liệu như thế nào thì hacker cũng dùng công cụ như thế để mã hóa. Đây có thể là công cụ công khai hoặc đã tùy biến để mã hóa nhanh hơn.
+5. Dọn dẹp
+Trước khi chúng ta tìm ra hacker, họ đã kịp xóa toàn bộ các dữ liệu truy cập. Việc này rất quan trọng với hacker bởi các hệ thống thường lưu trữ log truy cập. Các hacker có thể tìm xem hệ thống lưu trữ log ở đâu, dọn dẹp log truy cập để xóa dấu vết. Sau khi dọn dẹp xong mới bắt đầu đòi tiền.
+6. Tống tiền
+Đến đây, tin tặc sẽ yêu cầu trả tiền để có chìa khóa mở dữ liệu. Thông thường, hacker sẽ để luôn khóa trên hệ thống của nạn nhân, rồi mã hóa luôn cái khóa đó. Hacker sẽ đóng gói toàn bộ khóa vào một cái hộp. Khi trả tiền, hacker sẽ đưa mật mã mở hộp đó ra để lấy khóa.
+7. Rửa tiền
+Hiện nay, giới tin tặc thường lựa chọn hình thức thanh toán bằng tiền điện tử để che giấu hành vi phạm tội.
+8. Lặp lại cuộc tấn công
+Hacker có thể lặp lại việc tấn công với các nạn nhân khác hoặc với chính nạn nhân đó. Khi lấy được tiền lần đầu, tin tặc sẽ biết được nạn nhân có khả năng chi trả.
+Hacker có thể quay lại tấn công với danh nghĩa nhóm này hay nhóm khác. Đây là hình thức tấn công mang tính triệt hạ. Nạn nhân vừa mất tiền mà vừa trở thành mục tiêu liên tục của các đối tượng xấu.
+Ngày 6/4, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã công bố "Cẩm nang phòng chống, giảm thiểu rủi ro từ tấn công ransomware" (Ảnh minh họa).
+Trước thực trạng các cuộc tấn công mã hóa dữ liệu tống tiền đang gia tăng tại Việt Nam, ngày 6/4, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã công bố "Cẩm nang phòng chống, giảm thiểu rủi ro từ tấn công ransomware".
+Cẩm nang này sẽ là tài liệu hữu ích giúp cho các cơ quan, tổ chức, doanh nghiệp chủ động phòng tránh và bảo vệ hệ thống thông tin quan trọng của đơn vị trước các nguy cơ tấn công mạng tiềm ẩn.

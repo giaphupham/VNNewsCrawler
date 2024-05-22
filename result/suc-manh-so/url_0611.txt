@@ -1,0 +1,7 @@
+Yêu cầu trên đã gây ra không ít khó khăn đối với các nhà cung ứng. Việc sản xuất màn hình với viền mỏng hơn sẽ cần ứng dụng công nghệ BRS (Border Reduction Structure) để giấu các mạch điện bên dưới viền.
+Màn hình trên iPhone 16 sẽ có kích thước viền mỏng hơn so với thế hệ tiền nhiệm (Ảnh: 9to5mac).
+Hiện tại, viền trên và cạnh bên của iPhone có thể được làm mỏng hơn mà không gặp sự cố, trong khi việc thu nhỏ viền dưới lại gặp khó khăn do vấn đề tản nhiệt.
+Để giải quyết các vấn đề liên quan đến tản nhiệt, hệ thống dây điện ở cạnh dưới sẽ cần phải thực hiện một số thay đổi về kỹ thuật. Đến nay, chưa có nhà cung cấp nào có thể sản xuất màn hình đạt được yêu cầu từ Apple. Chưa rõ sự cố trên ảnh hưởng ra sao đến hoạt động sản xuất iPhone 16.
+Trước đó, nguồn tin từ MacRumors cho biết bộ đôi iPhone 16 Pro và iPhone 16 Pro Max sẽ được gia tăng kích thước màn hình lên lần lượt 6,3 inch và 6,9 inch. Nhiều khả năng, hai phiên bản iPhone 16 tiêu chuẩn cũng sẽ sở hữu kích thước tương tự.
+Dự kiến, iPhone 16 Pro và iPhone 16 Pro Max sẽ được trang bị bộ xử lý A18 Pro. Trong khi đó, hai phiên bản tiêu chuẩn sẽ sử dụng chip A18 với một số cắt giảm.
+Tuy nhiên, iPhone 16 và iPhone 16 Plus tiêu chuẩn sẽ được nâng cấp lên dung lượng RAM 8GB, tương đương với hai mẫu Pro và Pro Max. Đây được xem là một cải tiến quan trọng, hứa hẹn sẽ cải thiện hiệu suất đa nhiệm của máy.

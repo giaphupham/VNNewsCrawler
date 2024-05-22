@@ -1,0 +1,25 @@
+Như Dân trí đã đưa tin, trong ngày 2/4, nhiều kênh Youtube có lượng người theo dõi lớn tại Việt Nam, bao gồm Mixi Gaming (hơn 7,33 triệu lượt theo dõi), Quang Linh Vlogs (hơn 3,82 triệu người theo dõi) hay Thế Nhân Vlogs (hơn 1,21 triệu người theo dõi)… đã đồng loạt bị hacker tấn công, chiếm quyền kiểm soát.
+Sau khi cướp được những kênh Youtube này, tin tặc đã lập tức đổi tên các kênh thành Ripple, một hệ thống thanh toán sử dụng công nghệ blockchain, đồng thời thay đổi ảnh bìa và ảnh đại diện thành hình ảnh của Ripple. Thậm chí, tin tặc còn phát video trực tiếp trên các kênh này để quảng bá về một loại tiền điện tử.
+Sau hơn một ngày, hiện tại các Youtuber đã giành lại được kênh của mình, nhưng vẫn có những thiệt hại nhất định.
+Kênh Youtube của Quang Linh Vlogs đã phục hồi lại trạng thái như trước khi bị hack (Ảnh chụp màn hình).
+Đầu tiên phải kể đến kênh Youtube của streamer Phùng Thanh Độ (được biết đến với biệt danh Độ Mixi). Theo đó, streamer này đã giành lại được kênh Youtube của mình vào tối 2/4, nhưng sau đó kênh Youtube một lần nữa bị mất quyền kiểm soát và tiếp tục bị đổi tên thành Microstrategy US.
+Đến thời điểm hiện tại, Độ Mixi đã giành lại quyền kiểm soát kênh Youtube của mình và phục hồi các nội dung trên kênh như trước đây.
+Dù đã lấy lại được kênh Youtube, Độ Mixi cũng chịu thiệt hại khá nghiêm trọng khi lượng người đăng ký của kênh này đã sụt giảm gần 50 ngàn so với trước khi sự cố xảy ra. Hiện lượng người đăng ký kênh Youtube của Độ Mixi bị giảm xuống còn 7,29 triệu.
+Tương tự, Youtuber Quang Linh Vlogs (tên thật Phạm Quang Linh) cũng đã lấy lại được kênh Youtube của mình. Ngoài kênh Youtube chính, Quang Linh Vlogs cũng lấy lại được một kênh Youtube khác cùng chung hệ thống đó là "Thế Nhân Vlogs".
+Tuy nhiên, một kênh Youtube chung hệ thống với Quang Linh Vlogs và có hơn 810 ngàn người theo dõi là "Đông Paulo Vlogs - Cuộc sống ở Châu Phi" đã không thể phục hồi được và bị xóa vĩnh viễn.
+Chia sẻ trên trang Facebook chính thức của mình, Quang Linh Vlogs cho biết tin tặc đã tấn công vào tài khoản email quản lý của các kênh Youtube và chiếm quyền kiểm soát các kênh này.
+Hiện Quang Linh Vlogs đang liên hệ trực tiếp với Youtube để tìm cách phục hồi lại kênh "Đông Paulo Vlogs - Cuộc sống ở Châu Phi".
+Những lưu ý để bảo vệ tài khoản email, mạng xã hội được an toàn
+Từ sự việc xảy ra cho thấy ngay cả những kênh Youtube lớn, được tổ chức quy củ và quản lý bởi một đội ngũ nhiều nhân sự cũng có thể bị hacker tấn công, chiếm quyền điều khiển.
+Do vậy, với người dùng cá nhân thông thường, việc tài khoản email hay mạng xã hội bị tin tặc tấn công và chiếm đoạt có thể xảy ra bất cứ lúc nào.
+Ngoại trừ việc tin tặc khai thác các lỗ hổng bảo mật của dịch vụ email, mạng xã hội hoặc các phần mềm, người dùng hoàn toàn có thể bảo vệ an toàn cho các tài khoản trực tuyến của mình nếu nắm rõ các quy tắc an toàn và bảo mật.
+Dưới đây là một vài điều người dùng cần biết để bảo vệ an toàn cho tài khoản email, mạng xã hội của mình, tránh bị hacker tấn công, chiếm đoạt:
+- Kích hoạt tính năng bảo mật 2 lớp trên tài khoản email và mạng xã hội.
+- Các tài khoản mạng xã hội và email luôn có tính năng đăng ký tài khoản sao lưu. Người dùng có thể thiết lập tài khoản sao lưu để sử dụng trong trường hợp quên mật khẩu hoặc tài khoản bị chiếm đoạt.
+- Hạn chế đăng nhập tài khoản email, mạng xã hội vào các thiết bị lạ, các thiết bị công cộng sử dụng chung bởi nhiều người.
+- Tuyệt đối không kích vào các đường link lạ được gửi đến thông qua email hoặc qua các tin nhắn hoặc các đường link được chia sẻ lên mạng xã hội.
+- Trong trường hợp truy cập vào các trang web lạ yêu cầu người dùng điền tài khoản email hoặc mạng xã hội để đăng nhập, hãy kiểm tra kỹ trang web và nên bỏ qua bước đăng nhập trong trường hợp trang web không đáng tin cậy.
+- Tuyệt đối không tải và mở các file đính kèm được gửi đến email hoặc mạng xã hội từ người lạ, tránh trường hợp bị nhiễm mã độc vào thiết bị, giúp tin tặc có thể chiếm các tài khoản trực tuyến.
+- Không sử dụng các phần mềm crack (phần mềm lậu) download từ internet. Các bản phần mềm crack thường chứa các loại virus, mã độc để lấy cắp dữ liệu hoặc tài khoản trực tuyến lưu trên máy tính.
+- Nếu không có các kiến thức chuyên sâu về bảo mật và công nghệ, người dùng nên cài đặt và sử dụng các phần mềm bảo mật, diệt virus trên máy tính để bảo đảm an toàn. Hiện phiên bản Windows 11 đã được tích hợp sẵn phần mềm bảo mật Windows Defender nên người dùng cũng có thể an tâm phần nào.
+- Thường xuyên cập nhật phiên bản mới của hệ điều hành và các phần mềm, giúp vá lại kịp thời các lỗ hổng bảo mật mà tin tặc có thể tìm thấy và khai thác để tấn công người dùng.

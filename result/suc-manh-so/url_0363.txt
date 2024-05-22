@@ -1,0 +1,12 @@
+Để khai thác Bitcoin, các thợ đào sẽ cần sử dụng sức mạnh tính toán của máy tính để giải các bài toán phức tạp, từ đó thực hiện quá trình xác nhận và ghi chép các giao dịch trên mạng lưới blockchain. Phần thưởng cho quá trình này chính là các Bitcoin mới được tạo ra.
+Bitcoin halving là quá trình giảm một nửa phần thưởng khối dành cho các thợ đào Bitcoin (Ảnh: CNBC).
+Bitcoin halving là một sự kiện quan trọng, liên quan đến việc giảm một nửa phần thưởng khối dành cho các thợ đào Bitcoin. Bitcoin halving sẽ diễn ra sau mỗi 210.000 khối được thêm vào mạng lưới (tương đương khoảng thời gian 4 năm).
+Cơ chế này được tạo ra bởi Satoshi Nakamoto (một nhân vật hoặc tổ chức ẩn danh đã sáng tạo ra Bitcoin), nhằm làm giảm tỷ lệ lạm phát của Bitcoin theo thời gian.
+Ngay từ ban đầu, Bitcoin được thiết kế với nguồn cung giới hạn 21 triệu token. Đến nay, khoảng 19 triệu Bitcoin đã được "đào". Quá trình "đào" Bitcoin sẽ chấm dứt khi tổng số Bitcoin khai thác được đạt đến mức 21 triệu.
+Cơ chế giảm phát trên được sinh ra nhằm làm giảm số lượng Bitcoin khai thác được theo thời gian, từ đó khiến Bitcoin trở nên khan hiếm và đắt hơn.
+Theo Reuters, sự kiện Bitcoin halving có tác động mạnh mẽ đối với các thợ đào và toàn bộ ngành công nghiệp tiền điện tử. Các thợ đào sẽ phải thích nghi với cơ chế trả phần thưởng mới sau Bitcoin halving để hoạt động có lãi. Điều này làm tăng sự cạnh tranh và loại bỏ những thợ đào kém năng suất.
+Kể từ khi ra mắt vào năm 2009, Bitcoin đã trải qua 3 lần halving. Lần halving đầu tiên diễn ra vào ngày 28/11/2012. Lần thứ hai diễn ra vào ngày 9/7/2016. Lần gần đây nhất xảy ra vào ngày 11/5/2020.
+Quá trình khai thác Bitcoin sẽ ngày càng khó khăn hơn sau halving (Ảnh: SCMP).
+Thời gian diễn ra quá trình halving sẽ không cố định bởi điều này phụ thuộc vào tốc độ khai thác của các thợ đào trên mạng lưới của Bitcoin. Dự kiến, lần halving tiếp theo của Bitcoin sẽ diễn ra vào nửa cuối tháng 4 sắp tới.
+Sự kiện Bitcoin halving cũng đóng vai trò rất quan trọng đối với hầu hết các nhà đầu tư trong thị trường tiền điện tử. Trong quá khứ, giá Bitcoin luôn biến động theo chu kỳ khoảng 4 năm một lần. Thông thường, Bitcoin sẽ đạt mức giá cao nhất mọi thời đại, sau đó sẽ có một đợt điều chỉnh lớn. 
+Tiếp theo là một năm sụt giảm mạnh và năm sau đó sẽ hồi phục nhẹ. Sau đó, quá trình halving sẽ diễn ra. Quá trình Bitcoin halving thường sẽ diễn ra một năm trước chu kỳ tăng giá. Điều này tiếp tục được lặp lại trong các chu kỳ sau đó.

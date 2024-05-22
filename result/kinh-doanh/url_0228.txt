@@ -1,0 +1,8 @@
+Tổng công ty Dầu Việt Nam - Công ty cổ phần (PV Oil) vừa phát đi thông cáo về việc gián đoạn tất cả hệ thống thông tin. 
+Cụ thể, vào 0h ngày 2/4, hệ thống công nghệ thông tin của PV Oil bị tấn công bất hợp pháp có chủ đích theo hình thức mã hóa dữ liệu (ransomware). Hậu quả là tất cả hệ thống PV Oil Easy, PV Oil B2B, hóa đơn điện tử, email, cổng thông tin PV Oil... ngừng hoạt động.
+Vì vậy, việc phát hành hóa đơn điện tử phục vụ việc bán hàng của PV Oil tạm thời không thể thực hiện được. Công ty này cho biết đã có văn bản báo cáo các cơ quan chức năng và đang tích cực xử lý nhằm khắc phục sự cố trên trong thời gian sớm nhất.
+(Ảnh chụp màn hình).
+Trong thời gian khắc phục sự cố, để đảm bảo cung cấp xăng dầu - mặt hàng thiết yếu, không thể gián đoạn nguồn cung cho thị trường - PV Oil và các đơn vị thành viên vẫn tiếp tục thực hiện bán hàng cho các khách hàng, tuy nhiên không thể phát hành được hóa đơn điện tử.
+Thay vào đó, hóa đơn được ghi chép theo hình thức thủ công và sẽ bổ sung dữ liệu sau khi các hệ thống được khắc phục. Phiếu xuất kho kiêm vận chuyển nội bộ và chỉ thực hiện phiếu xuất kho để phục vụ hàng đi trên đường bao gồm đầy đủ các thông tin cần thiết.
+Sau khi hệ thống được khắc phục hoạt động trở lại bình thường, PV Oil sẽ phát hành hóa đơn điện tử, phiếu xuất kho kiêm vận chuyển nội bộ và thực hiện các thủ tục khác theo đúng quy định hiện hành.
+Trước đó, VNDirect, Bảo hiểm PTI cũng bị hacker tấn công hệ thống vào ngày 24/3. Phải mất khoảng một tuần sau, hệ thống của VNDirect mới vận hành bình thường trở lại. Đến ngày 1/4, không ít nhà đầu tư vẫn cho biết chưa hoàn toàn thực hiện các giao dịch trên hệ thống, lỗi sai giá cổ phiếu trên tài khoản tại VNDirect vẫn xảy ra. 
