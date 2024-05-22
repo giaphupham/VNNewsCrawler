@@ -68,9 +68,6 @@ class VNExpressCrawler(BaseCrawler):
             return False
 
         with open(output_fpath, "w", encoding="utf-8") as file:
-            file.write(title + "\n")
-            for p in description:
-                file.write(p + "\n")
             for p in paragraphs:                     
                 file.write(p + "\n")
 

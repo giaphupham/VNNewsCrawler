@@ -1,9 +1,0 @@
-Giáo viên robot đầu tiên của Ấn Độ 
-Một trường học ở bang Kerala triển khai giáo viên robot đầu tiên, trang bị công nghệ trí tuệ nhân tạo (AI), nhằm cách mạng hóa giáo dục.
-Trường trung học phổ thông KTCT ở thành phố Thiruvananthapuram, bang Kerala, gần đây triển khai Iris, một robot hình người, vào giảng dạy tại lớp học.
-Iris là giáo viên robot đầu tiên tại Ấn Độ, được trang bị trí tuệ nhân tạo (AI), do tập đoàn công nghệ giáo dục Makerlabs Edutech phát triển.
-"Chúng tôi muốn khởi đầu cuộc cách mạng giáo dục bằng cách khai thác năng lực AI, cách mạng hóa các phương pháp giảng dạy truyền thống, nâng cao và cá nhân hóa trải nghiệm học tập cho học sinh", tập đoàn Makerlabs ngày 6/3 cho hay.
-Robot Iris có khả năng tương tác cao, nói được ba ngôn ngữ, gồm tiếng Anh, tiếng Hindi và tiếng Malayalam, cũng có thể giải quyết các câu hỏi, phép tính phức tạp và xây dựng giáo án riêng cho từng học sinh. Iris được lập trình để ngăn chặn những nội dung không phù hợp như ma túy, bạo lực.
-Trong video tiết học đầu tiên, Iris di chuyển bằng bánh xe, tương tác với học sinh. Các em thích thú đến mức không ai vắng mặt trong tiết học.
-India Today đánh giá Iris là một "tài sản vô giá" trong lớp học. NDTV nhận xét Iris đánh dấu sự chuyển mình trong giáo dục của Kerala, bang từ lâu nổi tiếng với chính sách thúc đẩy đổi mới giáo dục ở Ấn Độ. Các nhà phát triển đang nỗ lực mở rộng khả năng ngôn ngữ của Iris lên 20 thứ tiếng.
-Đức Trung (Theo India Today, NDTV, Hindustan Times)
